@@ -1,0 +1,22 @@
+{
+  "name": "pokecardmatome",
+  "version": "1.0.0",
+  "description": "ポケモンカード（ポケカ）の抽選・予約・新弾・再販・大会のニュースを集めてまとめる静的サイト",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "collect": "node scripts/collect.mjs",
+    "pages": "node scripts/render-pages.mjs",
+    "icons": "node scripts/make-icons.mjs",
+    "test": "node --test scripts/test/*.test.mjs",
+    "start": "npm run build && node server.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "^0.24.2",
+    "sharp": "^0.33.5"
+  }
+}

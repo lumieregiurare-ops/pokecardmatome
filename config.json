@@ -1,0 +1,213 @@
+{
+  "port": 3290,
+  "host": "127.0.0.1",
+  "watchdogMinutes": 15,
+  "maxArticleAgeDays": 7,
+
+  "site": {
+    "title": "ポケカ速報",
+    "tagline": "ポケモンカードの抽選・予約・新弾・再販・大会のニュースを、あちこちから集めてまとめています。",
+    "url": "https://pokecardmatome.gamelab.website/",
+    "gaId": "",
+    "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
+  },
+
+  "note_sisters": "sisterSites はフッターの「運営サイト」に並べるリンク。",
+  "sisterSites": [
+    { "name": "GameLab Radar", "url": "https://gamelab.website/" },
+    { "name": "ポケモン速報", "url": "https://pokematome.gamelab.website/" },
+    { "name": "アニメ速報", "url": "https://animematome.gamelab.website/" },
+    { "name": "モンハン速報", "url": "https://mhmatome.gamelab.website/" },
+    { "name": "AI matomechatter", "url": "https://aimatome.gamelab.website/" },
+    { "name": "ちいかわ速報", "url": "https://chiikawamatome.gamelab.website/" },
+    { "name": "なろう系まとめ", "url": "https://naroumatome.gamelab.website/" },
+    { "name": "急上昇動画ウォッチャー", "url": "https://trend.gamelab.website/" }
+  ],
+
+  "note_pages": "pages は検索エンジン向けの静的ページの文言。series は /<slug>/、genres は /news/<slug>/（path があればそちら。キーはそれぞれ series・categories の id）。",
+  "pages": {
+    "googleSiteVerification": "",
+    "topic": "ポケカ",
+    "themeColor": "#0d0e10",
+    "series": {
+      "tcg": { "slug": "tcg", "title": "ポケモンカードゲーム（紙のポケカ）の最新ニュース", "desc": "紙のポケモンカードゲームの新弾・拡張パック・再販・抽選・大会のニュースをまとめています。" },
+      "pocket": { "slug": "pocket", "title": "ポケポケ（Pokémon TCG Pocket）の最新ニュース", "desc": "スマホアプリ「ポケポケ」の新パック・イベント・アップデート・デッキのニュースをまとめています。" },
+      "global": { "slug": "global", "title": "ポケカ海外版・ポケモンTCGの最新ニュース", "desc": "海外版のポケモンカード（英語版など）やポケモンTCGの世界大会のニュースをまとめています。" }
+    },
+    "genres": {
+      "lottery": { "slug": "lottery", "path": "/lottery/", "title": "ポケカの抽選・予約情報", "desc": "ポケモンカードの抽選販売・予約受付のニュースをまとめています。ポケモンセンター・家電量販店・コンビニなどの受付情報を新しい順に載せています。" },
+      "restock": { "slug": "restock", "title": "ポケカの再販・入荷情報", "desc": "ポケモンカードの再販・再入荷・追加生産のニュースをまとめています。" },
+      "release": { "slug": "release", "title": "ポケカの新弾・新商品情報", "desc": "ポケモンカードの拡張パック・強化拡張パック・スターターデッキなどの新商品と発売日のニュースをまとめています。" },
+      "reveal": { "slug": "reveal", "title": "ポケカの新カード・収録カード情報", "desc": "ポケモンカードの新カード公開・収録カードリスト・レアリティのニュースをまとめています。" },
+      "event": { "slug": "event", "title": "ポケカの大会・イベント情報", "desc": "チャンピオンズリーグ・シティリーグ・ジムバトル・世界大会など、ポケモンカードの大会とイベントのニュースをまとめています。" },
+      "promo": { "slug": "promo", "title": "ポケカのプロモカード・キャンペーン情報", "desc": "ポケモンカードのプロモカード配布・購入特典・キャンペーンのニュースをまとめています。" },
+      "market": { "slug": "market", "title": "ポケカの相場・買取・市場のニュース", "desc": "ポケモンカードの相場・買取価格・高騰・転売対策のニュースをまとめています。" },
+      "deck": { "slug": "deck", "title": "ポケカのデッキ・環境・攻略情報", "desc": "ポケモンカードのデッキレシピ・環境・構築・ルール変更のニュースをまとめています。" },
+      "caution": { "slug": "caution", "title": "ポケカの注意喚起・事件のニュース", "desc": "ポケモンカードの偽物・詐欺・盗難・販売トラブル・規制など、注意しておきたいニュースをまとめています。" },
+      "goods": { "slug": "goods", "title": "ポケカのサプライ・グッズ・コラボ情報", "desc": "ポケモンカードのスリーブ・デッキケースなどのサプライ、グッズ・コラボのニュースをまとめています。" }
+    },
+    "placeholder": {
+      "colors": ["#1b1d21", "#1e2024", "#202227", "#1a1c20"]
+    }
+  },
+
+  "note_feeds": "総合フィードは、ポケカに関係するものだけを残す（keywords で判定）。always: true のものは判定せずにすべて載せる。",
+  "feeds": [
+    { "name": "ポケモンカードチャンネル", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCysOBNRW0rEmLtFptj1TN7A", "kind": "official", "always": true },
+    { "name": "4Gamer", "url": "https://www.4gamer.net/rss/index.xml" },
+    { "name": "Game*Spark", "url": "https://www.gamespark.jp/rss20/index.rdf" },
+    { "name": "インサイド", "url": "https://www.inside-games.jp/rss20/index.rdf" },
+    { "name": "電ファミニコゲーマー", "url": "https://news.denfaminicogamer.jp/feed" },
+    { "name": "AUTOMATON", "url": "https://automaton-media.com/feed/" },
+    { "name": "GAME Watch", "url": "https://game.watch.impress.co.jp/data/rss/1.0/gmw/feed.rdf" },
+    { "name": "IGN Japan", "url": "https://jp.ign.com/feed.xml" },
+    { "name": "電撃ホビーウェブ", "url": "https://hobby.dengeki.com/feed/" },
+    { "name": "ねとらぼ", "url": "https://rss.itmedia.co.jp/rss/2.0/netlab.xml" },
+    { "name": "PR TIMES", "url": "https://prtimes.jp/index.rdf" }
+  ],
+
+  "note_pageLists": "RSS の無いページから、見出しとリンクだけを拾う。linkPattern に当たる <a> を記事とみなす。公式サイトの作りが変わると 0 件になるだけで、ほかの収集は止まらない。",
+  "pageLists": [
+    { "name": "ポケモンカードゲーム公式", "url": "https://www.pokemon-card.com/info/", "linkPattern": "/info/(?:\\d{4}/)?\\d{8}_\\d+\\.html|/info/\\d{6}\\.html", "kind": "official", "always": true, "max": 30 }
+  ],
+
+  "googleNews": {
+    "enabled": true,
+    "within": "3d",
+    "perQuery": 40,
+    "queries": [
+      "ポケモンカード",
+      "ポケカ",
+      "ポケカ 抽選",
+      "ポケモンカード 抽選販売",
+      "ポケカ 予約",
+      "ポケカ 再販",
+      "ポケカ 入荷",
+      "ポケモンカード 新弾",
+      "ポケモンカード 拡張パック",
+      "ポケカ 新カード",
+      "ポケモンカード 大会",
+      "ポケカ プロモ",
+      "ポケカ 相場",
+      "ポケポケ",
+      "ポケモンセンター ポケカ",
+      "site:pokemon-card.com"
+    ]
+  },
+
+  "keywords": [
+    "ポケカ",
+    "ポケモンカード",
+    "ポケポケ",
+    "Pok[eé]mon\\s?(?:TCG|Trading Card|カード)",
+    "ポケモンTCG",
+    "拡張パック",
+    "ハイクラスパック",
+    "スターターデッキ",
+    "チャンピオンズリーグ",
+    "シティリーグ",
+    "ジムバトル",
+    "ポケモンカードゲーム"
+  ],
+
+  "note_series": "series は「どのゲームの話か」。どれにも当たらなければ tcg（紙のポケカ）にする。",
+  "series": [
+    { "id": "tcg", "label": "ポケカ", "keywords": [] },
+    { "id": "pocket", "label": "ポケポケ", "keywords": ["ポケポケ", "TCG\\s?Pocket", "Trading Card Game Pocket", "ポケモンカードアプリ"] },
+    { "id": "global", "label": "海外", "keywords": ["海外版", "英語版", "中国版", "韓国版", "北米", "欧州", "TCG\\s?Live", "TCGライブ", "世界大会", "\\bWCS\\b", "ワールドチャンピオンシップス"] }
+  ],
+  "defaultSeries": "tcg",
+
+  "categories": [
+    { "id": "lottery", "label": "抽選・予約", "keywords": ["抽選", "予約", "応募", "当選", "落選", "受付", "エントリー", "先着", "整理券", "販売方法", "販売について", "販売のご案内", "購入方法"] },
+    { "id": "restock", "label": "再販・入荷", "keywords": ["再販", "再入荷", "入荷", "再生産", "追加生産", "在庫", "出荷"] },
+    { "id": "release", "label": "新弾・新商品", "keywords": ["新弾", "新商品", "発売", "拡張パック", "ハイクラスパック", "スターター", "スペシャルセット", "スペシャルBOX", "デッキビルド", "プレミアム.{0,6}(?:BOX|ボックス|セット)", "商品化", "最新弾", "新パック"] },
+    { "id": "reveal", "label": "新カード", "keywords": ["新カード", "カード公開", "収録カード", "初公開", "公開カード", "カードリスト", "\\bSAR\\b", "\\bAR\\b", "\\bUR\\b", "\\bSR\\b", "レアリティ", "封入率", "当たり"] },
+    { "id": "event", "label": "大会・イベント", "keywords": ["大会", "チャンピオンズリーグ", "シティリーグ", "ジムバトル", "世界大会", "\\bWCS\\b", "\\bCL\\d{0,4}\\b", "イベント", "体験会", "優勝", "ライブビューイング", "トレーナーズリーグ", "教室", "交流会", "出展", "展示", "ブース"] },
+    { "id": "promo", "label": "プロモ・特典", "keywords": ["プロモ", "キャンペーン", "配布", "特典", "もらえる", "プレゼント", "購入者"] },
+    { "id": "market", "label": "相場・買取", "keywords": ["相場", "買取", "高騰", "値段", "転売", "急落", "値下がり", "高額", "オークション", "メルカリ", "フリマ", "ヤフオク", "鑑定", "\\bPSA\\b", "手数料", "取扱高", "売れ筋", "爆買い"] },
+    { "id": "deck", "label": "デッキ・攻略", "keywords": ["デッキ", "環境", "構築", "レシピ", "\\bTier\\b", "最強", "採用", "レギュレーション", "殿堂", "禁止カード", "ルール", "攻略", "おすすめ", "入手方法", "ミッション", "一覧【ポケモンカードアプリ】"] },
+    { "id": "caution", "label": "注意喚起・事件", "keywords": ["偽物", "偽造", "詐欺", "窃盗", "盗難", "盗ま", "逮捕", "強盗", "トラブル", "暴力", "規制", "出品禁止", "注意喚起", "販売中止", "購入制限"] },
+    { "id": "goods", "label": "サプライ・グッズ", "keywords": ["スリーブ", "デッキケース", "プレイマット", "サプライ", "グッズ", "コラボ", "ぬいぐるみ", "ファイル"] }
+  ],
+  "fallbackCategory": { "id": "other", "label": "その他" },
+
+  "note_stores": "抽選・予約の受付先。見出し・要約にこの語が出てきたら、その店の情報として扱う（抽選ボードと /store/<id>/ のページ）。",
+  "stores": [
+    { "id": "pokemoncenter", "label": "ポケモンセンター", "keywords": ["ポケモンセンター", "ポケセン", "Pok[eé]mon Center"] },
+    { "id": "amazon", "label": "Amazon", "keywords": ["Amazon", "アマゾン"] },
+    { "id": "yodobashi", "label": "ヨドバシカメラ", "keywords": ["ヨドバシ"] },
+    { "id": "biccamera", "label": "ビックカメラ", "keywords": ["ビックカメラ", "ビック・?カメラ", "コジマ"] },
+    { "id": "yamada", "label": "ヤマダデンキ", "keywords": ["ヤマダ電機", "ヤマダデンキ", "ヤマダウェブコム"] },
+    { "id": "joshin", "label": "ジョーシン", "keywords": ["ジョーシン", "Joshin", "上新電機"] },
+    { "id": "edion", "label": "エディオン", "keywords": ["エディオン", "EDION"] },
+    { "id": "ksdenki", "label": "ケーズデンキ", "keywords": ["ケーズデンキ", "ケーズ電機"] },
+    { "id": "nojima", "label": "ノジマ", "keywords": ["ノジマ"] },
+    { "id": "aeon", "label": "イオン", "keywords": ["(?<![ァ-ヴー])イオン(?!モール|シネマ)", "AEON"] },
+    { "id": "itoyokado", "label": "イトーヨーカドー", "keywords": ["イトーヨーカドー", "ヨーカドー"] },
+    { "id": "sevennet", "label": "セブンネット・セブン-イレブン", "keywords": ["セブンネット", "セブン-?イレブン", "7net"] },
+    { "id": "lawson", "label": "ローソン・HMV", "keywords": ["ローソン", "\\bHMV\\b"] },
+    { "id": "familymart", "label": "ファミリーマート", "keywords": ["ファミリーマート", "ファミマ"] },
+    { "id": "toysrus", "label": "トイザらス", "keywords": ["トイザらス", "トイザラス"] },
+    { "id": "rakuten", "label": "楽天ブックス", "keywords": ["楽天ブックス", "楽天市場"] },
+    { "id": "tsutaya", "label": "TSUTAYA", "keywords": ["TSUTAYA", "ツタヤ"] },
+    { "id": "geo", "label": "ゲオ", "keywords": ["(?<![ァ-ヴー])ゲオ(?![ァ-ヴー])", "\\bGEO\\b"] },
+    { "id": "donki", "label": "ドン・キホーテ", "keywords": ["ドン・?キホーテ", "ドンキ"] },
+    { "id": "cardshop", "label": "カードショップ", "keywords": ["カードショップ", "イエローサブマリン", "カードラボ", "c-labo", "晴れる屋", "ホビーステーション", "hbst\\.net", "ドラゴンスター", "カードボックス", "ふるいち"] }
+  ],
+
+  "note_official": "このドメインの記事は公式の発表として扱う（印を付け、件数制限をかけない）。",
+  "officialHosts": ["pokemon-card.com", "pokemon.co.jp", "pokemoncenter-online.com"],
+
+  "note_caps": "同じ媒体・同じ型の見出しが大量に流れてくるのを抑える。host は記事の媒体ドメイン、pattern は見出しの正規表現。新しいものから max 件だけ残す。",
+  "caps": [
+    { "host": "snkrdunk.com", "max": 14 },
+    { "host": "gamewith.jp", "max": 10 },
+    { "pattern": "買取.{0,4}相場価格と値段推移|買取価格と最新相場|最新相場情報や値段の推移", "max": 6 },
+    { "pattern": "デッキのレシピと評価|デッキのレシピとおすすめ", "max": 4 },
+    { "pattern": "当たりカードと収録カード一覧|の入手方法", "max": 4 },
+    { "defaultPerHost": 24 }
+  ],
+
+  "prSources": ["PR TIMES", "プレスリリース", "@Press", "ValuePress", "ドリームニュース"],
+
+  "note_block": "見出し・媒体名がこれに当たるものは載せない。画像ギャラリーのページ、ショップの商品ページ、SNS の投稿など。",
+  "blockSources": ["^YouTube$", "^youtu\\.be$", "^t\\.co$", "^X$", "^TikTok$", "^Instagram$", "^Threads$", "^Facebook$", "Ukrainians Media", "Unisba", "sakhaparliament", "\\.ru$"],
+  "blockTitlePatterns": [
+    "^[＜<]?\\s*画像\\s*\\d+\\s*[/／]\\s*\\d+\\s*[＞>]",
+    "^\\s*\\d+\\s*[/／]\\s*\\d+\\s*[＞>]",
+    "[＜<]\\s*画像\\s*\\d+\\s*[/／]\\s*\\d+\\s*[＞>]",
+    "写真・画像\\s*\\d+\\s*[/／]\\s*\\d+\\s*枚",
+    "\\d+\\s*枚目の(写真|画像)",
+    "1枚のシングル",
+    "^【[A-D]（.{2,10}状態）】",
+    "#shorts",
+    "通販中】",
+    "｜au PAY マーケット$",
+    "\\(@[A-Za-z0-9_]+\\) on X$",
+    "\\[[A-Za-z0-9-]{1,8}\\s+(?:No\\.)?\\d{1,3}(?:/\\d{1,3})?\\]"
+  ],
+
+  "note_products": "商品名の表記ゆれ。左の書き方で見つかったものを右の名前にまとめる。",
+  "productAliases": {
+    "30thセレブレーション": "30th CELEBRATION",
+    "30th セレブレーション": "30th CELEBRATION"
+  },
+
+  "cluster": {
+    "enabled": true,
+    "windowHours": 48,
+    "minSources": 2,
+    "threshold": 0.36,
+    "stopwords": [
+      "ポケカ", "ポケモンカード", "ポケモン", "ポケモンカードゲーム", "ゲーム", "情報", "発表", "公開", "記事", "配信", "今日", "本日",
+      "pokemon", "com", "www", "https", "まとめ", "最新", "最新情報", "販売", "商品", "開始", "予定", "登場", "紹介", "話題",
+      "当たり", "ランキング", "一覧", "更新", "相場", "買取", "価格", "値段", "推移", "スニーカーダンク", "ポケモンカードアプリ"
+    ]
+  },
+
+  "entities": [
+    "ポケポケ", "ポケモンセンター", "チャンピオンズリーグ", "シティリーグ", "ジムバトル", "ハイクラスパック", "強化拡張パック", "拡張パック",
+    "スターターデッキ", "プロモ", "再販", "抽選"
+  ]
+}

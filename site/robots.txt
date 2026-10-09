@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pokecardmatome.gamelab.website/sitemap.xml

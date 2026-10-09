@@ -1,0 +1,43 @@
+# docs/ をロリポップ（FTP）のサブドメイン用ディレクトリへアップロードする
+# 必要な Secrets: LOLIPOP_FTP_SERVER / LOLIPOP_FTP_USER / LOLIPOP_FTP_PASSWORD
+# 必要な Variables: DEPLOY_TARGET=lolipop / LOLIPOP_SERVER_DIR=（サブドメインの公開ディレクトリ）
+name: deploy
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "site/**"
+      - "docs/**"
+      - "scripts/**"
+      - "config.json"
+  workflow_dispatch:
+
+concurrency:
+  group: deploy
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    if: ${{ vars.DEPLOY_TARGET == 'lolipop' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - name: Test
+        run: npm ci && npm test
+      - name: Build site (minify into docs/)
+        run: npm run build
+      - name: Upload docs/ via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.LOLIPOP_FTP_SERVER }}
+          username: ${{ secrets.LOLIPOP_FTP_USER }}
+          password: ${{ secrets.LOLIPOP_FTP_PASSWORD }}
+          protocol: ftps
+          local-dir: ./docs/
+          server-dir: ${{ vars.LOLIPOP_SERVER_DIR }}
+          dangerous-clean-slate: false

@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="ja" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- 画面の明暗は描画の前に決める（白く光ってから暗くなるのを防ぐ） -->
+  <script>try{var t=localStorage.getItem("pkc:theme");if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
+  <!--ssr:ga-->
+  <title>ポケカ速報｜ポケモンカードの抽選・予約・新弾・再販情報まとめ</title>
+  <meta name="description" content="ポケモンカード（ポケカ）の抽選・予約の受付、新弾・新商品の発売日、再販・入荷、新カード、大会のニュースを、公式・ニュースサイト・ショップから集めて 30 分おきに更新しています。">
+  <meta property="og:title" content="ポケカ速報｜ポケモンカードの抽選・予約・新弾・再販情報まとめ">
+  <meta property="og:description" content="ポケカの抽選・予約の受付状況と、発売日・再販・新カードのニュースを 30 分おきにまとめています。">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://pokecardmatome.gamelab.website/">
+  <meta property="og:image" content="https://pokecardmatome.gamelab.website/assets/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:locale" content="ja_JP">
+  <meta property="og:site_name" content="ポケカ速報">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="ポケカ速報｜ポケモンカードの抽選・予約・新弾・再販情報まとめ">
+  <meta name="twitter:description" content="ポケカの抽選・予約の受付状況と、発売日・再販・新カードのニュースを 30 分おきにまとめています。">
+  <meta name="twitter:image" content="https://pokecardmatome.gamelab.website/assets/og.png">
+  <link rel="canonical" href="https://pokecardmatome.gamelab.website/">
+  <meta name="theme-color" content="#0d0e10">
+  <!-- 検索結果にアイコンを出すには、data: ではなくファイルの URL が要る -->
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="favicon-48.png" type="image/png" sizes="48x48">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"WebSite","name":"ポケカ速報","alternateName":"ポケモンカードの抽選・予約・新弾・再販情報まとめ","url":"https://pokecardmatome.gamelab.website/","description":"ポケモンカードの抽選・予約・新弾・再販・大会のニュースをまとめています。","inLanguage":"ja"}
+  </script>
+  <!-- ssr:head / ssr:nav / ssr:lottery / ssr:calendar / ssr:list / ssr:footer-links は scripts/lib/pages.mjs が中身に置き換える -->
+  <!--ssr:head-->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <!-- 文字の表示を待たせないよう、Web フォントは読み込みを止めない形で読む -->
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=JetBrains+Mono:wght@400;500&family=Noto+Sans+JP:wght@400;500;700;900&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=JetBrains+Mono:wght@400;500&family=Noto+Sans+JP:wght@400;500;700;900&display=swap"></noscript>
+  <link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+  <a class="skip" href="#feedSection">本文へ移動</a>
+  <header class="header">
+    <div class="wrap header-inner">
+      <h1 class="logo">
+        <a href="./">
+          <svg class="logo-mark" viewBox="0 0 40 40" aria-hidden="true">
+            <rect x="9" y="5" width="20" height="28" rx="2.5" transform="rotate(-9 19 19)" class="lm-back"/>
+            <rect x="13" y="7" width="20" height="28" rx="2.5" transform="rotate(7 23 21)" class="lm-front"/>
+            <rect x="16.4" y="10.6" width="13.2" height="10" rx="1" transform="rotate(7 23 21)" class="lm-window"/>
+          </svg>
+          <span class="logo-text">ポケカ<b>速報</b></span>
+        </a>
+      </h1>
+      <p class="tagline"><span>抽選</span><span>予約</span><span>新弾</span><span>再販</span><span>大会</span></p>
+      <div class="header-tools">
+        <!-- サブページからは /?q= でトップの検索に渡す -->
+        <form class="search" action="/" method="get" role="search" id="searchForm">
+          <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5L21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+          <input type="search" id="q" name="q" placeholder="商品名・店名でさがす" autocomplete="off" aria-label="ニュースを検索">
+        </form>
+        <a class="tool-btn fav-link" href="#favorites" id="favNavLink" aria-label="あとで読む">
+          <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" d="M6 3h12v18l-6-4.5L6 21z"/></svg>
+          <span class="fav-count" id="favCount" hidden>0</span>
+        </a>
+        <button class="tool-btn" type="button" id="themeBtn" aria-label="明るい表示と暗い表示を切り替える">
+          <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><circle cx="12" cy="12" r="8" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 4a8 8 0 0 1 0 16z" fill="currentColor"/></svg>
+        </button>
+      </div>
+    </div>
+    <nav class="global-nav" aria-label="ページ内ナビゲーション">
+      <div class="wrap nav-inner">
+        <a href="./" aria-current="page">トップ</a>
+        <!--ssr:nav-->
+      </div>
+    </nav>
+    <div class="ticker" id="ticker" aria-label="最新の見出し">
+      <div class="wrap ticker-inner">
+        <span class="ticker-label"><i></i>LIVE</span>
+        <div class="ticker-track"><div class="ticker-move" id="tickerMove"></div></div>
+      </div>
+    </div>
+  </header>
+
+  <div class="statusbar">
+    <div class="wrap statusbar-inner">
+      <span id="meta">読み込み中…</span>
+      <span class="next" id="nextUpdate" hidden></span>
+    </div>
+  </div>
+
+  <main class="wrap">
+    <section class="board" id="lotterySection" aria-labelledby="lotteryTitle">
+      <div class="sec-head">
+        <h2 class="sec-title" id="lotteryTitle"><span class="en">LOTTERY BOARD</span>抽選・予約の受付</h2>
+        <p class="sec-desc">見出しから読み取った締切です。受付の条件や正確な日時は、必ずリンク先で確かめてください。</p>
+      </div>
+      <div class="board-tools">
+        <div class="chips" id="lotteryStores" role="group" aria-label="店舗で絞り込む"></div>
+        <div class="seg seg-sm" id="lotterySeg" role="group" aria-label="表示">
+          <button type="button" data-v="active" class="active">受付中・予定</button>
+          <button type="button" data-v="all">すべて</button>
+        </div>
+      </div>
+      <div class="lot-head" aria-hidden="true"><span>状況</span><span>締切</span><span>店舗・商品</span><span>内容</span></div>
+      <div class="lot-list" id="lotteryList"><!--ssr:lottery--></div>
+      <button class="more-btn" id="lotteryMore" type="button" hidden></button>
+    </section>
+
+    <div class="layout">
+      <div class="col-main">
+        <section class="topics" id="topicsSection" hidden aria-labelledby="topicsTitle">
+          <div class="sec-head">
+            <h2 class="sec-title" id="topicsTitle"><span class="en">TOP STORIES</span>注目の話題</h2>
+            <p class="sec-desc">同じ出来事を複数の媒体が報じたもの。</p>
+          </div>
+          <ol class="topic-list" id="topicList"></ol>
+        </section>
+
+        <section class="feed" id="feedSection" aria-labelledby="feedTitle">
+          <div class="sec-head sec-head-row">
+            <h2 class="sec-title" id="feedTitle"><span class="en">LATEST</span>新着ニュース</h2>
+            <div class="seg" id="seriesSeg" role="group" aria-label="ゲームで絞り込む">
+              <button type="button" data-v="all" class="active">すべて</button>
+              <button type="button" data-v="tcg">ポケカ</button>
+              <button type="button" data-v="pocket">ポケポケ</button>
+              <button type="button" data-v="global">海外</button>
+            </div>
+          </div>
+          <div class="cat-tabs" id="catTabs" role="group" aria-label="種別で絞り込む"></div>
+          <div class="filter-line" id="filterLine" hidden></div>
+          <!-- 記事が入るまでの間、同じくらいの高さを確保しておく（描画時に下の要素が飛ばないように） -->
+          <div id="list"><!--ssr:list--></div>
+          <button class="more-btn" id="listMore" type="button" hidden></button>
+          <p class="empty" id="empty" hidden>条件に合うニュースはありません。絞り込みを変えてみてください。</p>
+        </section>
+
+        <section class="fav-view" id="favView" hidden aria-labelledby="favTitle">
+          <div class="sec-head sec-head-row">
+            <h2 class="sec-title" id="favTitle"><span class="en">SAVED</span>あとで読む</h2>
+            <button type="button" class="back-btn" id="favBack">一覧に戻る</button>
+          </div>
+          <p class="sec-desc">記事の右の印を押すと、ここに保存されます（このブラウザにだけ保存）。</p>
+          <div id="favViewBody"></div>
+          <p class="empty" id="favViewEmpty" hidden>まだありません。</p>
+        </section>
+      </div>
+
+      <aside class="side">
+        <section class="mod" id="calSection" aria-labelledby="calTitle">
+          <h2 class="mod-head" id="calTitle"><span class="en">CALENDAR</span>これからの予定</h2>
+          <p class="mod-desc">見出しにあった発売日・締切・開催日を日付順に並べています。</p>
+          <div class="cal" id="calList"><!--ssr:calendar--></div>
+          <a class="mod-link" href="/schedule/">予定をすべて見る</a>
+        </section>
+
+        <section class="mod" id="prodMod" hidden aria-labelledby="prodTitle">
+          <h2 class="mod-head" id="prodTitle"><span class="en">PRODUCTS</span>商品別</h2>
+          <ul class="idx-list" id="prodList"></ul>
+          <a class="mod-link" href="/set/">商品の一覧</a>
+        </section>
+
+        <section class="mod" id="storeMod" hidden aria-labelledby="storeTitle">
+          <h2 class="mod-head" id="storeTitle"><span class="en">STORES</span>店舗別</h2>
+          <ul class="idx-list" id="storeList"></ul>
+          <a class="mod-link" href="/store/">店舗の一覧</a>
+        </section>
+
+        <section class="mod" id="ngMod" aria-labelledby="ngTitle">
+          <h2 class="mod-head" id="ngTitle"><span class="en">MUTE</span>見たくないことば</h2>
+          <p class="mod-desc">含む記事を一覧・ボードから隠します。</p>
+          <div class="ng-list" id="ngList"></div>
+          <form class="ng-form" id="ngForm">
+            <input type="text" id="ngInput" placeholder="例: 相場" autocomplete="off" aria-label="見たくないことばを追加">
+            <button type="submit">追加</button>
+          </form>
+        </section>
+
+        <section class="mod" id="srcMod" hidden aria-labelledby="srcTitle">
+          <h2 class="mod-head" id="srcTitle"><span class="en">SOURCES</span>収集元</h2>
+          <ul class="src-list" id="srcList"></ul>
+        </section>
+      </aside>
+    </div>
+  </main>
+
+  <button class="to-top" id="toTop" type="button" hidden aria-label="先頭へ戻る">
+    <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M6 14l6-6 6 6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="square"/></svg>
+  </button>
+
+  <footer class="footer">
+    <div class="wrap">
+      <div class="footer-brand">
+        <span class="logo-text">ポケカ<b>速報</b></span>
+        <p>ポケモンカードの抽選・予約・新弾・再販・大会のニュースを、公式・ニュースサイト・ショップのお知らせから集めて、30 分おきに更新しています。</p>
+      </div>
+      <!--ssr:footer-links-->
+      <p>掲載しているのは見出し・要約の一部・元記事へのリンクのみで、本文の転載はしていません。リンク先の記事の権利はそれぞれの発行元に帰属します。抽選・予約の締切や発売日は見出しから機械的に読み取ったもので、まちがっていることがあります。</p>
+      <p class="notice">当サイトはファンによる非公式のまとめサイトで、株式会社ポケモン・任天堂とは関係ありません。「ポケモン」「ポケットモンスター」「ポケモンカードゲーム」は任天堂・クリーチャーズ・ゲームフリークの登録商標です。</p>
+      <p class="sources">収集元: <span id="sourceList"></span></p>
+      <p class="contact"><a href="https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform" target="_blank" rel="noopener noreferrer">お問い合わせ</a></p>
+      <p class="copy">© <span id="year"></span> ポケカ速報</p>
+    </div>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

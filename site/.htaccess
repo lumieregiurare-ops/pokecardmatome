@@ -1,0 +1,30 @@
+# ロリポップ（Apache）用の設定。表示の速さと 404 のページ。
+ErrorDocument 404 /404.html
+
+# 文字のファイルを圧縮して送る
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml application/javascript text/javascript application/json application/xml application/atom+xml image/svg+xml
+</IfModule>
+
+# HTML と data/*.json は 30 分おきに変わるので、毎回サーバーに確かめさせる。
+# CSS・JS は ?v=（中身から作る値）付きで読むが、念のため 1 日にとどめる。
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresDefault "access plus 10 minutes"
+  ExpiresByType text/html "access plus 0 seconds"
+  ExpiresByType application/json "access plus 0 seconds"
+  ExpiresByType application/xml "access plus 30 minutes"
+  ExpiresByType text/css "access plus 1 day"
+  ExpiresByType application/javascript "access plus 1 day"
+  ExpiresByType text/javascript "access plus 1 day"
+  ExpiresByType image/png "access plus 30 days"
+  ExpiresByType image/svg+xml "access plus 30 days"
+  ExpiresByType image/x-icon "access plus 30 days"
+  ExpiresByType image/vnd.microsoft.icon "access plus 30 days"
+</IfModule>
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.(html|json)$">
+    Header set Cache-Control "no-cache"
+  </FilesMatch>
+</IfModule>

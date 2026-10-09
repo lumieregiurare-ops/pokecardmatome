@@ -1,0 +1,98 @@
+# ポケカ関連ニュースを定期収集して docs/ を更新し、そのままサーバーへ配信する
+name: collect
+
+on:
+  schedule:
+    # 狙いは「30 分おきの更新」だが、cron をそのまま 30 分おきに置いても実現できない。
+    # GitHub のスケジュール実行はベストエフォートで、混雑時は遅れるどころか配信されない。
+    # 同じアカウントの他サイトでは、10 分おきに置いても
+    # 9 スロット連続で 1 回も走らなかった（2026-09-16 実測）。
+    #
+    # そこで 10 分おきに起動し、下の「前回からの経過時間」ステップで 25 分たっていなければ
+    # 即座に終了する。実際の更新は下の repository_dispatch（外部の cron から叩く）が主役で、
+    # この cron は配信されたとき用のフォールバック。
+    - cron: "8,18,28,38,48,58 * * * *"
+  workflow_dispatch:
+  # 外部から叩くための入口。ロリポップの cron から 30 分おきにこれを叩く。
+  # 叩き方は README の「更新の間隔について」を参照。
+  repository_dispatch:
+    types: [collect]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      # 10 分おきの cron と外部トリガー（repository_dispatch）の両方で起動するので、
+      # 前回の収集から間がないときはここで終わる。外部サービスが二重に叩いても
+      # 余計な収集が走らない。手動実行（workflow_dispatch）だけは間隔を無視する。
+      - name: 前回からの経過時間を見る
+        id: gate
+        env:
+          MIN_GAP_MIN: 25
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "手動実行のため収集する"
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          LAST=$(node -e "try{process.stdout.write(require('./data/state.json').ranAt||'')}catch(e){}")
+          if [ -z "$LAST" ]; then
+            echo "前回の記録が無いため収集する"
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          GAP=$(( ( $(date -u +%s) - $(date -u -d "$LAST" +%s) ) / 60 ))
+          echo "前回の収集: $LAST（${GAP} 分前 / しきい値 ${MIN_GAP_MIN} 分）"
+          if [ "$GAP" -ge "$MIN_GAP_MIN" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "間がないので今回は何もしない"
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
+      - uses: actions/setup-node@v4
+        if: steps.gate.outputs.run == 'true'
+        with:
+          node-version: 20
+      # collect.mjs は Node の標準機能だけで動く（esbuild / sharp を使うのは build.mjs だけ）。
+      # docs/ の HTML・JS・CSS はビルド済みのものがコミットされていて、site/ を変えたときは
+      # deploy.yml が作り直すので、収集のたびに npm ci とビルドを回す必要はない。
+      - name: Collect
+        if: steps.gate.outputs.run == 'true'
+        run: node scripts/collect.mjs
+      - name: Commit and push
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # state.json は次回の「新着」判定と更新間隔の計算に使うので一緒にコミットする
+          # data/archive/ は過去の記事（抽選ボード・予定・商品別・日別のページの材料）
+          # data/products.json は見出しから覚えた商品名の辞書
+          git add docs data/state.json data/archive data/products.json
+          git diff --cached --quiet && echo "no changes" && exit 0
+          git commit -m "chore: collect $(TZ=Asia/Tokyo date +'%Y-%m-%d %H:%M JST')"
+          # 収集中に site/ などの変更が push されていたら、取り込んでから送る
+          git pull --rebase --autostash || true
+          git push
+      # GITHUB_TOKEN による push は deploy ワークフローを起動しないので、ここでもアップロードする。
+      # 収集のたびに news.json のほか、トップ・タイトル別などの HTML と sitemap.xml も作り直すので
+      # docs/ 全体を渡す（前回から変わったファイルだけが送られる）。
+      - name: Upload docs/data/ to Lolipop (FTP)
+        if: ${{ steps.gate.outputs.run == 'true' && vars.DEPLOY_TARGET == 'lolipop' }}
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.LOLIPOP_FTP_SERVER }}
+          username: ${{ secrets.LOLIPOP_FTP_USER }}
+          password: ${{ secrets.LOLIPOP_FTP_PASSWORD }}
+          protocol: ftps
+          local-dir: ./docs/
+          server-dir: ${{ vars.LOLIPOP_SERVER_DIR }}
+          dangerous-clean-slate: false
