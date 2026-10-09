@@ -128,6 +128,24 @@
   "isPR": false
  },
  {
+  "id": "9737dfb136af",
+  "title": "【ポケポケ】ハイクラスパックMEGAの所持率チェッカー【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/579047",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-09T12:39:20.000Z",
+  "image": "",
+  "categories": [
+   "release"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "cd4c19dd821c",
   "title": "【ポケポケ】ハイクラスパックMEGAエンブレムイベントの攻略【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/579544",
@@ -210,6 +228,24 @@
   "summary": "",
   "publishedAt": "2026-10-09T09:58:27.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/546302.png?date=1772079043",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "d3ef0e0c9f7c",
+  "title": "【ポケポケ】メガリザードンXexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/551306",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-09T09:58:22.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/551306.png?date=1774496509",
   "categories": [
    "deck"
   ],
