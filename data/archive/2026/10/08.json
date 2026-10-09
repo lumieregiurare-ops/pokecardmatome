@@ -54,6 +54,43 @@
   "isPR": false
  },
  {
+  "id": "97eefa74c938",
+  "title": "TCG「NIJISANJI 7 Colors Card Game」，スターターデッキ4種やブースターパックなどを12月26日に発売。リアルイベントの開催も決定",
+  "url": "https://www.4gamer.net/games/958/G095872/20261008012/",
+  "source": "4Gamer",
+  "summary": "ANYCOLORは2026年10月7日，トレーディングカードゲーム「NIJISANJI7ColorsCardGame」の構築済みスターターデッキ4種，ブースターパック，カードスリーブを12月26日に発売すると発表した。",
+  "publishedAt": "2026-10-08T04:47:02.000Z",
+  "image": "https://www.4gamer.net/games/958/G095872/20261008012/SS/001.jpg",
+  "categories": [
+   "release",
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "83b07b71a705",
+  "title": "シティリーグ2027 シーズン1 オープンリーグ",
+  "url": "https://players.pokemon-card.com/event/detail/1115178/result",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-08T04:00:00.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "4e622f8b1a0a",
   "title": "【ポケポケ】メガヘラクロスexデッキのレシピと評価【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/560534",
@@ -142,6 +179,42 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "1d29ab860af7",
+  "title": "ポケモンカードストア in イオンモールKYOTO",
+  "url": "https://players.pokemon-card.com/event/search/22134/202611/list",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-07T15:31:43.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "63858e709ec3",
+  "title": "【26/10】ポケモンカードジム ジムバトル",
+  "url": "https://players.pokemon-card.com/event/detail/1149276/1/19896/20261009/1970851",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-07T15:26:02.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  }
 ]
