@@ -127,6 +127,24 @@
   "isPR": false
  },
  {
+  "id": "63858e709ec3",
+  "title": "【26/10】ポケモンカードジム ジムバトル",
+  "url": "https://players.pokemon-card.com/event/detail/1154673/1/20746/20261016/1962075",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-08T00:38:41.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "6d571f038560",
   "title": "ポケモンカードに盗難暗号資産―ハッカーに有罪評決",
   "url": "https://jp.beincrypto.com/crypto-hacker-pokemon-cards-convicted/",
@@ -191,24 +209,6 @@
   "image": "",
   "categories": [
    "other"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": true,
-  "isPR": false
- },
- {
-  "id": "63858e709ec3",
-  "title": "【26/10】ポケモンカードジム ジムバトル",
-  "url": "https://players.pokemon-card.com/event/detail/1149276/1/19896/20261009/1970851",
-  "source": "ポケモンカードゲーム プレイヤーズクラブ",
-  "summary": "",
-  "publishedAt": "2026-10-07T15:26:02.000Z",
-  "image": "",
-  "categories": [
-   "event"
   ],
   "series": [
    "tcg"

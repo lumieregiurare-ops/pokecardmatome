@@ -221,6 +221,42 @@
   "isPR": false
  },
  {
+  "id": "dfb68e54f3ea",
+  "title": "【ポケポケ】カラマネロデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/560181",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-09T10:00:08.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560181.png?date=1778055956",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "9e83b57871d6",
+  "title": "【ポケポケ】ソウブレイズexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/563838",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-09T10:00:06.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563838.png?date=1781351800",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "bffe65f6344c",
   "title": "【ポケポケ】マスカーニャexデッキのレシピと評価【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/546302",
@@ -323,24 +359,6 @@
   ],
   "series": [
    "pocket"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "7e79d992de36",
-  "title": "ポケモンカード、宇治抹茶、CIELO──ショッピージャパン、東南アジア・台湾・ブラジル7市場の8月売れ筋商品を公開",
-  "url": "https://news.nicovideo.jp/watch/nw19864645?news_ref",
-  "source": "ニコニコニュース",
-  "summary": "",
-  "publishedAt": "2026-10-09T09:51:23.000Z",
-  "image": "https://prcdn.freetls.fastly.net/release_image/75777/134/75777-134-77c380bea58b201ca8d7338080cabc9f-1781x883.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-  "categories": [
-   "market"
-  ],
-  "series": [
-   "tcg"
   ],
   "stores": [],
   "isOfficial": false,
@@ -478,7 +496,7 @@
   "id": "362072a1e08f",
   "title": "「 チャンピオンズリーグ2027 千葉」 2026年11月22日（日）～23日（月・祝）開催！ニュース詳細 | ポケカ公式",
   "url": "https://www.pokemon-card.com/info/005666.html",
-  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "source": "ポケモンカードゲームトレーナーズウェブサイト",
   "summary": "",
   "publishedAt": "2026-10-09T05:16:24.000Z",
   "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
@@ -546,6 +564,24 @@
   "stores": [],
   "isOfficial": false,
   "isPR": false
+ },
+ {
+  "id": "7e79d992de36",
+  "title": "ポケモンカード、宇治抹茶、CIELO──ショッピージャパン、東南アジア・台湾・ブラジル7市場の8月売れ筋商品を公開",
+  "url": "https://prtimes.jp/main/html/rd/p/000000134.000075777.html",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-10-09T02:00:02.000Z",
+  "image": "https://prcdn.freetls.fastly.net/release_image/75777/134/75777-134-77c380bea58b201ca8d7338080cabc9f-1781x883.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": true
  },
  {
   "id": "21beed7ca646",
