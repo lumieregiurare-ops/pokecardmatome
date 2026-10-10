@@ -1,5 +1,42 @@
 [
  {
+  "id": "21beed7ca646",
+  "title": "【ポケポケ】ロケット団の野望の当たりカードと収録カード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/573136",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-09T14:29:04.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/573136.png?date=1787237535",
+  "categories": [
+   "reveal",
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "221cc65953bf",
+  "title": "【ポケポケ】結界のフィールドの効果・計算方法【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/567935",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-09T14:04:31.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/567935.png?date=1783913204",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "114719810f4b",
   "title": "【ポケカ】30th CELEBRATION(30th セレブレーション)の予約・抽選情報まとめ【9/15更新】 | スニーカーダンク",
   "url": "https://snkrdunk.com/articles/32425/",
@@ -496,7 +533,7 @@
   "id": "362072a1e08f",
   "title": "「 チャンピオンズリーグ2027 千葉」 2026年11月22日（日）～23日（月・祝）開催！ニュース詳細 | ポケカ公式",
   "url": "https://www.pokemon-card.com/info/005666.html",
-  "source": "ポケモンカードゲームトレーナーズウェブサイト",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
   "summary": "",
   "publishedAt": "2026-10-09T05:16:24.000Z",
   "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
@@ -568,10 +605,10 @@
  {
   "id": "7e79d992de36",
   "title": "ポケモンカード、宇治抹茶、CIELO──ショッピージャパン、東南アジア・台湾・ブラジル7市場の8月売れ筋商品を公開",
-  "url": "https://prtimes.jp/main/html/rd/p/000000134.000075777.html",
-  "source": "PR TIMES",
+  "url": "https://www.asahi.com/and/pressrelease/16953576",
+  "source": "朝日新聞",
   "summary": "",
-  "publishedAt": "2026-10-09T02:00:02.000Z",
+  "publishedAt": "2026-10-09T02:00:00.000Z",
   "image": "https://prcdn.freetls.fastly.net/release_image/75777/134/75777-134-77c380bea58b201ca8d7338080cabc9f-1781x883.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
   "categories": [
    "market"
@@ -581,25 +618,24 @@
   ],
   "stores": [],
   "isOfficial": false,
-  "isPR": true
+  "isPR": false
  },
  {
-  "id": "21beed7ca646",
-  "title": "【ポケポケ】ロケット団の野望の当たりカードと収録カード一覧【ポケモンカードアプリ】",
-  "url": "https://gamewith.jp/pokemon-tcg-pocket/573136",
-  "source": "ゲームウィズ",
+  "id": "83b07b71a705",
+  "title": "シティリーグ2027 シーズン1 オープンリーグ",
+  "url": "https://players.pokemon-card.com/event/detail/1115039/result",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
   "summary": "",
-  "publishedAt": "2026-10-08T19:31:28.000Z",
-  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/573136.png?date=1787237535",
+  "publishedAt": "2026-10-09T02:00:00.000Z",
+  "image": "",
   "categories": [
-   "reveal",
-   "deck"
+   "event"
   ],
   "series": [
-   "pocket"
+   "tcg"
   ],
   "stores": [],
-  "isOfficial": false,
+  "isOfficial": true,
   "isPR": false
  },
  {
