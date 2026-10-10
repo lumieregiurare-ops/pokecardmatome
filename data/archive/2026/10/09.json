@@ -186,7 +186,7 @@
   "id": "cd4c19dd821c",
   "title": "【ポケポケ】ハイクラスパックMEGAエンブレムイベントの攻略【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/579544",
-  "source": "ゲームウィズ",
+  "source": "GameWith",
   "summary": "",
   "publishedAt": "2026-10-09T12:12:07.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/579544.jpg?date=1791011513",
@@ -283,6 +283,24 @@
   "summary": "",
   "publishedAt": "2026-10-09T10:00:06.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563838.png?date=1781351800",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "8ab538e12202",
+  "title": "【ポケポケ】混乱デッキのレシピとおすすめカード【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/471258",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-09T10:00:06.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/471258.png?date=1755595493",
   "categories": [
    "deck"
   ],
@@ -512,6 +530,61 @@
   "isPR": false
  },
  {
+  "id": "8be2d21d890c",
+  "title": "【ポケカ】ピカチュウex FUR仕様 [132/M-P]の買取・相場価格と値段推移｜30th CELEBRATION FUTURISTIC BOX",
+  "url": "https://snkrdunk.com/articles/32476/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-09T07:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/9195c095-7e13-4099-accb-9433a51f68f6.jpeg",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "0a5ac57fd689",
+  "title": "【ポケカ】ピカチュウex FUR仕様 [131/M-P]の買取・相場価格と値段推移｜30th CELEBRATION FUTURISTIC BOX",
+  "url": "https://snkrdunk.com/articles/32468/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-09T07:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/75ff8c87-7c8b-4ec6-aaef-078802f2f0b3.jpeg",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "01eef2d84448",
+  "title": "【ポケカ】30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキーの収録カード・再販抽選情報まとめ",
+  "url": "https://snkrdunk.com/articles/32464/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-09T07:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/b3ec7894-3c17-4254-b87a-9ca52ed4616f.jpeg",
+  "categories": [
+   "lottery",
+   "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "6379e6a04910",
   "title": "大会賞品ニュース詳細 | ポケカ公式",
   "url": "https://www.pokemon-card.com/info/005699.html",
@@ -545,24 +618,6 @@
   ],
   "stores": [],
   "isOfficial": true,
-  "isPR": false
- },
- {
-  "id": "8be2d21d890c",
-  "title": "【ポケカ】ピカチュウex FUR仕様 [132/M-P]の買取・相場価格と値段推移｜30th CELEBRATION FUTURISTIC BOX",
-  "url": "https://snkrdunk.com/articles/32476/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-09T05:38:49.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/9195c095-7e13-4099-accb-9433a51f68f6.jpeg",
-  "categories": [
-   "market"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
   "isPR": false
  },
  {
@@ -659,10 +714,10 @@
  {
   "id": "7e79d992de36",
   "title": "ポケモンカード、宇治抹茶、CIELO──ショッピージャパン、東南アジア・台湾・ブラジル7市場の8月売れ筋商品を公開",
-  "url": "https://www.asahi.com/and/pressrelease/16953576",
-  "source": "朝日新聞",
+  "url": "https://prtimes.jp/main/html/rd/p/000000134.000075777.html",
+  "source": "PR TIMES",
   "summary": "",
-  "publishedAt": "2026-10-09T02:00:00.000Z",
+  "publishedAt": "2026-10-09T02:00:02.000Z",
   "image": "https://prcdn.freetls.fastly.net/release_image/75777/134/75777-134-77c380bea58b201ca8d7338080cabc9f-1781x883.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
   "categories": [
    "market"
@@ -672,7 +727,7 @@
   ],
   "stores": [],
   "isOfficial": false,
-  "isPR": false
+  "isPR": true
  },
  {
   "id": "83b07b71a705",

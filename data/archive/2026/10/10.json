@@ -36,6 +36,24 @@
   "isPR": false
  },
  {
+  "id": "ce54ab3dcd6f",
+  "title": "【ポケカ】ストームエメラルダの収録カードリスト一覧",
+  "url": "https://snkrdunk.com/articles/32582/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-10T13:12:08.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/66b3ff5b-4fd7-4798-97b2-07d6c89da753.jpeg",
+  "categories": [
+   "reveal"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "63858e709ec3",
   "title": "【26/10】ポケモンカードジム ジムバトル",
   "url": "https://players.pokemon-card.com/event/detail/1162751/1/19979/20261025/1957092",
@@ -253,6 +271,42 @@
   ],
   "stores": [],
   "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "83b07b71a705",
+  "title": "シティリーグ2027 シーズン1 オープンリーグ",
+  "url": "https://players.pokemon-card.com/event/detail/1115040/result",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-10T01:00:00.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "f7a60137c134",
+  "title": "『ポケモン』7年ぶり新作アニメ映画制作決定 ポケカ題材で『ポケモン：ワイルドカード』2027年公開！制作はCloverWorks",
+  "url": "https://www.sanyonews.jp/article/1981080?kw",
+  "source": "山陽新聞",
+  "summary": "",
+  "publishedAt": "2026-10-10T00:32:50.000Z",
+  "image": "https://static.sanyonews.jp/image/article/size1/a/5/f/4/a5f4dcf02ca13e72432621fd595aacc7_1.jpg",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
   "isPR": false
  },
  {
@@ -517,7 +571,7 @@
   "id": "4264613ead10",
   "title": "【ポケポケ】波動ビートの当たりカードと収録カード一覧【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/558029",
-  "source": "GameWith",
+  "source": "ゲームウィズ",
   "summary": "",
   "publishedAt": "2026-10-09T15:17:07.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/558029.png?date=1776951553",
