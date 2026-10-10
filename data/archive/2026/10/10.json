@@ -5,7 +5,7 @@
   "url": "https://snkrdunk.com/articles/15950/",
   "source": "SNKRDUNK",
   "summary": "",
-  "publishedAt": "2026-10-10T08:15:27.000Z",
+  "publishedAt": "2026-10-10T14:27:36.000Z",
   "image": "https://cdn.snkrdunk.com/uploads/media/20251222061410-0.jpeg",
   "categories": [
    "release"
@@ -23,7 +23,7 @@
   "url": "https://snkrdunk.com/articles/33304/",
   "source": "SNKRDUNK",
   "summary": "",
-  "publishedAt": "2026-10-10T07:26:14.000Z",
+  "publishedAt": "2026-10-10T13:32:12.000Z",
   "image": "https://cdn.snkrdunk.com/uploads/media/1be64b43-ba7d-41a8-adea-6b26f00f1866.png",
   "categories": [
    "restock"
@@ -36,16 +36,106 @@
   "isPR": false
  },
  {
-  "id": "f6270760409f",
-  "title": "【ポケカ】御三家セットとは？買取・相場予想/予約抽選情報まとめ【30th CELEBRATION カードセット】",
-  "url": "https://snkrdunk.com/articles/32998/",
+  "id": "63858e709ec3",
+  "title": "【26/10】ポケモンカードジム ジムバトル",
+  "url": "https://players.pokemon-card.com/event/detail/1162751/1/19979/20261025/1957092",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-10T10:17:22.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "134cfde52436",
+  "title": "【なな散歩】新シーズン1発目のチャンピオンズリーグ！【チャンピオンズリーグ2027 横浜】",
+  "url": "https://www.youtube.com/watch?v=3co2pqjg8iw",
+  "source": "ポケモンカードチャンネル",
+  "summary": "なな散歩第2弾！ 先日行われた「CL2027 横浜」の会場や、横浜の街並みをお散歩🧺 ＜ポケモンカードゲームの最新情報や対戦動画などをUPします！＞ チャンネル登録よろしくね☆ミ https://www.youtube.com/@PokecaCH ▼この動画の関連動画はコチラ！ https://youtu.be/r…",
+  "publishedAt": "2026-10-10T10:00:09.000Z",
+  "image": "https://i4.ytimg.com/vi/3co2pqjg8iw/hqdefault.jpg",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "a5c5154399e2",
+  "title": "【ポケカ】ミュウ R/RGBの買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)",
+  "url": "https://snkrdunk.com/articles/33322/",
   "source": "SNKRDUNK",
   "summary": "",
-  "publishedAt": "2026-10-10T04:07:32.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/f66e78f7-b04b-4bcd-827e-207a1ad812b8.jpeg",
+  "publishedAt": "2026-10-10T08:58:34.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/51d27ebd-3416-44fc-ac20-0af21c182c18.png",
   "categories": [
-   "lottery",
    "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "8be2d21d890c",
+  "title": "【ポケカ】ピカチュウex FUR仕様 [132/M-P]の買取・相場価格と値段推移｜30th CELEBRATION FUTURISTIC BOX",
+  "url": "https://snkrdunk.com/articles/32476/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-10T07:13:09.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/9195c095-7e13-4099-accb-9433a51f68f6.jpeg",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "630ccaadc1f5",
+  "title": "【26/10】ポケモンカードジム トレーナーズリーグ（オープンリーグ）",
+  "url": "https://players.pokemon-card.com/event/detail/1149719/1/19979/20261010/1957073",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-10T05:00:00.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "ccabeed8fafd",
+  "title": "【ポケカ】ポケモンカード151の当たりランキング/買取相場/封入率/予約抽選/値段まとめ | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/16466/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-10T04:00:20.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/6ea1ef47-3013-4b51-9383-82543e43db12.jpeg",
+  "categories": [
+   "market",
+   "lottery"
   ],
   "series": [
    "tcg"
@@ -74,24 +164,6 @@
   "isPR": false
  },
  {
-  "id": "a5c5154399e2",
-  "title": "【ポケカ】ミュウ R/RGBの買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)",
-  "url": "https://snkrdunk.com/articles/33322/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-10T02:35:01.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/51d27ebd-3416-44fc-ac20-0af21c182c18.png",
-  "categories": [
-   "market"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "33918f97ba11",
   "title": "【ポケカ】メガブレイブの再販はいつ？再販入荷情報まとめ【10/8更新】",
   "url": "https://snkrdunk.com/articles/29707/",
@@ -107,6 +179,24 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "1256844425b7",
+  "title": "シティリーグ2027 シーズン1 ジュニアリーグ",
+  "url": "https://players.pokemon-card.com/event/detail/1115560/result",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-10T01:00:00.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
@@ -257,6 +347,24 @@
   "isPR": false
  },
  {
+  "id": "397da41a59f2",
+  "title": "【ポケポケ】デュアルタイプとは？【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/574423",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-09T17:31:40.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574423.png?date=1788139354",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "780ca96f34b4",
   "title": "【ポケカ】ポケモンカード151の再販はいつ？再販入荷情報まとめ【10/10更新】",
   "url": "https://snkrdunk.com/articles/18862/",
@@ -266,6 +374,25 @@
   "image": "https://cdn.snkrdunk.com/uploads/media/20231130021213-0.jpeg",
   "categories": [
    "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "f6270760409f",
+  "title": "【ポケカ】御三家セットとは？買取・相場予想/予約抽選情報まとめ【30th CELEBRATION カードセット】",
+  "url": "https://snkrdunk.com/articles/32998/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-09T16:52:37.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/f66e78f7-b04b-4bcd-827e-207a1ad812b8.jpeg",
+  "categories": [
+   "lottery",
+   "market"
   ],
   "series": [
    "tcg"
@@ -288,43 +415,6 @@
   ],
   "series": [
    "pocket"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "ccabeed8fafd",
-  "title": "【ポケカ】ポケモンカード151の当たりランキング/買取相場/封入率/予約抽選/値段まとめ | スニーカーダンク",
-  "url": "https://snkrdunk.com/articles/16466/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-09T16:24:35.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/6ea1ef47-3013-4b51-9383-82543e43db12.jpeg",
-  "categories": [
-   "market",
-   "lottery"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "8be2d21d890c",
-  "title": "【ポケカ】ピカチュウex FUR仕様 [132/M-P]の買取・相場価格と値段推移｜30th CELEBRATION FUTURISTIC BOX",
-  "url": "https://snkrdunk.com/articles/32476/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-09T16:21:50.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/9195c095-7e13-4099-accb-9433a51f68f6.jpeg",
-  "categories": [
-   "market"
-  ],
-  "series": [
-   "tcg"
   ],
   "stores": [],
   "isOfficial": false,

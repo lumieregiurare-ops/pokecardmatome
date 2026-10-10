@@ -95,7 +95,7 @@
   "id": "45de1cd80e7c",
   "title": "【ポケポケ】金フレーム(金枠)の入手方法とトレード方法【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/559877",
-  "source": "ゲームウィズ",
+  "source": "GameWith",
   "summary": "",
   "publishedAt": "2026-10-09T13:15:08.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559877.png?date=1777621111",
@@ -186,7 +186,7 @@
   "id": "cd4c19dd821c",
   "title": "【ポケポケ】ハイクラスパックMEGAエンブレムイベントの攻略【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/579544",
-  "source": "GameWith",
+  "source": "ゲームウィズ",
   "summary": "",
   "publishedAt": "2026-10-09T12:12:07.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/579544.jpg?date=1791011513",
@@ -283,6 +283,24 @@
   "summary": "",
   "publishedAt": "2026-10-09T10:00:06.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563838.png?date=1781351800",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "b7ea1dfa45e3",
+  "title": "【ポケポケ】ガブリアス&シロナデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/483417",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-09T09:59:49.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/483417.png?date=1787829452",
   "categories": [
    "deck"
   ],
