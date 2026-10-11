@@ -1,5 +1,24 @@
 [
  {
+  "id": "ccabeed8fafd",
+  "title": "【ポケカ】ポケモンカード151の当たりランキング/買取相場/封入率/予約抽選/値段まとめ | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/16466/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-10T14:56:52.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/6ea1ef47-3013-4b51-9383-82543e43db12.jpeg",
+  "categories": [
+   "market",
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "dffa414ee5a2",
   "title": "【ポケカ】2026年の新弾発売スケジュールまとめ | スニーカーダンク",
   "url": "https://snkrdunk.com/articles/15950/",
@@ -48,6 +67,24 @@
   ],
   "series": [
    "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "d95dcc960f46",
+  "title": "【ポケポケ】エリートデッキ(メガルカリオex)の入手方法【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/570822",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-10T11:47:33.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/570822.png?date=1789543017",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
@@ -219,25 +256,6 @@
   "isPR": false
  },
  {
-  "id": "ccabeed8fafd",
-  "title": "【ポケカ】ポケモンカード151の当たりランキング/買取相場/封入率/予約抽選/値段まとめ | スニーカーダンク",
-  "url": "https://snkrdunk.com/articles/16466/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-10T04:00:20.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/6ea1ef47-3013-4b51-9383-82543e43db12.jpeg",
-  "categories": [
-   "market",
-   "lottery"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "33918f97ba11",
   "title": "【ポケカ】メガブレイブの再販はいつ？再販入荷情報まとめ【10/8更新】",
   "url": "https://snkrdunk.com/articles/29707/",
@@ -259,24 +277,6 @@
   "id": "1256844425b7",
   "title": "シティリーグ2027 シーズン1 ジュニアリーグ",
   "url": "https://players.pokemon-card.com/event/detail/1115560/result",
-  "source": "ポケモンカードゲーム プレイヤーズクラブ",
-  "summary": "",
-  "publishedAt": "2026-10-10T01:00:00.000Z",
-  "image": "",
-  "categories": [
-   "event"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": true,
-  "isPR": false
- },
- {
-  "id": "83b07b71a705",
-  "title": "シティリーグ2027 シーズン1 オープンリーグ",
-  "url": "https://players.pokemon-card.com/event/detail/1115040/result",
   "source": "ポケモンカードゲーム プレイヤーズクラブ",
   "summary": "",
   "publishedAt": "2026-10-10T01:00:00.000Z",
@@ -325,6 +325,24 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "83b07b71a705",
+  "title": "シティリーグ2027 シーズン1 オープンリーグ",
+  "url": "https://players.pokemon-card.com/event/detail/1115179/result",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-10T00:00:00.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
