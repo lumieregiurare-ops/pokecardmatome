@@ -55,6 +55,24 @@
   "isPR": false
  },
  {
+  "id": "4b1213ccd32b",
+  "title": "【ポケポケ】ミッション一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/466360",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-10T13:17:04.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/466360.png?date=1730166195",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "ce54ab3dcd6f",
   "title": "【ポケカ】ストームエメラルダの収録カードリスト一覧",
   "url": "https://snkrdunk.com/articles/32582/",
@@ -67,6 +85,24 @@
   ],
   "series": [
    "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "f4eee41ba04d",
+  "title": "【ポケポケ】どくの効果と治し方・どくにするカード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/466457",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-10T12:24:32.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/466457.png?date=1730007914",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
@@ -212,6 +248,24 @@
   "image": "https://cdn.snkrdunk.com/uploads/media/51d27ebd-3416-44fc-ac20-0af21c182c18.png",
   "categories": [
    "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "ac4c593414c4",
+  "title": "ゲンガー ★ [DP1 #102](拡張パック「時空の創造 ダイヤモンドコレクション・パールコレクション」)",
+  "url": "https://snkrdunk.com/apparels/427774/used/51137927",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-10T08:01:32.000Z",
+  "image": "https://snkrdunk.com/apparels/427774/used/51137927/opengraph-image?c19ad04227fce4cf",
+  "categories": [
+   "release"
   ],
   "series": [
    "tcg"
