@@ -55,6 +55,42 @@
   "isPR": false
  },
  {
+  "id": "2cf4169b2b2b",
+  "title": "【ポケポケ】カード一覧(カードリスト)【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/462535",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-10T13:25:08.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/462535.png?date=1726646200",
+  "categories": [
+   "reveal"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "f7c2b24eb0f5",
+  "title": "【ポケポケ】HP回復のおすすめカード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/466695",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-10T13:20:05.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/466695.png?date=1743150329",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "4b1213ccd32b",
   "title": "【ポケポケ】ミッション一覧【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/466360",
@@ -82,6 +118,24 @@
   "image": "https://cdn.snkrdunk.com/uploads/media/66b3ff5b-4fd7-4798-97b2-07d6c89da753.jpeg",
   "categories": [
    "reveal"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "50e54ea1b0e3",
+  "title": "トランセル 初版 : 旧裏 [PMCG1-1](拡張パック「ポケットモンスター カードゲーム」初版)",
+  "url": "https://snkrdunk.com/apparels/455373/used/51139611",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-10T12:41:14.000Z",
+  "image": "https://snkrdunk.com/apparels/455373/used/51139611/opengraph-image?c19ad04227fce4cf",
+  "categories": [
+   "release"
   ],
   "series": [
    "tcg"

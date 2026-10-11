@@ -1,5 +1,41 @@
 [
  {
+  "id": "8bf99680488a",
+  "title": "ポケモンカード、ビットコイン・金・S&P500上回る150%上昇",
+  "url": "https://jp.beincrypto.com/pokemon-cards-outperform-bitcoin-gold-sp500/",
+  "source": "BeInCrypto",
+  "summary": "",
+  "publishedAt": "2026-10-11T13:48:41.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "a5c5154399e2",
+  "title": "【ポケカ】ミュウ R/RGBの買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)",
+  "url": "https://snkrdunk.com/articles/33322/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-11T12:57:57.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/51d27ebd-3416-44fc-ac20-0af21c182c18.png",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "b66f414d563a",
   "title": "【ポケカ】エーフィex SAR仕様の買取・相場価格と値段推移｜30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
   "url": "https://snkrdunk.com/articles/32484/",
@@ -49,6 +85,25 @@
   ],
   "series": [
    "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "3a29c3fefe74",
+  "title": "【ポケポケ】進撃パラドックスの当たりカードと収録カード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/561436",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-11T11:06:21.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/561436.png?date=1779369911",
+  "categories": [
+   "reveal",
+   "deck"
+  ],
+  "series": [
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
@@ -106,24 +161,6 @@
   ],
   "stores": [],
   "isOfficial": true,
-  "isPR": false
- },
- {
-  "id": "a5c5154399e2",
-  "title": "【ポケカ】ミュウ R/RGBの買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)",
-  "url": "https://snkrdunk.com/articles/33322/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-11T09:56:40.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/51d27ebd-3416-44fc-ac20-0af21c182c18.png",
-  "categories": [
-   "market"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
   "isPR": false
  },
  {
@@ -283,6 +320,25 @@
   "summary": "",
   "publishedAt": "2026-10-10T17:51:38.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/565225.png?date=1782307542",
+  "categories": [
+   "reveal",
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "8f7626922741",
+  "title": "【ポケポケ】パルデアワンダーの当たりカードと収録カード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/545635",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-10T17:48:43.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545635.png?date=1771511273",
   "categories": [
    "reveal",
    "deck"
