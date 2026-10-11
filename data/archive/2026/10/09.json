@@ -511,24 +511,6 @@
   "isPR": false
  },
  {
-  "id": "bced5aa90687",
-  "title": "ポケカ体験会『熱狂中野ラーメン祭2026』へ限定出展",
-  "url": "https://news.infoseek.co.jp/article/prtimes_000000023_000177148/",
-  "source": "Infoseek",
-  "summary": "",
-  "publishedAt": "2026-10-09T09:45:24.000Z",
-  "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
-  "categories": [
-   "event"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "ddf8fbf606de",
   "title": "【ポケカ】ピカチュウから旅立ちの3匹まで大集合！30周年の愛が詰まった記念サプライを一挙紹介",
   "url": "https://snkrdunk.com/articles/33473/",
@@ -581,6 +563,24 @@
   "stores": [],
   "isOfficial": false,
   "isPR": false
+ },
+ {
+  "id": "bced5aa90687",
+  "title": "ポケカ体験会『熱狂中野ラーメン祭2026』へ限定出展",
+  "url": "https://prtimes.jp/main/html/rd/p/000000023.000177148.html",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-10-09T09:00:02.000Z",
+  "image": "https://prcdn.freetls.fastly.net/release_image/177148/23/177148-23-2bae4a5bb6b416d6abd194f72dc6679d-2029x1429.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": true
  },
  {
   "id": "f6270760409f",
