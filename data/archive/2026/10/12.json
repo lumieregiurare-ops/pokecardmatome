@@ -1,5 +1,97 @@
 [
  {
+  "id": "4b4c48858902",
+  "title": "【買取情報】ポケモンカードゲーム 買取情報 カードラボ津田沼店 1012 / 津田沼店の店舗ブログ",
+  "url": "https://www.c-labo.jp/blog/581202/",
+  "source": "カードラボ",
+  "summary": "",
+  "publishedAt": "2026-10-12T07:01:03.000Z",
+  "image": "https://www.c-labo.jp/wordpress/wp-content/uploads/2026/10/4c85c234076325c638e2c305400f29d6.jpg",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [
+   "cardshop"
+  ],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "d3b87d882a5e",
+  "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【10/11更新】",
+  "url": "https://snkrdunk.com/articles/33304/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-12T05:11:27.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/1be64b43-ba7d-41a8-adea-6b26f00f1866.png",
+  "categories": [
+   "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "a5c5154399e2",
+  "title": "【ポケカ】ミュウ R/RGBの買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)",
+  "url": "https://snkrdunk.com/articles/33322/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-12T05:07:25.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/51d27ebd-3416-44fc-ac20-0af21c182c18.png",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "dffa414ee5a2",
+  "title": "【ポケカ】2026年の新弾発売スケジュールまとめ | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/15950/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-12T04:34:09.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/20251222061410-0.jpeg",
+  "categories": [
+   "release"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "114719810f4b",
+  "title": "【ポケカ】30th CELEBRATION(30th セレブレーション)の予約・抽選情報まとめ【9/15更新】 | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/32425/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-12T01:29:09.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/f6fbd3a3-a36f-47a9-93ea-8c16b48ac4f3.jpeg",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "e29ea6b6931e",
   "title": "写真8/14｜「ヨシロットン展」虎ノ門ヒルズで、JAXA協力の宇宙アートやポケモンカードゲームの屋外展示",
   "url": "https://www.fashion-press.net/news/gallery/151174/2549730",
@@ -36,15 +128,72 @@
   "isPR": false
  },
  {
-  "id": "a5c5154399e2",
-  "title": "【ポケカ】ミュウ R/RGBの買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)",
-  "url": "https://snkrdunk.com/articles/33322/",
+  "id": "7ce29a27e667",
+  "title": "【ポケカ】MEGAドリームexの当たりランキング/買取相場/封入率/レア別相場/値段まとめ",
+  "url": "https://snkrdunk.com/articles/29152/",
   "source": "SNKRDUNK",
   "summary": "",
-  "publishedAt": "2026-10-11T22:44:01.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/51d27ebd-3416-44fc-ac20-0af21c182c18.png",
+  "publishedAt": "2026-10-11T22:25:36.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/20251127061052-0.jpeg",
   "categories": [
-   "market"
+   "market",
+   "reveal"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "01eef2d84448",
+  "title": "【ポケカ】30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキーの収録カード・再販抽選情報まとめ",
+  "url": "https://snkrdunk.com/articles/32464/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-11T22:22:52.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/b3ec7894-3c17-4254-b87a-9ca52ed4616f.jpeg",
+  "categories": [
+   "lottery",
+   "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "a5ae38af28ca",
+  "title": "【ポケカ】ストームエメラルダの予約・抽選情報まとめ【7/30更新】 | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/32581/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-11T21:55:26.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/2989b9e7-e8f4-4557-bee3-ff9f7db28e77.jpeg",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "b66f414d563a",
+  "title": "【ポケカ】エーフィex SAR仕様の買取・相場価格と値段推移｜30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
+  "url": "https://snkrdunk.com/articles/32484/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-11T20:51:19.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/36f42531-f6c6-4477-b822-b15cccc7a576.jpeg",
+  "categories": [
+   "market",
+   "release"
   ],
   "series": [
    "tcg"
@@ -128,6 +277,43 @@
   "isPR": false
  },
  {
+  "id": "cd4c19dd821c",
+  "title": "【ポケポケ】ハイクラスパックMEGAエンブレムイベントの攻略【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/579544",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-11T16:55:16.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/579544.jpg?date=1791011513",
+  "categories": [
+   "release",
+   "event"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "d95dcc960f46",
+  "title": "【ポケポケ】エリートデッキ(メガルカリオex)の入手方法【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/570822",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-11T16:48:26.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/570822.png?date=1789543017",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "ba10aad1679b",
   "title": "ポケモンカードラウンジ【10月開催】ポケモンカードチャンネル10周年記念イベント",
   "url": "https://shibuyatsutaya.tsite.jp/article/2674.html",
@@ -144,24 +330,6 @@
   "stores": [
    "tsutaya"
   ],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "d3b87d882a5e",
-  "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【10/11更新】",
-  "url": "https://snkrdunk.com/articles/33304/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-11T16:31:11.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/1be64b43-ba7d-41a8-adea-6b26f00f1866.png",
-  "categories": [
-   "restock"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
   "isOfficial": false,
   "isPR": false
  },
