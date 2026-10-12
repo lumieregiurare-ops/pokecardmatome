@@ -403,6 +403,42 @@
   "isPR": false
  },
  {
+  "id": "8d251878b18e",
+  "title": "『渋谷区立加計塚小学校』にてポケモンカードを活用した体験型ブースを出展！ミニゲームなどを実施",
+  "url": "https://www.sanyonews.jp/article/1920078?rct",
+  "source": "山陽新聞",
+  "summary": "",
+  "publishedAt": "2026-10-10T07:00:00.000Z",
+  "image": "https://static.sanyonews.jp/image/article/size1https://prtimes.jp/img/177148/9/resize/d177148-9-881b59a29d9db113fa30-0.jpg",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "c1a71ecdbf35",
+  "title": "ポケカ世界一 岡山県勢５人が挑む ２８～３０日 米サンフランシスコ",
+  "url": "https://www.sanyonews.jp/article/1973308",
+  "source": "山陽新聞",
+  "summary": "",
+  "publishedAt": "2026-10-10T07:00:00.000Z",
+  "image": "https://static.sanyonews.jp/image/article/size1/6/f/0/b/6f0b817e2dffda5afc3fb13e86f545f5_2.jpg",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "630ccaadc1f5",
   "title": "【26/10】ポケモンカードジム トレーナーズリーグ（オープンリーグ）",
   "url": "https://players.pokemon-card.com/event/detail/1149719/1/19979/20261010/1957073",
@@ -457,24 +493,6 @@
   "isPR": false
  },
  {
-  "id": "83b07b71a705",
-  "title": "シティリーグ2027 シーズン1 オープンリーグ",
-  "url": "https://players.pokemon-card.com/event/detail/1115040/result",
-  "source": "ポケモンカードゲーム プレイヤーズクラブ",
-  "summary": "",
-  "publishedAt": "2026-10-10T01:00:00.000Z",
-  "image": "",
-  "categories": [
-   "event"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": true,
-  "isPR": false
- },
- {
   "id": "f7a60137c134",
   "title": "『ポケモン』7年ぶり新作アニメ映画制作決定 ポケカ題材で『ポケモン：ワイルドカード』2027年公開！制作はCloverWorks",
   "url": "https://www.sanyonews.jp/article/1981080?kw",
@@ -508,6 +526,24 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "83b07b71a705",
+  "title": "シティリーグ2027 シーズン1 オープンリーグ",
+  "url": "https://players.pokemon-card.com/event/detail/1115179/result",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-10T00:00:00.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
@@ -549,7 +585,7 @@
  {
   "id": "bced5aa90687",
   "title": "ポケカ体験会『熱狂中野ラーメン祭2026』へ限定出展",
-  "url": "https://news.nicovideo.jp/watch/nw19866345?news_ref",
+  "url": "https://news.nicovideo.jp/watch/nw19866345",
   "source": "ニコニコニュース",
   "summary": "",
   "publishedAt": "2026-10-09T20:48:14.000Z",
