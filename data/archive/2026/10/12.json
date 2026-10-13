@@ -37,6 +37,24 @@
   "isPR": false
  },
  {
+  "id": "221cc65953bf",
+  "title": "【ポケポケ】結界のフィールドの効果・計算方法【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/567935",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-12T14:11:19.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/567935.png?date=1783913204",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "ce54ab3dcd6f",
   "title": "【ポケカ】ストームエメラルダの収録カードリスト一覧",
   "url": "https://snkrdunk.com/articles/32582/",
@@ -68,6 +86,24 @@
   ],
   "series": [
    "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "2ba9694d69ce",
+  "title": "【ポケポケ】ハイクラスパックMEGAのガチャシミュレーター【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/579050",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-12T12:43:24.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/579050.png?date=1790742651",
+  "categories": [
+   "release"
+  ],
+  "series": [
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
@@ -172,6 +208,24 @@
   "summary": "",
   "publishedAt": "2026-10-12T09:31:03.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560181.png?date=1778055956",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "fb80a9f0cfc7",
+  "title": "【ポケポケ】コノヨザルデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/546459",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-12T09:29:07.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/546459.png?date=1772099461",
   "categories": [
    "deck"
   ],
@@ -367,6 +421,25 @@
   "isPR": false
  },
  {
+  "id": "f6270760409f",
+  "title": "【ポケカ】御三家セットとは？買取・相場予想/予約抽選情報まとめ【30th CELEBRATION カードセット】",
+  "url": "https://snkrdunk.com/articles/32998/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-12T03:53:01.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/f66e78f7-b04b-4bcd-827e-207a1ad812b8.jpeg",
+  "categories": [
+   "lottery",
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "ca2fe210e0c6",
   "title": "シティリーグ2027 シーズン1 シニアリーグ",
   "url": "https://players.pokemon-card.com/event/detail/1115471/result",
@@ -382,6 +455,42 @@
   ],
   "stores": [],
   "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "83b07b71a705",
+  "title": "シティリーグ2027 シーズン1 オープンリーグ",
+  "url": "https://players.pokemon-card.com/event/detail/1115353/result",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-12T00:30:00.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "8d251878b18e",
+  "title": "『渋谷区立加計塚小学校』にてポケモンカードを活用した体験型ブースを出展！ミニゲームなどを実施",
+  "url": "https://www.sanyonews.jp/article/1920078?kw",
+  "source": "山陽新聞",
+  "summary": "",
+  "publishedAt": "2026-10-11T23:35:14.000Z",
+  "image": "https://static.sanyonews.jp/image/article/size1https://prtimes.jp/img/177148/9/resize/d177148-9-881b59a29d9db113fa30-0.jpg",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
   "isPR": false
  },
  {
