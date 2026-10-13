@@ -55,6 +55,24 @@
   "isPR": false
  },
  {
+  "id": "a119a84de4ba",
+  "title": "デッキを表示 | ポケカ公式 デッキコード=Qg9LiH-LAGMp1-gnPLLL",
+  "url": "https://www.pokemon-card.com/deck/confirm.html/deckID/Qg9LiH-LAGMp1-gnPLLL/",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-10-11T13:34:12.000Z",
+  "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/Qg9LiH-LAGMp1-gnPLLL.png?v=1998061658402",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "21beed7ca646",
   "title": "【ポケポケ】ロケット団の野望の当たりカードと収録カード一覧【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/573136",
@@ -249,6 +267,24 @@
   "image": "https://cdn.snkrdunk.com/uploads/media/51d27ebd-3416-44fc-ac20-0af21c182c18.png",
   "categories": [
    "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "c1a71ecdbf35",
+  "title": "ポケカ世界一 岡山県勢５人が挑む ２８～３０日 米サンフランシスコ",
+  "url": "https://www.sanyonews.jp/article/1973308",
+  "source": "山陽新聞",
+  "summary": "",
+  "publishedAt": "2026-10-11T07:00:00.000Z",
+  "image": "https://static.sanyonews.jp/image/article/size1/6/f/0/b/6f0b817e2dffda5afc3fb13e86f545f5_2.jpg",
+  "categories": [
+   "other"
   ],
   "series": [
    "tcg"
