@@ -73,6 +73,24 @@
   "isPR": false
  },
  {
+  "id": "b7c158e5da49",
+  "title": "【ポケポケ】相手ベンチ数依存のワザを持つカード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/574154",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-12T13:53:17.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574154.png?date=1787821902",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "df31c8624653",
   "title": "【ポケカ】ブラッキーex SAR仕様の買取・相場価格と値段推移｜30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
   "url": "https://snkrdunk.com/articles/32473/",
@@ -86,6 +104,25 @@
   ],
   "series": [
    "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "3a29c3fefe74",
+  "title": "【ポケポケ】進撃パラドックスの当たりカードと収録カード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/561436",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-12T12:53:28.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/561436.png?date=1779369911",
+  "categories": [
+   "reveal",
+   "deck"
+  ],
+  "series": [
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
@@ -198,6 +235,25 @@
   ],
   "stores": [],
   "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "f6270760409f",
+  "title": "【ポケカ】御三家セットとは？買取・相場予想/予約抽選情報まとめ【30th CELEBRATION カードセット】",
+  "url": "https://snkrdunk.com/articles/32998/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-12T09:56:17.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/f66e78f7-b04b-4bcd-827e-207a1ad812b8.jpeg",
+  "categories": [
+   "lottery",
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
   "isPR": false
  },
  {
@@ -421,31 +477,12 @@
   "isPR": false
  },
  {
-  "id": "f6270760409f",
-  "title": "【ポケカ】御三家セットとは？買取・相場予想/予約抽選情報まとめ【30th CELEBRATION カードセット】",
-  "url": "https://snkrdunk.com/articles/32998/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-12T03:53:01.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/f66e78f7-b04b-4bcd-827e-207a1ad812b8.jpeg",
-  "categories": [
-   "lottery",
-   "market"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "ca2fe210e0c6",
   "title": "シティリーグ2027 シーズン1 シニアリーグ",
-  "url": "https://players.pokemon-card.com/event/detail/1115471/result",
+  "url": "https://players.pokemon-card.com/event/detail/1140315/result",
   "source": "ポケモンカードゲーム プレイヤーズクラブ",
   "summary": "",
-  "publishedAt": "2026-10-12T01:00:00.000Z",
+  "publishedAt": "2026-10-12T01:30:00.000Z",
   "image": "",
   "categories": [
    "event"
@@ -460,10 +497,10 @@
  {
   "id": "83b07b71a705",
   "title": "シティリーグ2027 シーズン1 オープンリーグ",
-  "url": "https://players.pokemon-card.com/event/detail/1115353/result",
+  "url": "https://players.pokemon-card.com/event/detail/1115056/result",
   "source": "ポケモンカードゲーム プレイヤーズクラブ",
   "summary": "",
-  "publishedAt": "2026-10-12T00:30:00.000Z",
+  "publishedAt": "2026-10-12T01:00:00.000Z",
   "image": "",
   "categories": [
    "event"
