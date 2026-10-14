@@ -515,6 +515,25 @@
   "isPR": false
  },
  {
+  "id": "b2ea44113054",
+  "title": "『ポケカ』Yahoo!フリマ、ヤフオクでの規制強化！カートン単位や空箱・空パックなどを出品禁止へ",
+  "url": "https://article.auone.jp/article/996f02f0-6aeb-4e72-8b03-c83567e6519c",
+  "source": "au Webポータル",
+  "summary": "『ポケモンカード』発売後一定期間における同一商品の大量出品も禁止。こちらは「30th CELEBRATION」より適用されます。",
+  "publishedAt": "2026-10-13T07:10:00.000Z",
+  "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/14/https___news_jp_i_1482637188904452913_w640.webp",
+  "categories": [
+   "market",
+   "caution"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "f5a351e9a273",
   "title": "Yahoo! トレカ空箱の出品禁止を発表 「ヤフオク」「ペイペイフリマ」 ポケカ大量出品も規制",
   "url": "https://news.infoseek.co.jp/amp/article/sponichin_20261013_0215/",
@@ -571,25 +590,6 @@
   "isPR": false
  },
  {
-  "id": "b2ea44113054",
-  "title": "『ポケカ』Yahoo!フリマ、ヤフオクでの規制強化！カートン単位や空箱・空パックなどを出品禁止へ",
-  "url": "https://www.inside-games.jp/article/2026/10/13/189182.html",
-  "source": "インサイド",
-  "summary": "『ポケモンカード』発売後一定期間における同一商品の大量出品も禁止。こちらは「30th CELEBRATION」より適用されます。",
-  "publishedAt": "2026-10-13T06:54:52.000Z",
-  "image": "https://www.inside-games.jp/imgs/ogp_f/1793218.jpg",
-  "categories": [
-   "market",
-   "caution"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "d49d65a63239",
   "title": "『ポケカ』Yahoo!フリマ、ヤフオクでの規制強化！同一商品の大量出品、空箱・空パックなどを禁止へ（インサイド）",
   "url": "https://news.yahoo.co.jp/articles/a4367dd8b29920b014633ee437cb868f68641a80",
@@ -612,7 +612,7 @@
   "id": "c5be3efd4e55",
   "title": "『ポケカ』ヤフオク・Yahoo!フリマでカートン単位の出品や空箱・空パックの販売が禁止に。新商品発売後の同一商品の大量出品も規制",
   "url": "https://www.famitsu.com/article/202610/90817",
-  "source": "ファミ通",
+  "source": "ファミ通.com",
   "summary": "",
   "publishedAt": "2026-10-13T06:32:00.000Z",
   "image": "https://cimg.kgl-systems.io/camion/files/90817/thumbnail_qJMN.png?x=1280",
