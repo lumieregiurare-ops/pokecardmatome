@@ -19,6 +19,24 @@
   "isPR": false
  },
  {
+  "id": "397da41a59f2",
+  "title": "【ポケポケ】デュアルタイプとは？【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/574423",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-14T12:19:11.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574423.png?date=1788139354",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "7ed1b0f66964",
   "title": "【ポケポケ】新パック「ハイクラスパックMEGA(メガ)」の収録カードと当たりカード一覧【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/578648",
@@ -66,6 +84,24 @@
   "categories": [
    "lottery",
    "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "ce54ab3dcd6f",
+  "title": "【ポケカ】ストームエメラルダの収録カードリスト一覧",
+  "url": "https://snkrdunk.com/articles/32582/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-14T10:40:51.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/66b3ff5b-4fd7-4798-97b2-07d6c89da753.jpeg",
+  "categories": [
+   "reveal"
   ],
   "series": [
    "tcg"
@@ -363,6 +399,60 @@
   ],
   "series": [
    "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "bffe65f6344c",
+  "title": "【ポケポケ】マスカーニャexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/546302",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-14T04:27:21.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/546302.png?date=1772079043",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "c3ef076a7e60",
+  "title": "【ポケポケ】グレンアルマexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/546484",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-14T04:27:19.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/546484.png?date=1772101684",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "ad901e4ed4db",
+  "title": "【ポケポケ】メガヤドランexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/551308",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-14T04:27:16.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/551308.png?date=1774496544",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
@@ -822,24 +912,6 @@
   ],
   "series": [
    "pocket"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "ce54ab3dcd6f",
-  "title": "【ポケカ】ストームエメラルダの収録カードリスト一覧",
-  "url": "https://snkrdunk.com/articles/32582/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-13T19:04:37.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/66b3ff5b-4fd7-4798-97b2-07d6c89da753.jpeg",
-  "categories": [
-   "reveal"
-  ],
-  "series": [
-   "tcg"
   ],
   "stores": [],
   "isOfficial": false,

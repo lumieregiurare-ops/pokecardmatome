@@ -109,24 +109,6 @@
   "isPR": false
  },
  {
-  "id": "a5c5154399e2",
-  "title": "【ポケカ】ミュウ R/RGBの買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)",
-  "url": "https://snkrdunk.com/articles/33322/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-13T13:38:47.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/51d27ebd-3416-44fc-ac20-0af21c182c18.png",
-  "categories": [
-   "market"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "d3b87d882a5e",
   "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【10/13更新】",
   "url": "https://snkrdunk.com/articles/33304/",
@@ -211,24 +193,6 @@
   "image": "https://cdn.snkrdunk.com/uploads/media/20251222061410-0.jpeg",
   "categories": [
    "release"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "a54d539d0370",
-  "title": "【ポケカ】ルギア(30th再録)の買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)",
-  "url": "https://snkrdunk.com/articles/33331/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-13T11:45:15.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/ae0dc9c1-0da8-46bf-90cb-413081856201.png",
-  "categories": [
-   "market"
   ],
   "series": [
    "tcg"
@@ -515,25 +479,6 @@
   "isPR": false
  },
  {
-  "id": "b2ea44113054",
-  "title": "『ポケカ』Yahoo!フリマ、ヤフオクでの規制強化！カートン単位や空箱・空パックなどを出品禁止へ",
-  "url": "https://article.auone.jp/article/996f02f0-6aeb-4e72-8b03-c83567e6519c",
-  "source": "au Webポータル",
-  "summary": "『ポケモンカード』発売後一定期間における同一商品の大量出品も禁止。こちらは「30th CELEBRATION」より適用されます。",
-  "publishedAt": "2026-10-13T07:10:00.000Z",
-  "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/14/https___news_jp_i_1482637188904452913_w640.webp",
-  "categories": [
-   "market",
-   "caution"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "f5a351e9a273",
   "title": "Yahoo! トレカ空箱の出品禁止を発表 「ヤフオク」「ペイペイフリマ」 ポケカ大量出品も規制",
   "url": "https://news.infoseek.co.jp/amp/article/sponichin_20261013_0215/",
@@ -578,6 +523,61 @@
   "summary": "",
   "publishedAt": "2026-10-13T07:03:31.000Z",
   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261013-00000236-spnannex-000-17-view.jpg?exp=10800",
+  "categories": [
+   "market",
+   "caution"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "a5c5154399e2",
+  "title": "【ポケカ】ミュウ R/RGBの買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)",
+  "url": "https://snkrdunk.com/articles/33322/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-13T07:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/51d27ebd-3416-44fc-ac20-0af21c182c18.png",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "a54d539d0370",
+  "title": "【ポケカ】ルギア(30th再録)の買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)",
+  "url": "https://snkrdunk.com/articles/33331/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-13T07:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/ae0dc9c1-0da8-46bf-90cb-413081856201.png",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "b2ea44113054",
+  "title": "『ポケカ』Yahoo!フリマ、ヤフオクでの規制強化！カートン単位や空箱・空パックなどを出品禁止へ",
+  "url": "https://www.inside-games.jp/article/2026/10/13/189182.html",
+  "source": "インサイド",
+  "summary": "『ポケモンカード』発売後一定期間における同一商品の大量出品も禁止。こちらは「30th CELEBRATION」より適用されます。",
+  "publishedAt": "2026-10-13T06:54:52.000Z",
+  "image": "https://www.inside-games.jp/imgs/ogp_f/1793218.jpg",
   "categories": [
    "market",
    "caution"
