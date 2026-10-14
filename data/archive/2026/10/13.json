@@ -19,6 +19,24 @@
   "isPR": false
  },
  {
+  "id": "a5ae38af28ca",
+  "title": "【ポケカ】ストームエメラルダの予約・抽選情報まとめ【7/30更新】 | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/32581/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-13T14:35:52.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/2989b9e7-e8f4-4557-bee3-ff9f7db28e77.jpeg",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "3fd25a757c03",
   "title": "【ポケカ】リザードン(30th再録)の買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)",
   "url": "https://snkrdunk.com/articles/33338/",
@@ -136,6 +154,25 @@
   "image": "https://cdn.snkrdunk.com/uploads/media/61ebe393-656b-40b9-85c1-2d869ab1c900.jpeg",
   "categories": [
    "market",
+   "reveal"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "4e16926900a5",
+  "title": "【ポケカ】強化拡張パック「双璧のファイター」の収録・当たりカードリスト/予約/抽選/定価/販売店舗まとめ",
+  "url": "https://snkrdunk.com/articles/11689/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-13T12:24:18.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/20240110094829-3.jpeg",
+  "categories": [
+   "lottery",
    "reveal"
   ],
   "series": [
@@ -540,7 +577,7 @@
   "source": "インサイド",
   "summary": "『ポケモンカード』発売後一定期間における同一商品の大量出品も禁止。こちらは「30th CELEBRATION」より適用されます。",
   "publishedAt": "2026-10-13T06:54:52.000Z",
-  "image": "https://www.inside-games.jp/imgs/rss/1793218.jpg",
+  "image": "https://www.inside-games.jp/imgs/ogp_f/1793218.jpg",
   "categories": [
    "market",
    "caution"
@@ -575,7 +612,7 @@
   "id": "c5be3efd4e55",
   "title": "『ポケカ』ヤフオク・Yahoo!フリマでカートン単位の出品や空箱・空パックの販売が禁止に。新商品発売後の同一商品の大量出品も規制",
   "url": "https://www.famitsu.com/article/202610/90817",
-  "source": "ファミ通",
+  "source": "ファミ通.com",
   "summary": "",
   "publishedAt": "2026-10-13T06:32:00.000Z",
   "image": "https://cimg.kgl-systems.io/camion/files/90817/thumbnail_qJMN.png?x=1280",
@@ -619,24 +656,6 @@
   "categories": [
    "market",
    "release"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "a5ae38af28ca",
-  "title": "【ポケカ】ストームエメラルダの予約・抽選情報まとめ【7/30更新】 | スニーカーダンク",
-  "url": "https://snkrdunk.com/articles/32581/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-13T04:12:28.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/2989b9e7-e8f4-4557-bee3-ff9f7db28e77.jpeg",
-  "categories": [
-   "lottery"
   ],
   "series": [
    "tcg"
