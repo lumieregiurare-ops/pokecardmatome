@@ -1,15 +1,52 @@
 [
  {
+  "id": "8fcc88248feb",
+  "title": "カード詳細（基本炎エネルギー） | ポケカ公式",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50746",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-10-14T14:49:28.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "08a9104d29b6",
   "title": "LINEヤフーとポケモンが情報連携を強化！ポケカの「転売・買い占め対策」で規制新ルール",
   "url": "https://dxmagazine.jp/news/2658ko54/",
   "source": "DXマガジン",
   "summary": "",
-  "publishedAt": "2026-10-14T13:52:30.000Z",
+  "publishedAt": "2026-10-14T13:59:38.000Z",
   "image": "https://dxmagazine.jp/cp/wp-content/uploads/2026/09/7-2.jpg",
   "categories": [
    "market",
    "deck"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "e9ef1208cf5d",
+  "title": "【ポケカ】ハドウシーカーの当たりランキング/発売日予想/リーク情報/封入率/予約抽選まとめ",
+  "url": "https://snkrdunk.com/articles/31684/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-14T13:52:05.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/20260310030300-0.jpeg",
+  "categories": [
+   "lottery",
+   "reveal"
   ],
   "series": [
    "tcg"
@@ -239,6 +276,24 @@
   "isPR": false
  },
  {
+  "id": "678ec9d22c0e",
+  "title": "【22枚】旧裏 ピカチュウv 25th など まとめ売り ピカチュウ LV5 旧裏 ポケモンカード - メルカリ",
+  "url": "https://www.stylemagazin.hu/?r",
+  "source": "stylemagazin.hu",
+  "summary": "",
+  "publishedAt": "2026-10-14T09:12:01.000Z",
+  "image": "https://www.stylemagazin.hu/themes/style-theme/img/facebook_style_default.jpg",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "4152aafc81a1",
   "title": "【ポケポケ】メガヤミラミexデッキのレシピと評価【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/565899",
@@ -361,6 +416,24 @@
   ],
   "series": [
    "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "c6ce94867b8a",
+  "title": "【ポケポケ】トレード掲示板【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/card-trades?wishCards",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-14T06:11:11.000Z",
+  "image": "https://img.gamewith.jp/article_tools/pokemon-tcg-pocket/gacha/trade_ogp.png",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
@@ -595,25 +668,6 @@
   "categories": [
    "market",
    "release"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "e9ef1208cf5d",
-  "title": "【ポケカ】ハドウシーカーの当たりランキング/発売日予想/リーク情報/封入率/予約抽選まとめ",
-  "url": "https://snkrdunk.com/articles/31684/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-14T03:28:49.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/20260310030300-0.jpeg",
-  "categories": [
-   "lottery",
-   "reveal"
   ],
   "series": [
    "tcg"
