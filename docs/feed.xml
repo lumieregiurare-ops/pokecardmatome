@@ -5,7 +5,7 @@
   <link href="https://pokecardmatome.gamelab.website/" rel="alternate"/>
   <link href="https://pokecardmatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://pokecardmatome.gamelab.website/</id>
-  <updated>2026-10-15T09:52:39.014Z</updated>
+  <updated>2026-10-15T14:37:43.937Z</updated>
   <author><name>ポケカ速報</name></author>
   <entry>
     <title>「チャンピオンズリーグ2027 千葉」 ～23日（月・祝）開催！</title>
@@ -15,17 +15,87 @@
     <summary>ポケモンカードゲーム公式</summary>
   </entry>
   <entry>
-    <title>【ポケカ】御三家セットとは？買取・相場予想/予約抽選情報まとめ【30th CELEBRATION カードセット】</title>
-    <link href="https://snkrdunk.com/articles/32998/"/>
-    <id>https://pokecardmatome.gamelab.website/#f6270760409f</id>
-    <updated>2026-10-15T07:16:14.000Z</updated>
+    <title>【ポケカ】Amazon抽選販売まとめ。30周年カードセット“30th CELEBRATION”やストームエメラルダ、MEGAドリームexなど</title>
+    <link href="https://www.famitsu.com/article/202610/90708"/>
+    <id>https://pokecardmatome.gamelab.website/#075dce22bfef</id>
+    <updated>2026-10-15T13:30:00.000Z</updated>
+    <summary>ファミ通.com</summary>
+  </entry>
+  <entry>
+    <title>【ポケカ】30th CELEBRATION カードセット発売買取価格ランキング</title>
+    <link href="https://pokeca-pocket.dbfw-days.com/30th-celebration-cardset-ranking/"/>
+    <id>https://pokecardmatome.gamelab.website/#81249cd2c088</id>
+    <updated>2026-10-15T12:42:20.000Z</updated>
+    <summary>ポケカポケット開封日記</summary>
+  </entry>
+  <entry>
+    <title>【ポケポケ】メガガブリアスexデッキのレシピと評価【ポケモンカードアプリ】</title>
+    <link href="https://gamewith.jp/pokemon-tcg-pocket/582954"/>
+    <id>https://pokecardmatome.gamelab.website/#62c9d5f138cb</id>
+    <updated>2026-10-15T12:20:24.000Z</updated>
+    <summary>GameWith</summary>
+  </entry>
+  <entry>
+    <title>【ポケポケ】メガガブリアスexドロップイベント/カードリスト＆周回デッキ解説【プロモパックB vol.13】</title>
+    <link href="https://pokeca-pocket.dbfw-days.com/b-promo12-megagabu/"/>
+    <id>https://pokecardmatome.gamelab.website/#5ea81c0199d8</id>
+    <updated>2026-10-15T11:27:51.000Z</updated>
+    <summary>ポケカポケット開封日記</summary>
+  </entry>
+  <entry>
+    <title>【ポケカ】ミュウ B/RGBの買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)</title>
+    <link href="https://snkrdunk.com/articles/33324/"/>
+    <id>https://pokecardmatome.gamelab.website/#f6eb8596a22b</id>
+    <updated>2026-10-15T11:26:46.000Z</updated>
+    <summary>SNKRDUNK</summary>
+  </entry>
+  <entry>
+    <title>【ポケカ】30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキーの収録カード・再販抽選情報まとめ</title>
+    <link href="https://snkrdunk.com/articles/32464/"/>
+    <id>https://pokecardmatome.gamelab.website/#01eef2d84448</id>
+    <updated>2026-10-15T09:58:17.000Z</updated>
+    <summary>SNKRDUNK</summary>
+  </entry>
+  <entry>
+    <title>【ポケカ】2026年の新弾発売スケジュールまとめ | スニーカーダンク</title>
+    <link href="https://snkrdunk.com/articles/15950/"/>
+    <id>https://pokecardmatome.gamelab.website/#dffa414ee5a2</id>
+    <updated>2026-10-15T09:52:11.000Z</updated>
     <summary>SNKRDUNK</summary>
   </entry>
   <entry>
     <title>【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【10/15更新】</title>
     <link href="https://snkrdunk.com/articles/33304/"/>
     <id>https://pokecardmatome.gamelab.website/#d3b87d882a5e</id>
-    <updated>2026-10-15T06:48:33.000Z</updated>
+    <updated>2026-10-15T09:48:56.000Z</updated>
+    <summary>SNKRDUNK</summary>
+  </entry>
+  <entry>
+    <title>【ポケカ】御三家セットとは？買取・相場予想/予約抽選情報まとめ【30th CELEBRATION カードセット】</title>
+    <link href="https://snkrdunk.com/articles/32998/"/>
+    <id>https://pokecardmatome.gamelab.website/#f6270760409f</id>
+    <updated>2026-10-15T09:16:18.000Z</updated>
+    <summary>SNKRDUNK</summary>
+  </entry>
+  <entry>
+    <title>【ポケカ】ミュウ G/RGBの買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)</title>
+    <link href="https://snkrdunk.com/articles/33323/"/>
+    <id>https://pokecardmatome.gamelab.website/#4befb1c0638a</id>
+    <updated>2026-10-15T09:00:33.000Z</updated>
+    <summary>SNKRDUNK</summary>
+  </entry>
+  <entry>
+    <title>【ポケカ】ヒロシマのピカチュウ プロモの買取・相場価格と値段推移｜スペシャルBOX「ヒロシマ」</title>
+    <link href="https://snkrdunk.com/articles/29064/"/>
+    <id>https://pokecardmatome.gamelab.website/#688d07535f0d</id>
+    <updated>2026-10-15T07:51:46.000Z</updated>
+    <summary>SNKRDUNK</summary>
+  </entry>
+  <entry>
+    <title>【ポケカ】ゴッホピカチュウの買取・相場価格と値段推移｜ゴッホ美術館×ポケモンコラボ</title>
+    <link href="https://snkrdunk.com/articles/20582/"/>
+    <id>https://pokecardmatome.gamelab.website/#1f81585d227d</id>
+    <updated>2026-10-15T07:19:44.000Z</updated>
     <summary>SNKRDUNK</summary>
   </entry>
   <entry>
@@ -34,6 +104,13 @@
     <id>https://pokecardmatome.gamelab.website/#7bf92aaacc22</id>
     <updated>2026-10-15T06:43:14.000Z</updated>
     <summary>GameWith</summary>
+  </entry>
+  <entry>
+    <title>【ポケカ】ロケット団の栄光の予約・抽選情報まとめ【4月22日更新】</title>
+    <link href="https://snkrdunk.com/articles/27331/"/>
+    <id>https://pokecardmatome.gamelab.website/#797cf9298d82</id>
+    <updated>2026-10-15T06:22:58.000Z</updated>
+    <summary>SNKRDUNK</summary>
   </entry>
   <entry>
     <title>【ポケポケ】メガガブリアスexの効果と事前評価【ポケモンカードアプリ】</title>
@@ -47,27 +124,6 @@
     <link href="https://snkrdunk.com/articles/32582/"/>
     <id>https://pokecardmatome.gamelab.website/#ce54ab3dcd6f</id>
     <updated>2026-10-15T05:54:29.000Z</updated>
-    <summary>SNKRDUNK</summary>
-  </entry>
-  <entry>
-    <title>【ポケカ】ミュウ G/RGBの買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)</title>
-    <link href="https://snkrdunk.com/articles/33323/"/>
-    <id>https://pokecardmatome.gamelab.website/#4befb1c0638a</id>
-    <updated>2026-10-15T04:12:08.000Z</updated>
-    <summary>SNKRDUNK</summary>
-  </entry>
-  <entry>
-    <title>【ポケカ】ミュウ B/RGBの買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)</title>
-    <link href="https://snkrdunk.com/articles/33324/"/>
-    <id>https://pokecardmatome.gamelab.website/#f6eb8596a22b</id>
-    <updated>2026-10-15T03:32:19.000Z</updated>
-    <summary>SNKRDUNK</summary>
-  </entry>
-  <entry>
-    <title>【ポケカ】30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキーの収録カード・再販抽選情報まとめ</title>
-    <link href="https://snkrdunk.com/articles/32464/"/>
-    <id>https://pokecardmatome.gamelab.website/#01eef2d84448</id>
-    <updated>2026-10-15T02:57:22.000Z</updated>
     <summary>SNKRDUNK</summary>
   </entry>
   <entry>
@@ -120,13 +176,6 @@
     <summary>玩具人 TOY PEOPLE</summary>
   </entry>
   <entry>
-    <title>ポケモン新作映画、主人公の名前発表 映像＆場面カット解禁で史上初のポケカ題材作品</title>
-    <link href="https://www.sanyonews.jp/article/1981332"/>
-    <id>https://pokecardmatome.gamelab.website/#57496fb3e454</id>
-    <updated>2026-10-14T16:31:32.000Z</updated>
-    <summary>山陽新聞</summary>
-  </entry>
-  <entry>
     <title>【ポケポケ】パルデアワンダーの当たりカードと収録カード一覧【ポケモンカードアプリ】</title>
     <link href="https://gamewith.jp/pokemon-tcg-pocket/545635"/>
     <id>https://pokecardmatome.gamelab.website/#8f7626922741</id>
@@ -169,25 +218,11 @@
     <summary>GameWith</summary>
   </entry>
   <entry>
-    <title>【ポケポケ】新パック「ハイクラスパックMEGA(メガ)」の収録カードと当たりカード一覧【ポケモンカードアプリ】</title>
-    <link href="https://gamewith.jp/pokemon-tcg-pocket/578648"/>
-    <id>https://pokecardmatome.gamelab.website/#7ed1b0f66964</id>
-    <updated>2026-10-14T11:44:16.000Z</updated>
-    <summary>GameWith</summary>
-  </entry>
-  <entry>
     <title>ポケモンカードなどを上田市の知人宅から盗んだ疑い 23歳の男逮捕</title>
     <link href="https://www.shinmai.co.jp/news/article/gf01db7m68s41gsck3gg108g"/>
     <id>https://pokecardmatome.gamelab.website/#3af71c883f44</id>
     <updated>2026-10-14T11:28:00.000Z</updated>
     <summary>信濃毎日新聞デジタル</summary>
-  </entry>
-  <entry>
-    <title>ポケモンカードゲーム 横浜記念デッキ ピカチュウ 開封品 ポケカ】世界大会の記念デッキ『ピカチュウ』が届いたので早速開封しま</title>
-    <link href="http://www.stylemagazin.hu/?w"/>
-    <id>https://pokecardmatome.gamelab.website/#fa4c49f0179e</id>
-    <updated>2026-10-14T10:09:13.000Z</updated>
-    <summary>www.stylemagazin.hu</summary>
   </entry>
   <entry>
     <title>【ポケカ新グッズ】みんなのお気に入りの子たちをファイリングしよう！【ポケモンカード】</title>
@@ -239,13 +274,6 @@
     <summary>ITmedia</summary>
   </entry>
   <entry>
-    <title>LINEヤフー、「Yahoo!フリマ」「Yahoo!オークション」でポケモンカードのカートン出品などを禁止</title>
-    <link href="https://mediamixi.jp/news/16397/"/>
-    <id>https://pokecardmatome.gamelab.website/#63dc53698746</id>
-    <updated>2026-10-14T02:09:46.000Z</updated>
-    <summary>MEDIAMIXI</summary>
-  </entry>
-  <entry>
     <title>Yahoo!フリマ・オークション、ポケカのカートンや空箱の出品禁止 (Impress Watch)</title>
     <link href="https://news.yahoo.co.jp/articles/7ddb28063cca9bfc123720086ecd4a9bcb81eb08/images/000"/>
     <id>https://pokecardmatome.gamelab.website/#cbf50ba01396</id>
@@ -267,13 +295,6 @@
     <summary>Impress Watch</summary>
   </entry>
   <entry>
-    <title>【ポケカ】強化拡張パック「双璧のファイター」の収録・当たりカードリスト/予約/抽選/定価/販売店舗まとめ</title>
-    <link href="https://snkrdunk.com/articles/11689/"/>
-    <id>https://pokecardmatome.gamelab.website/#4e16926900a5</id>
-    <updated>2026-10-13T12:24:18.000Z</updated>
-    <summary>SNKRDUNK</summary>
-  </entry>
-  <entry>
     <title>LINEヤフー、ポケモンカードの出品ルール厳格化 買い占めを防止</title>
     <link href="https://www.nikkei.com/article/DGXZQOUC135UE0T11C26A0000000/"/>
     <id>https://pokecardmatome.gamelab.website/#95e376620173</id>
@@ -281,18 +302,11 @@
     <summary>日本経済新聞</summary>
   </entry>
   <entry>
-    <title>【ポケカ】30th CELEBRATIONに収録されたSARまとめ！魅力や注目ポイントを紹介</title>
-    <link href="https://snkrdunk.com/articles/33498/"/>
-    <id>https://pokecardmatome.gamelab.website/#0ee7907c2deb</id>
-    <updated>2026-10-13T09:43:05.000Z</updated>
-    <summary>SNKRDUNK</summary>
-  </entry>
-  <entry>
-    <title>なぜ「空箱」まで？ LINEヤフー「ポケモンカードゲーム」一部出品を禁止 今日から (マグミクス)</title>
-    <link href="https://news.yahoo.co.jp/articles/b4c54b3046f5c31f6404a8cc1acc0891cdb4e454/images/000"/>
+    <title>なぜ「空箱」まで？ LINEヤフー「ポケモンカードゲーム」一部出品を禁止 今日から</title>
+    <link href="https://magmix.jp/post/380438"/>
     <id>https://pokecardmatome.gamelab.website/#12ec62789a02</id>
     <updated>2026-10-13T09:20:00.000Z</updated>
-    <summary>Yahoo!ニュース</summary>
+    <summary>マグミクス</summary>
   </entry>
   <entry>
     <title>『ポケカ』転売をヤフオクとYahoo!フリマが規制 大量出品や空箱の販売を禁止 - KAI-YOU</title>
@@ -342,19 +356,5 @@
     <id>https://pokecardmatome.gamelab.website/#e5b33aa247ee</id>
     <updated>2026-10-13T07:04:07.000Z</updated>
     <summary>VSS 鑑定</summary>
-  </entry>
-  <entry>
-    <title>【ポケカ】ミュウ R/RGBの買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)</title>
-    <link href="https://snkrdunk.com/articles/33322/"/>
-    <id>https://pokecardmatome.gamelab.website/#a5c5154399e2</id>
-    <updated>2026-10-13T07:00:00.000Z</updated>
-    <summary>SNKRDUNK</summary>
-  </entry>
-  <entry>
-    <title>【ポケカ】リザードン(30th再録)の買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)</title>
-    <link href="https://snkrdunk.com/articles/33338/"/>
-    <id>https://pokecardmatome.gamelab.website/#3fd25a757c03</id>
-    <updated>2026-10-13T07:00:00.000Z</updated>
-    <summary>SNKRDUNK</summary>
   </entry>
 </feed>
