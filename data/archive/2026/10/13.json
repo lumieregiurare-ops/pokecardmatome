@@ -429,7 +429,7 @@
   "source": "電ファミニコゲーマー",
   "summary": "ポケモンカードゲームの適正な取引環境の実現に向けた取り組みとして、LINEヤフー株式会社と株式会社ポケモンが連携して実施",
   "publishedAt": "2026-10-13T07:20:00.000Z",
-  "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/imgi_45_logo-auc-1024x538.png",
+  "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/imgi_45_logo-auc.png",
   "categories": [
    "market",
    "release"
@@ -736,6 +736,24 @@
    "cardshop"
   ],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "63858e709ec3",
+  "title": "【26/10】ポケモンカードジム ジムバトル",
+  "url": "https://players.pokemon-card.com/event/detail/1155378/1/20023/20261017/1962001",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-12T23:09:03.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {

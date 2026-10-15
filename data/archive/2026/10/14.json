@@ -56,6 +56,24 @@
   "isPR": false
  },
  {
+  "id": "e469b648fd9f",
+  "title": "【ポケポケ】デッキミッション一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/466796",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-14T13:50:04.000Z",
+  "image": "",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "45de1cd80e7c",
   "title": "【ポケポケ】金フレーム(金枠)の入手方法とトレード方法【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/559877",
@@ -866,6 +884,25 @@
   "summary": "",
   "publishedAt": "2026-10-13T23:34:14.000Z",
   "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnWKLHSNdOBtffmOz9uoDuE1LOPcHT0wc8LlaQQdXxedZViWtgUE_dEN8V00i5ruJTk6TF8Zr_otkHCgaNhhO6fpxZGh-BBWXddHsbXAXFwlg",
+  "categories": [
+   "market",
+   "caution"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "b2ea44113054",
+  "title": "『ポケカ』Yahoo!フリマ、ヤフオクでの規制強化！カートン単位や空箱・空パックなどを出品禁止へ",
+  "url": "https://www.gamebusiness.jp/article/2026/10/14/28309.html",
+  "source": "GameBusiness.jp",
+  "summary": "",
+  "publishedAt": "2026-10-13T23:00:03.000Z",
+  "image": "https://www.gamebusiness.jp/imgs/ogp_f/199710.jpg",
   "categories": [
    "market",
    "caution"
