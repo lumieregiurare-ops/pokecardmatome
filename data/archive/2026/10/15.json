@@ -78,10 +78,10 @@
  {
   "id": "452cc50abac7",
   "title": "ミュウ [M6a G/RGB](拡張パック「30th CELEBRATION」)",
-  "url": "https://snkrdunk.com/apparels/898626/used/51409198",
+  "url": "https://snkrdunk.com/apparels/898626/used/51475767",
   "source": "SNKRDUNK",
   "summary": "",
-  "publishedAt": "2026-10-15T12:59:46.000Z",
+  "publishedAt": "2026-10-15T12:53:40.000Z",
   "image": "https://snkrdunk.com/apparels/898626/used/51475767/opengraph-image?c19ad04227fce4cf",
   "categories": [
    "release"
@@ -235,24 +235,6 @@
   ],
   "series": [
    "pocket"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "f6eb8596a22b",
-  "title": "【ポケカ】ミュウ B/RGBの買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)",
-  "url": "https://snkrdunk.com/articles/33324/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-15T11:26:46.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/f8c38fab-0e4e-42ca-85e0-e36f5cbd8121.png",
-  "categories": [
-   "market"
-  ],
-  "series": [
-   "tcg"
   ],
   "stores": [],
   "isOfficial": false,
@@ -425,24 +407,6 @@
   "isPR": false
  },
  {
-  "id": "4befb1c0638a",
-  "title": "【ポケカ】ミュウ G/RGBの買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)",
-  "url": "https://snkrdunk.com/articles/33323/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-15T09:00:33.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/93efbc7f-92bd-4d56-bf1b-61150d19a2b2.png",
-  "categories": [
-   "market"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "688d07535f0d",
   "title": "【ポケカ】ヒロシマのピカチュウ プロモの買取・相場価格と値段推移｜スペシャルBOX「ヒロシマ」",
   "url": "https://snkrdunk.com/articles/29064/",
@@ -490,6 +454,42 @@
   "categories": [
    "market",
    "goods"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "f6eb8596a22b",
+  "title": "【ポケカ】ミュウ B/RGBの買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)",
+  "url": "https://snkrdunk.com/articles/33324/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-15T07:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/f8c38fab-0e4e-42ca-85e0-e36f5cbd8121.png",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "4befb1c0638a",
+  "title": "【ポケカ】ミュウ G/RGBの買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)",
+  "url": "https://snkrdunk.com/articles/33323/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-15T07:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/93efbc7f-92bd-4d56-bf1b-61150d19a2b2.png",
+  "categories": [
+   "market"
   ],
   "series": [
    "tcg"
