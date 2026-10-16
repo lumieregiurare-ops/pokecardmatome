@@ -37,25 +37,6 @@
   "isPR": false
  },
  {
-  "id": "e9ef1208cf5d",
-  "title": "【ポケカ】ハドウシーカーの当たりランキング/発売日予想/リーク情報/封入率/予約抽選まとめ",
-  "url": "https://snkrdunk.com/articles/31684/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-14T13:52:05.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/20260310030300-0.jpeg",
-  "categories": [
-   "lottery",
-   "reveal"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "e469b648fd9f",
   "title": "【ポケポケ】デッキミッション一覧【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/466796",
@@ -467,6 +448,25 @@
   "image": "https://cdn.snkrdunk.com/uploads/media/ae0dc9c1-0da8-46bf-90cb-413081856201.png",
   "categories": [
    "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "e9ef1208cf5d",
+  "title": "【ポケカ】ハドウシーカーの当たりランキング/発売日予想/リーク情報/封入率/予約抽選まとめ",
+  "url": "https://snkrdunk.com/articles/31684/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-14T07:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/20260310030300-0.jpeg",
+  "categories": [
+   "lottery",
+   "reveal"
   ],
   "series": [
    "tcg"
