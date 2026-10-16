@@ -76,6 +76,24 @@
   "isPR": false
  },
  {
+  "id": "452cc50abac7",
+  "title": "ミュウ [M6a G/RGB](拡張パック「30th CELEBRATION」)",
+  "url": "https://snkrdunk.com/apparels/898626/used/51409198",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-15T12:59:46.000Z",
+  "image": "https://snkrdunk.com/apparels/898626/used/51475767/opengraph-image?c19ad04227fce4cf",
+  "categories": [
+   "release"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "f4030880d3cc",
   "title": "【ポケポケ】ハクリュー(天空の支配者)の入手方法と採用デッキレシピ【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/569741",
@@ -194,6 +212,24 @@
   "summary": "",
   "publishedAt": "2026-10-15T09:49:55.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574423.png?date=1788139354",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "e03d038b60c1",
+  "title": "【ポケポケ】古代・未来を持つカードの一覧｜パラドックスポケモン【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/561501",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-15T09:49:32.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/561501.png?date=1779426694",
   "categories": [
    "other"
   ],
