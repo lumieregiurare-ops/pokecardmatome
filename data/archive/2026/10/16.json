@@ -223,6 +223,24 @@
   "isPR": false
  },
  {
+  "id": "f7c2b24eb0f5",
+  "title": "【ポケポケ】HP回復のおすすめカード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/466695",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-16T11:18:09.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/466695.png?date=1743150329",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "ce54ab3dcd6f",
   "title": "【ポケカ】ストームエメラルダの収録カードリスト一覧",
   "url": "https://snkrdunk.com/articles/32582/",
@@ -957,7 +975,7 @@
  {
   "id": "a42fb4436f9b",
   "title": "『ポケポケ』新シリーズが10月末開幕、拡張パック追加サイクルが約4週→約6週に。“デュアルタイプ”カードの初登場、デッキコピー機能の追加など新情報解禁",
-  "url": "https://www.famitsu.com/article/202610/91157",
+  "url": "https://app.famitsu.com/article/202610/91157",
   "source": "ファミ通.com",
   "summary": "",
   "publishedAt": "2026-10-16T03:11:00.000Z",
@@ -1191,6 +1209,24 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "33d7e0325971",
+  "title": "【26/11】ポケどこポケカ部 放課後ポケっす！教室",
+  "url": "https://players.pokemon-card.com/event/detail/1167722/1/10786/20261106/1992803",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-15T18:27:24.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  }
 ]
