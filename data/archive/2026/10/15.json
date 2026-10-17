@@ -1,23 +1,5 @@
 [
  {
-  "id": "dffa414ee5a2",
-  "title": "【ポケカ】2026年の新弾発売スケジュールまとめ | スニーカーダンク",
-  "url": "https://snkrdunk.com/articles/15950/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-15T14:59:07.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/20251222061410-0.jpeg",
-  "categories": [
-   "release"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "c3572f07ab43",
   "title": "【ポケカ30周年】30th CELEBRATION(30th セレブレーション)の当たりランキング/買取相場/封入率/予約抽選/値段まとめ【10/15更新】",
   "url": "https://snkrdunk.com/articles/30971/",
@@ -454,6 +436,24 @@
   "categories": [
    "market",
    "goods"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "dffa414ee5a2",
+  "title": "【ポケカ】2026年の新弾発売スケジュールまとめ | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/15950/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-15T07:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/20251222061410-0.jpeg",
+  "categories": [
+   "release"
   ],
   "series": [
    "tcg"

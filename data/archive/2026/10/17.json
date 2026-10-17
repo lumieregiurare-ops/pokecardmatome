@@ -1,5 +1,23 @@
 [
  {
+  "id": "d3b87d882a5e",
+  "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【10/17更新】",
+  "url": "https://snkrdunk.com/articles/33304/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-17T12:59:50.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/1be64b43-ba7d-41a8-adea-6b26f00f1866.png",
+  "categories": [
+   "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "1bee3d92f217",
   "title": "【ポケカ】「スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー」の予約・抽選情報まとめ【10/17更新】",
   "url": "https://snkrdunk.com/articles/33534/",
@@ -53,24 +71,6 @@
   ],
   "stores": [],
   "isOfficial": true,
-  "isPR": false
- },
- {
-  "id": "d3b87d882a5e",
-  "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【10/17更新】",
-  "url": "https://snkrdunk.com/articles/33304/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-17T09:59:08.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/1be64b43-ba7d-41a8-adea-6b26f00f1866.png",
-  "categories": [
-   "restock"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
   "isPR": false
  },
  {
@@ -226,13 +226,31 @@
  {
   "id": "95676cbdfdb3",
   "title": "デッキ表示デッキを保存 | ポケカ公式",
-  "url": "https://www.pokemon-card.com/deck/result.html/deckID/Vbf1db-oSXduK-VFkk5V/",
+  "url": "https://www.pokemon-card.com/deck/result.html/deckID/gLPL9g-oIdtQw-gLHQng/",
   "source": "ポケモンカードゲーム トレーナーズウェブサイト",
   "summary": "",
   "publishedAt": "2026-10-17T02:33:13.000Z",
-  "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/Vbf1db-oSXduK-VFkk5V.png?v=1998061658402",
+  "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/gLPL9g-oIdtQw-gLHQng.png?v=1998061658402",
   "categories": [
    "deck"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "83b07b71a705",
+  "title": "シティリーグ2027 シーズン1 オープンリーグ",
+  "url": "https://players.pokemon-card.com/event/detail/1115374/result",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-17T02:00:00.000Z",
+  "image": "",
+  "categories": [
+   "event"
   ],
   "series": [
    "tcg"
@@ -258,24 +276,6 @@
   ],
   "stores": [],
   "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "83b07b71a705",
-  "title": "シティリーグ2027 シーズン1 オープンリーグ",
-  "url": "https://players.pokemon-card.com/event/detail/1115071/result",
-  "source": "ポケモンカードゲーム プレイヤーズクラブ",
-  "summary": "",
-  "publishedAt": "2026-10-17T01:30:00.000Z",
-  "image": "",
-  "categories": [
-   "event"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": true,
   "isPR": false
  },
  {
