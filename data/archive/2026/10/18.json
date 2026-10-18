@@ -5,7 +5,7 @@
   "url": "https://snkrdunk.com/articles/33534/",
   "source": "SNKRDUNK",
   "summary": "",
-  "publishedAt": "2026-10-18T01:01:40.000Z",
+  "publishedAt": "2026-10-18T04:27:38.000Z",
   "image": "https://cdn.snkrdunk.com/uploads/media/54b41b6e-3681-437e-94cb-8ef5e97ac5a4.jpeg",
   "categories": [
    "lottery",
@@ -24,7 +24,7 @@
   "url": "https://snkrdunk.com/articles/33304/",
   "source": "SNKRDUNK",
   "summary": "",
-  "publishedAt": "2026-10-18T00:10:36.000Z",
+  "publishedAt": "2026-10-18T04:23:35.000Z",
   "image": "https://cdn.snkrdunk.com/uploads/media/1be64b43-ba7d-41a8-adea-6b26f00f1866.png",
   "categories": [
    "restock"
@@ -34,6 +34,79 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "b7134167af3c",
+  "title": "ポケカ34万円分を盗む 容疑でベトナム国籍の男再逮捕 那覇の商業施設で（琉球新報）",
+  "url": "https://news.yahoo.co.jp/articles/55fb26168afb52c7e632190233283d01bed2aa32",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-18T03:51:22.000Z",
+  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261018-00000010-ryu-000-2-view.jpg?exp=10800",
+  "categories": [
+   "caution"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "242bac53c705",
+  "title": "【ポケカ】御三家セットとは？買取・相場価格/再販抽選情報まとめ【30th CELEBRATION カードセット】",
+  "url": "https://snkrdunk.com/articles/32998/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-18T03:39:35.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/13b5a832-81a9-47a4-b06a-b54f107d131d.jpeg",
+  "categories": [
+   "market",
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "47d0c0e14baa",
+  "title": "【ポケカ】御三家セット9種コンプリートセットの買取・相場価格と値段推移｜30th CELEBRATION",
+  "url": "https://snkrdunk.com/articles/33513/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-18T02:03:59.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/e3889441-92dd-4c68-a213-fc7eff1ab5d4.jpeg",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "630ccaadc1f5",
+  "title": "【26/10】ポケモンカードジム トレーナーズリーグ（オープンリーグ）",
+  "url": "https://players.pokemon-card.com/event/detail/1156535/1/20887/20261018/1965873",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-18T00:03:46.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
@@ -159,6 +232,25 @@
   "categories": [
    "release",
    "reveal"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "3a29c3fefe74",
+  "title": "【ポケポケ】進撃パラドックスの当たりカードと収録カード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/561436",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-17T15:41:09.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/561436.png?date=1779369911",
+  "categories": [
+   "reveal",
+   "deck"
   ],
   "series": [
    "pocket"

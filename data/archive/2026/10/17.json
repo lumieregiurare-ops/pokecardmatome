@@ -370,6 +370,24 @@
   "isPR": false
  },
  {
+  "id": "1256844425b7",
+  "title": "シティリーグ2027 シーズン1 ジュニアリーグ",
+  "url": "https://players.pokemon-card.com/event/detail/1115571/result",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-17T02:00:00.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "b66f414d563a",
   "title": "【ポケカ】エーフィex SAR仕様の買取・相場価格と値段推移｜30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
   "url": "https://snkrdunk.com/articles/32484/",
@@ -413,6 +431,24 @@
   "source": "ポケモンカードゲーム プレイヤーズクラブ",
   "summary": "",
   "publishedAt": "2026-10-17T01:28:43.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "ca2fe210e0c6",
+  "title": "シティリーグ2027 シーズン1 シニアリーグ",
+  "url": "https://players.pokemon-card.com/event/detail/1115512/result",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-17T00:00:00.000Z",
   "image": "",
   "categories": [
    "event"
