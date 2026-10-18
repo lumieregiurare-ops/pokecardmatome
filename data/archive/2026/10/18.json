@@ -1,5 +1,23 @@
 [
  {
+  "id": "d3b87d882a5e",
+  "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【10/18更新】",
+  "url": "https://snkrdunk.com/articles/33304/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-18T13:27:36.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/1be64b43-ba7d-41a8-adea-6b26f00f1866.png",
+  "categories": [
+   "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "b37a8b4b04ca",
   "title": "【ポケポケ】ミラクルデイズの当たりカードと収録カード一覧【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/565225",
@@ -29,24 +47,6 @@
   "categories": [
    "lottery",
    "deck"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "d3b87d882a5e",
-  "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【10/18更新】",
-  "url": "https://snkrdunk.com/articles/33304/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-18T10:25:57.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/1be64b43-ba7d-41a8-adea-6b26f00f1866.png",
-  "categories": [
-   "restock"
   ],
   "series": [
    "tcg"
@@ -99,6 +99,25 @@
   "summary": "",
   "publishedAt": "2026-10-18T08:24:08.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/549856.png?date=1773926468",
+  "categories": [
+   "reveal",
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "21beed7ca646",
+  "title": "【ポケポケ】ロケット団の野望の当たりカードと収録カード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/573136",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-18T08:24:03.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/573136.png?date=1787237535",
   "categories": [
    "reveal",
    "deck"
@@ -204,6 +223,24 @@
   "isPR": false
  },
  {
+  "id": "ca2fe210e0c6",
+  "title": "シティリーグ2027 シーズン1 シニアリーグ",
+  "url": "https://players.pokemon-card.com/event/detail/1115514/result",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-18T01:00:00.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "630ccaadc1f5",
   "title": "【26/10】ポケモンカードジム トレーナーズリーグ（オープンリーグ）",
   "url": "https://players.pokemon-card.com/event/detail/1156535/1/20887/20261018/1965873",
@@ -241,6 +278,24 @@
   "isPR": false
  },
  {
+  "id": "226e66f871dd",
+  "title": "カード詳細（メッソン） | ポケカ公式",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50808",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-10-17T20:56:56.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "b7134167af3c",
   "title": "ポケカ34万円分を盗む 容疑でベトナム国籍の男再逮捕 那覇の商業施設で",
   "url": "https://ryukyushimpo.jp/national/entry-5563383.html",
@@ -253,25 +308,6 @@
   ],
   "series": [
    "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "21beed7ca646",
-  "title": "【ポケポケ】ロケット団の野望の当たりカードと収録カード一覧【ポケモンカードアプリ】",
-  "url": "https://gamewith.jp/pokemon-tcg-pocket/573136",
-  "source": "GameWith",
-  "summary": "",
-  "publishedAt": "2026-10-17T18:16:19.000Z",
-  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/573136.png?date=1787237535",
-  "categories": [
-   "reveal",
-   "deck"
-  ],
-  "series": [
-   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
