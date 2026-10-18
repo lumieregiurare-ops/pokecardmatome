@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T19:39:08.229Z",
+  "updatedAt": "2026-10-18T21:56:02.953Z",
   "site": {
     "title": "ポケカ速報",
     "tagline": "ポケモンカードの抽選・予約・新弾・再販・大会のニュースを、あちこちから集めてまとめています。",
@@ -8,12 +8,12 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
   "total": 59,
-  "todayCount": 4,
+  "todayCount": 10,
   "categories": [
     {
       "id": "lottery",
       "label": "抽選・予約",
-      "count": 4
+      "count": 2
     },
     {
       "id": "restock",
@@ -28,7 +28,7 @@
     {
       "id": "reveal",
       "label": "新カード",
-      "count": 7
+      "count": 5
     },
     {
       "id": "event",
@@ -38,7 +38,7 @@
     {
       "id": "promo",
       "label": "プロモ・特典",
-      "count": 3
+      "count": 2
     },
     {
       "id": "market",
@@ -63,7 +63,7 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 14
+      "count": 17
     }
   ],
   "series": [
@@ -133,7 +133,7 @@
       "slug": "30th-celebration",
       "count": 39,
       "release": "2026-10-16",
-      "latestAt": "2026-10-18T16:21:31.000Z"
+      "latestAt": "2026-10-18T18:20:58.000Z"
     },
     {
       "name": "ハイクラスパックMEGA",
@@ -208,12 +208,12 @@
   ],
   "sources": [
     {
-      "name": "GameWith",
+      "name": "ポケモンカードゲーム トレーナーズウェブサイト",
       "count": 10
     },
     {
-      "name": "ポケモンカードゲーム トレーナーズウェブサイト",
-      "count": 8
+      "name": "GameWith",
+      "count": 10
     },
     {
       "name": "SNKRDUNK",
@@ -242,10 +242,6 @@
     {
       "name": "GAME Watch",
       "count": 2
-    },
-    {
-      "name": "ピンズバNEWS",
-      "count": 1
     },
     {
       "name": "琉球新報デジタル",
@@ -286,10 +282,6 @@
     {
       "name": "ファミ通.com",
       "count": 1
-    },
-    {
-      "name": "ウォーカープラス",
-      "count": 1
     }
   ],
   "topics": [
@@ -300,19 +292,26 @@
       "url": "https://game.watch.impress.co.jp/docs/news/2148842.html",
       "image": "https://game.watch.impress.co.jp/img/gmw/list/2148/842/1.jpg",
       "leadSource": "GAME Watch",
-      "publishedAt": "2026-10-16T13:10:00.000Z",
-      "sourceCount": 6,
-      "articleCount": 6,
+      "publishedAt": "2026-10-17T07:00:00.000Z",
+      "sourceCount": 7,
+      "articleCount": 7,
       "categories": [
-        "release",
+        "lottery",
         "deck"
       ],
       "keywords": [
         "デッキ",
         "セット",
-        "メガゲンガー"
+        "スペシャルデッキセット"
       ],
       "articles": [
+        {
+          "title": "【ポケカ】「スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー」の予約・抽選情報まとめ【10/17更新】",
+          "url": "https://snkrdunk.com/articles/33534/",
+          "source": "SNKRDUNK",
+          "publishedAt": "2026-10-17T07:00:00.000Z",
+          "isPR": false
+        },
         {
           "title": "『ポケカ』メガオーダイルex、メガカイリューex、メガゲンガーexのデッキ3種がセットに！11月13日発売、対戦グッズ付きで5,500円",
           "url": "https://dengekionline.com/article/202610/91244",
@@ -566,29 +565,6 @@
       "count": 3
     },
     {
-      "id": "a5ae38af28ca",
-      "title": "【ポケカ】ストームエメラルダの予約・抽選情報まとめ【7/30更新】 | スニーカーダンク",
-      "url": "https://snkrdunk.com/articles/32581/",
-      "source": "SNKRDUNK",
-      "image": "https://cdn.snkrdunk.com/uploads/media/2989b9e7-e8f4-4557-bee3-ff9f7db28e77.jpeg",
-      "publishedAt": "2026-10-18T15:29:19.000Z",
-      "series": [
-        "tcg"
-      ],
-      "stores": [],
-      "products": [
-        "ストームエメラルダ"
-      ],
-      "isOfficial": false,
-      "host": "snkrdunk.com",
-      "method": "抽選",
-      "deadline": "",
-      "deadlineTime": "",
-      "start": "",
-      "status": "info",
-      "count": 1
-    },
-    {
       "id": "e3901a69627e",
       "title": "ポケモンセンターにおける一部のポケモンカードゲーム関連商品の販売方法について",
       "url": "https://shop.pokemon.co.jp/ja/shop/common/news/202609/000574.html",
@@ -604,27 +580,6 @@
       "products": [],
       "isOfficial": true,
       "host": "",
-      "method": "情報",
-      "deadline": "",
-      "deadlineTime": "",
-      "start": "",
-      "status": "info",
-      "count": 1
-    },
-    {
-      "id": "e073f7f9077d",
-      "title": "「マイナンバーまで登録して全落選」なのに20万円で即転売…ポケカ30周年の\"祭りの裏側\"が酷すぎた｜概要｜ニュース",
-      "url": "https://pinzuba.news/articles/-/18321",
-      "source": "ピンズバNEWS",
-      "image": "https://pinzuba.ismcdn.jp/mwimgs/a/6/1200wm/img_a6634ad653b8fc59d98c83795f4a6a244581827.png",
-      "publishedAt": "2026-10-17T21:30:00.000Z",
-      "series": [
-        "tcg"
-      ],
-      "stores": [],
-      "products": [],
-      "isOfficial": false,
-      "host": "pinzuba.news",
       "method": "情報",
       "deadline": "",
       "deadlineTime": "",
@@ -733,12 +688,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-18T17:34:21.472Z",
-    "previousCount": 57,
-    "newCount": 2
+    "previousAt": "2026-10-18T19:39:08.229Z",
+    "previousCount": 59,
+    "newCount": 6
   },
   "updateGapMin": 171,
-  "nextUpdateAt": "2026-10-18T22:30:08.229Z",
+  "nextUpdateAt": "2026-10-19T00:47:02.953Z",
   "items": [
     {
       "id": "6a3e82a97ce5",
@@ -762,6 +717,95 @@
       "isNew": false
     },
     {
+      "id": "7f4f37739214",
+      "title": "カード詳細（キモリ） | ポケカ公式",
+      "url": "https://www.pokemon-card.com/card-search/details.php/card/50791",
+      "host": "pokemon-card.com",
+      "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+      "summary": "",
+      "publishedAt": "2026-10-18T19:33:14.000Z",
+      "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+      "categories": [
+        "other"
+      ],
+      "series": [
+        "tcg"
+      ],
+      "stores": [],
+      "products": [],
+      "isOfficial": true,
+      "isPR": false,
+      "isNew": true
+    },
+    {
+      "id": "3f4e3bd3edff",
+      "title": "【ポケポケ】天空の支配者の当たりカードと収録カード一覧【ポケモンカードアプリ】",
+      "url": "https://gamewith.jp/pokemon-tcg-pocket/564725",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-18T19:06:14.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/564725.png?date=1784813440",
+      "categories": [
+        "reveal",
+        "deck"
+      ],
+      "series": [
+        "pocket"
+      ],
+      "stores": [],
+      "products": [],
+      "isOfficial": false,
+      "isPR": false,
+      "isNew": false
+    },
+    {
+      "id": "8f7626922741",
+      "title": "【ポケポケ】パルデアワンダーの当たりカードと収録カード一覧【ポケモンカードアプリ】",
+      "url": "https://gamewith.jp/pokemon-tcg-pocket/545635",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-18T18:27:23.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/545635.png?date=1771511273",
+      "categories": [
+        "reveal",
+        "deck"
+      ],
+      "series": [
+        "pocket"
+      ],
+      "stores": [],
+      "products": [],
+      "isOfficial": false,
+      "isPR": false,
+      "isNew": true
+    },
+    {
+      "id": "df31c8624653",
+      "title": "【ポケカ】ブラッキーex SAR仕様の買取・相場価格と値段推移｜30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
+      "url": "https://snkrdunk.com/articles/32473/",
+      "host": "snkrdunk.com",
+      "source": "SNKRDUNK",
+      "summary": "",
+      "publishedAt": "2026-10-18T18:20:58.000Z",
+      "image": "https://cdn.snkrdunk.com/uploads/media/263ddb20-d0d3-494e-b042-4709524c6ce1.jpeg",
+      "categories": [
+        "market",
+        "release"
+      ],
+      "series": [
+        "tcg"
+      ],
+      "stores": [],
+      "products": [
+        "30th CELEBRATION"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "isNew": true
+    },
+    {
       "id": "dffa414ee5a2",
       "title": "【ポケカ】2026年の新弾発売スケジュールまとめ | スニーカーダンク",
       "url": "https://snkrdunk.com/articles/15950/",
@@ -775,6 +819,27 @@
       ],
       "series": [
         "tcg"
+      ],
+      "stores": [],
+      "products": [],
+      "isOfficial": false,
+      "isPR": false,
+      "isNew": false
+    },
+    {
+      "id": "45de1cd80e7c",
+      "title": "【ポケポケ】金フレーム(金枠)の入手方法とトレード方法【ポケモンカードアプリ】",
+      "url": "https://gamewith.jp/pokemon-tcg-pocket/559877",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-18T16:42:18.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559877.png?date=1777621111",
+      "categories": [
+        "deck"
+      ],
+      "series": [
+        "pocket"
       ],
       "stores": [],
       "products": [],
@@ -830,27 +895,48 @@
       "isNew": false
     },
     {
-      "id": "a5ae38af28ca",
-      "title": "【ポケカ】ストームエメラルダの予約・抽選情報まとめ【7/30更新】 | スニーカーダンク",
-      "url": "https://snkrdunk.com/articles/32581/",
-      "host": "snkrdunk.com",
-      "source": "SNKRDUNK",
+      "id": "21beed7ca646",
+      "title": "【ポケポケ】ロケット団の野望の当たりカードと収録カード一覧【ポケモンカードアプリ】",
+      "url": "https://gamewith.jp/pokemon-tcg-pocket/573136",
+      "host": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-10-18T15:29:19.000Z",
-      "image": "https://cdn.snkrdunk.com/uploads/media/2989b9e7-e8f4-4557-bee3-ff9f7db28e77.jpeg",
+      "publishedAt": "2026-10-18T16:01:21.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/573136.png?date=1787237535",
       "categories": [
-        "lottery"
+        "reveal",
+        "deck"
       ],
       "series": [
-        "tcg"
+        "pocket"
       ],
       "stores": [],
-      "products": [
-        "ストームエメラルダ"
-      ],
+      "products": [],
       "isOfficial": false,
       "isPR": false,
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "7bf92aaacc22",
+      "title": "【ポケポケ】メガガブリアスexドロップイベントの攻略と周回デッキ【ポケモンカードアプリ】",
+      "url": "https://gamewith.jp/pokemon-tcg-pocket/582836",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-18T15:27:04.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/582836.jpg?date=1792046595",
+      "categories": [
+        "deck",
+        "event"
+      ],
+      "series": [
+        "pocket"
+      ],
+      "stores": [],
+      "products": [],
+      "isOfficial": false,
+      "isPR": false,
+      "isNew": false
     },
     {
       "id": "d3b87d882a5e",
@@ -871,28 +957,6 @@
       "products": [
         "30th CELEBRATION"
       ],
-      "isOfficial": false,
-      "isPR": false,
-      "isNew": false
-    },
-    {
-      "id": "b37a8b4b04ca",
-      "title": "【ポケポケ】ミラクルデイズの当たりカードと収録カード一覧【ポケモンカードアプリ】",
-      "url": "https://gamewith.jp/pokemon-tcg-pocket/565225",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-18T12:02:13.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/565225.png?date=1782307542",
-      "categories": [
-        "reveal",
-        "deck"
-      ],
-      "series": [
-        "pocket"
-      ],
-      "stores": [],
-      "products": [],
       "isOfficial": false,
       "isPR": false,
       "isNew": false
@@ -940,17 +1004,16 @@
       "isNew": false
     },
     {
-      "id": "fbb15bf5c451",
-      "title": "【ポケポケ】シャイニングメガの当たりカードと収録カード一覧【ポケモンカードアプリ】",
-      "url": "https://gamewith.jp/pokemon-tcg-pocket/549856",
+      "id": "e03d038b60c1",
+      "title": "【ポケポケ】古代・未来を持つカードの一覧｜パラドックスポケモン【ポケモンカードアプリ】",
+      "url": "https://gamewith.jp/pokemon-tcg-pocket/561501",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-10-18T08:24:08.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/549856.png?date=1773926468",
+      "publishedAt": "2026-10-18T08:25:31.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/561501.png?date=1779426694",
       "categories": [
-        "reveal",
-        "deck"
+        "other"
       ],
       "series": [
         "pocket"
@@ -959,51 +1022,28 @@
       "products": [],
       "isOfficial": false,
       "isPR": false,
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "21beed7ca646",
-      "title": "【ポケポケ】ロケット団の野望の当たりカードと収録カード一覧【ポケモンカードアプリ】",
-      "url": "https://gamewith.jp/pokemon-tcg-pocket/573136",
-      "host": "gamewith.jp",
-      "source": "GameWith",
+      "id": "b2cd7d594335",
+      "title": "カード詳細（ヒコザル） | ポケカ公式",
+      "url": "https://www.pokemon-card.com/card-search/details.php/card/50795",
+      "host": "pokemon-card.com",
+      "source": "ポケモンカードゲーム トレーナーズウェブサイト",
       "summary": "",
-      "publishedAt": "2026-10-18T08:24:03.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/573136.png?date=1787237535",
+      "publishedAt": "2026-10-18T08:16:59.000Z",
+      "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
       "categories": [
-        "reveal",
-        "deck"
+        "other"
       ],
       "series": [
-        "pocket"
+        "tcg"
       ],
       "stores": [],
       "products": [],
-      "isOfficial": false,
+      "isOfficial": true,
       "isPR": false,
-      "isNew": false
-    },
-    {
-      "id": "3f4e3bd3edff",
-      "title": "【ポケポケ】天空の支配者の当たりカードと収録カード一覧【ポケモンカードアプリ】",
-      "url": "https://gamewith.jp/pokemon-tcg-pocket/564725",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-18T08:24:01.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/564725.png?date=1784813440",
-      "categories": [
-        "reveal",
-        "deck"
-      ],
-      "series": [
-        "pocket"
-      ],
-      "stores": [],
-      "products": [],
-      "isOfficial": false,
-      "isPR": false,
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "301f2796ae73",
@@ -1069,28 +1109,6 @@
       "isNew": false
     },
     {
-      "id": "e073f7f9077d",
-      "title": "「マイナンバーまで登録して全落選」なのに20万円で即転売…ポケカ30周年の\"祭りの裏側\"が酷すぎた｜概要｜ニュース",
-      "url": "https://pinzuba.news/articles/-/18321",
-      "host": "pinzuba.news",
-      "source": "ピンズバNEWS",
-      "summary": "",
-      "publishedAt": "2026-10-17T21:30:00.000Z",
-      "image": "https://pinzuba.ismcdn.jp/mwimgs/a/6/1200wm/img_a6634ad653b8fc59d98c83795f4a6a244581827.png",
-      "categories": [
-        "lottery",
-        "market"
-      ],
-      "series": [
-        "tcg"
-      ],
-      "stores": [],
-      "products": [],
-      "isOfficial": false,
-      "isPR": false,
-      "isNew": false
-    },
-    {
       "id": "226e66f871dd",
       "title": "カード詳細（メッソン） | ポケカ公式",
       "url": "https://www.pokemon-card.com/card-search/details.php/card/50808",
@@ -1125,28 +1143,6 @@
       ],
       "series": [
         "tcg"
-      ],
-      "stores": [],
-      "products": [],
-      "isOfficial": false,
-      "isPR": false,
-      "isNew": false
-    },
-    {
-      "id": "7bf92aaacc22",
-      "title": "【ポケポケ】メガガブリアスexドロップイベントの攻略と周回デッキ【ポケモンカードアプリ】",
-      "url": "https://gamewith.jp/pokemon-tcg-pocket/582836",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-17T17:58:23.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/582836.jpg?date=1792046595",
-      "categories": [
-        "deck",
-        "event"
-      ],
-      "series": [
-        "pocket"
       ],
       "stores": [],
       "products": [],
@@ -1219,27 +1215,6 @@
       "stores": [],
       "products": [],
       "isOfficial": true,
-      "isPR": false,
-      "isNew": false
-    },
-    {
-      "id": "f1031c9f3259",
-      "title": "【ポケポケ】リセマラ当たりランキング【ポケモンカードアプリ】",
-      "url": "https://gamewith.jp/pokemon-tcg-pocket/462529",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-17T12:21:17.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/462529.png?date=1729330602",
-      "categories": [
-        "reveal"
-      ],
-      "series": [
-        "pocket"
-      ],
-      "stores": [],
-      "products": [],
-      "isOfficial": false,
       "isPR": false,
       "isNew": false
     },
@@ -1927,28 +1902,6 @@
       "stores": [],
       "products": [],
       "isOfficial": true,
-      "isPR": false,
-      "isNew": false
-    },
-    {
-      "id": "73f87360f5d1",
-      "title": "「ナカノ スタイリング タント」が「ポケモンカードゲーム」と初コラボ！特別なプロモカードが付くオリジナルデザインボトルを8月1日より発売",
-      "url": "https://www.walkerplus.com/article/1147143/",
-      "host": "walkerplus.com",
-      "source": "ウォーカープラス",
-      "summary": "",
-      "publishedAt": "2026-10-15T20:51:13.000Z",
-      "image": "https://news.walkerplus.com/article/1147143/11970583_615.jpg",
-      "categories": [
-        "release",
-        "promo"
-      ],
-      "series": [
-        "tcg"
-      ],
-      "stores": [],
-      "products": [],
-      "isOfficial": false,
       "isPR": false,
       "isNew": false
     },

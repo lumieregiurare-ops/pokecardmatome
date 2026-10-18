@@ -92,6 +92,24 @@
   "isPR": false
  },
  {
+  "id": "e03d038b60c1",
+  "title": "【ポケポケ】古代・未来を持つカードの一覧｜パラドックスポケモン【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/561501",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-18T08:25:31.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/561501.png?date=1779426694",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "fbb15bf5c451",
   "title": "【ポケポケ】シャイニングメガの当たりカードと収録カード一覧【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/549856",
@@ -165,6 +183,24 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "b2cd7d594335",
+  "title": "カード詳細（ヒコザル） | ポケカ公式",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50795",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-10-18T08:16:59.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
