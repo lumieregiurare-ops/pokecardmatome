@@ -1,5 +1,23 @@
 [
  {
+  "id": "d3b87d882a5e",
+  "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【10/18更新】",
+  "url": "https://snkrdunk.com/articles/33304/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-18T22:09:18.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/1be64b43-ba7d-41a8-adea-6b26f00f1866.png",
+  "categories": [
+   "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "7f4f37739214",
   "title": "カード詳細（キモリ） | ポケカ公式",
   "url": "https://www.pokemon-card.com/card-search/details.php/card/50791",
@@ -25,6 +43,25 @@
   "summary": "",
   "publishedAt": "2026-10-18T19:06:14.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/564725.png?date=1784813440",
+  "categories": [
+   "reveal",
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "4264613ead10",
+  "title": "【ポケポケ】波動ビートの当たりカードと収録カード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/558029",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-18T18:57:07.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/558029.png?date=1776951553",
   "categories": [
    "reveal",
    "deck"
@@ -148,6 +185,44 @@
   "isPR": false
  },
  {
+  "id": "ccabeed8fafd",
+  "title": "【ポケカ】ポケモンカード151の当たりランキング/買取相場/封入率/予約抽選/値段まとめ | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/16466/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-18T16:09:41.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/6ea1ef47-3013-4b51-9383-82543e43db12.jpeg",
+  "categories": [
+   "market",
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "01eef2d84448",
+  "title": "【ポケカ】30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキーの収録カード・再販抽選情報まとめ",
+  "url": "https://snkrdunk.com/articles/32464/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-18T16:08:29.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/b3ec7894-3c17-4254-b87a-9ca52ed4616f.jpeg",
+  "categories": [
+   "lottery",
+   "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "21beed7ca646",
   "title": "【ポケポケ】ロケット団の野望の当たりカードと収録カード一覧【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/573136",
@@ -195,6 +270,25 @@
   "categories": [
    "deck",
    "event"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "7ed1b0f66964",
+  "title": "【ポケポケ】新パック「ハイクラスパックMEGA(メガ)」の収録カードと当たりカード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/578648",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-18T15:26:12.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/578648.png?date=1790261909",
+  "categories": [
+   "release",
+   "reveal"
   ],
   "series": [
    "pocket"
