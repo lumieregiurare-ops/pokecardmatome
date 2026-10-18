@@ -1,5 +1,42 @@
 [
  {
+  "id": "1bee3d92f217",
+  "title": "【ポケカ】「スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー」の予約・抽選情報まとめ【10/17更新】",
+  "url": "https://snkrdunk.com/articles/33534/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-18T01:01:40.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/54b41b6e-3681-437e-94cb-8ef5e97ac5a4.jpeg",
+  "categories": [
+   "lottery",
+   "deck"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "d3b87d882a5e",
+  "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【10/17更新】",
+  "url": "https://snkrdunk.com/articles/33304/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-18T00:10:36.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/1be64b43-ba7d-41a8-adea-6b26f00f1866.png",
+  "categories": [
+   "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "e073f7f9077d",
   "title": "「マイナンバーまで登録して全落選」なのに20万円で即転売…ポケカ30周年の\"祭りの裏側\"が酷すぎた｜概要｜ニュース",
   "url": "https://pinzuba.news/articles/-/18321",
@@ -19,6 +56,25 @@
   "isPR": false
  },
  {
+  "id": "fbb15bf5c451",
+  "title": "【ポケポケ】シャイニングメガの当たりカードと収録カード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/549856",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-17T19:45:39.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/549856.png?date=1773926468",
+  "categories": [
+   "reveal",
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "21beed7ca646",
   "title": "【ポケポケ】ロケット団の野望の当たりカードと収録カード一覧【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/573136",
@@ -28,6 +84,24 @@
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/573136.png?date=1787237535",
   "categories": [
    "reveal",
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "45de1cd80e7c",
+  "title": "【ポケポケ】金フレーム(金枠)の入手方法とトレード方法【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/559877",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-17T18:11:11.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559877.png?date=1777621111",
+  "categories": [
    "deck"
   ],
   "series": [
@@ -57,18 +131,18 @@
   "isPR": false
  },
  {
-  "id": "d3b87d882a5e",
-  "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【10/17更新】",
-  "url": "https://snkrdunk.com/articles/33304/",
-  "source": "SNKRDUNK",
+  "id": "5648da5d17a5",
+  "title": "【ポケポケ】HP50以下のポケモン一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/567943",
+  "source": "GameWith",
   "summary": "",
-  "publishedAt": "2026-10-17T16:02:48.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/1be64b43-ba7d-41a8-adea-6b26f00f1866.png",
+  "publishedAt": "2026-10-17T17:00:30.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/567943.png?date=1783917555",
   "categories": [
-   "restock"
+   "deck"
   ],
   "series": [
-   "tcg"
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
@@ -106,25 +180,6 @@
   ],
   "series": [
    "pocket"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "1bee3d92f217",
-  "title": "【ポケカ】「スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー」の予約・抽選情報まとめ【10/17更新】",
-  "url": "https://snkrdunk.com/articles/33534/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-17T15:25:27.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/54b41b6e-3681-437e-94cb-8ef5e97ac5a4.jpeg",
-  "categories": [
-   "lottery",
-   "deck"
-  ],
-  "series": [
-   "tcg"
   ],
   "stores": [],
   "isOfficial": false,
