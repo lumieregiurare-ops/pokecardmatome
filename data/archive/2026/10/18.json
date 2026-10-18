@@ -5,7 +5,7 @@
   "url": "https://snkrdunk.com/articles/33534/",
   "source": "SNKRDUNK",
   "summary": "",
-  "publishedAt": "2026-10-18T04:27:38.000Z",
+  "publishedAt": "2026-10-18T10:31:55.000Z",
   "image": "https://cdn.snkrdunk.com/uploads/media/54b41b6e-3681-437e-94cb-8ef5e97ac5a4.jpeg",
   "categories": [
    "lottery",
@@ -19,12 +19,67 @@
   "isPR": false
  },
  {
+  "id": "5821363cf45f",
+  "title": "「みんなのポケモンカードユニバース」使い方多すぎん…？",
+  "url": "https://www.youtube.com/watch?v=iOQ1_LkPXDc",
+  "source": "ポケモンカードチャンネル",
+  "summary": "「みんなのポケモンカードユニバース」、楽しんでますか…？ ポケカエキスパートのライチュ梅川はこう遊びます👓 みんなのポケモンカードユニバースはこちら！ https://www.30tharchive.pokemon-card.com/ ライチュの大会思い出ユニバースはこちら！ https://30tharchive…",
+  "publishedAt": "2026-10-18T10:00:08.000Z",
+  "image": "https://i2.ytimg.com/vi/iOQ1_LkPXDc/hqdefault.jpg",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "4264613ead10",
+  "title": "【ポケポケ】波動ビートの当たりカードと収録カード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/558029",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-18T08:23:55.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/558029.png?date=1776951553",
+  "categories": [
+   "reveal",
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "301f2796ae73",
+  "title": "【ポケポケ】ラッキーチャレンジ(ヒトカゲ+ジジーロン)の攻略【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/583147",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-18T08:06:32.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583147.jpg?date=1792310792",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "d3b87d882a5e",
-  "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【10/17更新】",
+  "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【10/18更新】",
   "url": "https://snkrdunk.com/articles/33304/",
   "source": "SNKRDUNK",
   "summary": "",
-  "publishedAt": "2026-10-18T04:23:35.000Z",
+  "publishedAt": "2026-10-18T07:24:15.000Z",
   "image": "https://cdn.snkrdunk.com/uploads/media/1be64b43-ba7d-41a8-adea-6b26f00f1866.png",
   "categories": [
    "restock"
@@ -268,25 +323,6 @@
   "publishedAt": "2026-10-17T15:28:03.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574154.png?date=1787821902",
   "categories": [
-   "deck"
-  ],
-  "series": [
-   "pocket"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "4264613ead10",
-  "title": "【ポケポケ】波動ビートの当たりカードと収録カード一覧【ポケモンカードアプリ】",
-  "url": "https://gamewith.jp/pokemon-tcg-pocket/558029",
-  "source": "GameWith",
-  "summary": "",
-  "publishedAt": "2026-10-17T15:18:16.000Z",
-  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/558029.png?date=1776951553",
-  "categories": [
-   "reveal",
    "deck"
   ],
   "series": [
