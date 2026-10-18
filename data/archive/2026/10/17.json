@@ -110,19 +110,18 @@
   "isPR": false
  },
  {
-  "id": "1bee3d92f217",
-  "title": "【ポケカ】「スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー」の予約・抽選情報まとめ【10/17更新】",
-  "url": "https://snkrdunk.com/articles/33534/",
-  "source": "SNKRDUNK",
+  "id": "348638d88952",
+  "title": "【ポケポケ】リセマラのやり方と最速手順【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/462530",
+  "source": "GameWith",
   "summary": "",
-  "publishedAt": "2026-10-17T12:21:42.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/54b41b6e-3681-437e-94cb-8ef5e97ac5a4.jpeg",
+  "publishedAt": "2026-10-17T12:17:12.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/462530.png?date=1729329004",
   "categories": [
-   "lottery",
-   "deck"
+   "other"
   ],
   "series": [
-   "tcg"
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
@@ -270,6 +269,25 @@
   ],
   "series": [
    "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "1bee3d92f217",
+  "title": "【ポケカ】「スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー」の予約・抽選情報まとめ【10/17更新】",
+  "url": "https://snkrdunk.com/articles/33534/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-17T07:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/54b41b6e-3681-437e-94cb-8ef5e97ac5a4.jpeg",
+  "categories": [
+   "lottery",
+   "deck"
+  ],
+  "series": [
+   "tcg"
   ],
   "stores": [],
   "isOfficial": false,
