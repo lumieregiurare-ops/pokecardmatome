@@ -5,7 +5,7 @@
   <link href="https://pokecardmatome.gamelab.website/" rel="alternate"/>
   <link href="https://pokecardmatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://pokecardmatome.gamelab.website/</id>
-  <updated>2026-10-18T17:34:21.472Z</updated>
+  <updated>2026-10-18T19:39:08.229Z</updated>
   <author><name>ポケカ速報</name></author>
   <entry>
     <title>「チャンピオンズリーグ2027 千葉」 ～23日（月・祝）開催！</title>
@@ -13,6 +13,13 @@
     <id>https://pokecardmatome.gamelab.website/#6a3e82a97ce5</id>
     <updated>2026-11-22T01:00:00.000Z</updated>
     <summary>ポケモンカードゲーム公式</summary>
+  </entry>
+  <entry>
+    <title>【ポケカ】2026年の新弾発売スケジュールまとめ | スニーカーダンク</title>
+    <link href="https://snkrdunk.com/articles/15950/"/>
+    <id>https://pokecardmatome.gamelab.website/#dffa414ee5a2</id>
+    <updated>2026-10-18T17:26:37.000Z</updated>
+    <summary>SNKRDUNK</summary>
   </entry>
   <entry>
     <title>【ポケカ】御三家セットとは？買取・相場価格/再販抽選情報まとめ【30th CELEBRATION カードセット】</title>
@@ -26,6 +33,13 @@
     <link href="https://snkrdunk.com/articles/18862/"/>
     <id>https://pokecardmatome.gamelab.website/#780ca96f34b4</id>
     <updated>2026-10-18T16:13:01.000Z</updated>
+    <summary>SNKRDUNK</summary>
+  </entry>
+  <entry>
+    <title>【ポケカ】ストームエメラルダの予約・抽選情報まとめ【7/30更新】 | スニーカーダンク</title>
+    <link href="https://snkrdunk.com/articles/32581/"/>
+    <id>https://pokecardmatome.gamelab.website/#a5ae38af28ca</id>
+    <updated>2026-10-18T15:29:19.000Z</updated>
     <summary>SNKRDUNK</summary>
   </entry>
   <entry>
@@ -274,7 +288,7 @@
     <summary>Yahoo!ニュース</summary>
   </entry>
   <entry>
-    <title>「みんなのポケモンカードユニバース」について</title>
+    <title>「みんなのポケモンカードユニバース」について｜ポケカ30周年特別サイト</title>
     <link href="https://www.30th.pokemon-card.com/special/universe"/>
     <id>https://pokecardmatome.gamelab.website/#0212357b707b</id>
     <updated>2026-10-16T07:05:21.000Z</updated>
@@ -342,19 +356,5 @@
     <id>https://pokecardmatome.gamelab.website/#c4dc077c9de2</id>
     <updated>2026-10-16T03:31:19.000Z</updated>
     <summary>CUBEの部屋</summary>
-  </entry>
-  <entry>
-    <title>『ポケポケ』新シリーズが10月末開幕、拡張パック追加サイクルが約4週→約6週に。“デュアルタイプ”カードの初登場、デッキコピー機能の追加など新情報解禁</title>
-    <link href="https://www.famitsu.com/article/202610/91157"/>
-    <id>https://pokecardmatome.gamelab.website/#a42fb4436f9b</id>
-    <updated>2026-10-16T03:11:00.000Z</updated>
-    <summary>ファミ通.com</summary>
-  </entry>
-  <entry>
-    <title>スメハラ案件、ポケモンカード大会でも！優勝経験者がオエッ→「カード、コントローラー、制汗剤」常備を</title>
-    <link href="https://news.yahoo.co.jp/articles/5444f95c757bb68194786355d0577b3160aded5f/images/000"/>
-    <id>https://pokecardmatome.gamelab.website/#ad14a4762557</id>
-    <updated>2026-10-16T02:50:02.000Z</updated>
-    <summary>Yahoo!ニュース</summary>
   </entry>
 </feed>

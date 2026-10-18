@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T17:34:21.472Z",
+  "updatedAt": "2026-10-18T19:39:08.229Z",
   "site": {
     "title": "ポケカ速報",
     "tagline": "ポケモンカードの抽選・予約・新弾・再販・大会のニュースを、あちこちから集めてまとめています。",
@@ -7,13 +7,13 @@
     "gaId": "",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 57,
-  "todayCount": 2,
+  "total": 59,
+  "todayCount": 4,
   "categories": [
     {
       "id": "lottery",
       "label": "抽選・予約",
-      "count": 3
+      "count": 4
     },
     {
       "id": "restock",
@@ -23,7 +23,7 @@
     {
       "id": "release",
       "label": "新弾・新商品",
-      "count": 14
+      "count": 15
     },
     {
       "id": "reveal",
@@ -70,7 +70,7 @@
     {
       "id": "tcg",
       "label": "ポケカ",
-      "count": 43
+      "count": 45
     },
     {
       "id": "pocket",
@@ -147,7 +147,7 @@
       "slug": "pt1yqkt",
       "count": 12,
       "release": "",
-      "latestAt": "2026-10-16T14:40:14.000Z"
+      "latestAt": "2026-10-18T15:29:19.000Z"
     },
     {
       "name": "MEGAドリームex",
@@ -216,12 +216,12 @@
       "count": 8
     },
     {
-      "name": "ポケモンカードチャンネル",
+      "name": "SNKRDUNK",
       "count": 7
     },
     {
-      "name": "SNKRDUNK",
-      "count": 5
+      "name": "ポケモンカードチャンネル",
+      "count": 7
     },
     {
       "name": "ポケモンカードゲーム プレイヤーズクラブ",
@@ -300,26 +300,19 @@
       "url": "https://game.watch.impress.co.jp/docs/news/2148842.html",
       "image": "https://game.watch.impress.co.jp/img/gmw/list/2148/842/1.jpg",
       "leadSource": "GAME Watch",
-      "publishedAt": "2026-10-17T07:00:00.000Z",
-      "sourceCount": 7,
-      "articleCount": 7,
+      "publishedAt": "2026-10-16T13:10:00.000Z",
+      "sourceCount": 6,
+      "articleCount": 6,
       "categories": [
-        "lottery",
+        "release",
         "deck"
       ],
       "keywords": [
         "デッキ",
         "セット",
-        "スペシャルデッキセット"
+        "メガゲンガー"
       ],
       "articles": [
-        {
-          "title": "【ポケカ】「スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー」の予約・抽選情報まとめ【10/17更新】",
-          "url": "https://snkrdunk.com/articles/33534/",
-          "source": "SNKRDUNK",
-          "publishedAt": "2026-10-17T07:00:00.000Z",
-          "isPR": false
-        },
         {
           "title": "『ポケカ』メガオーダイルex、メガカイリューex、メガゲンガーexのデッキ3種がセットに！11月13日発売、対戦グッズ付きで5,500円",
           "url": "https://dengekionline.com/article/202610/91244",
@@ -401,40 +394,6 @@
       ]
     },
     {
-      "id": "107ece7d104f",
-      "title": "【みんなのポケモンカードユニバース】みんなはもう遊んだ？？【ポケカ】",
-      "summary": "本日公開の「みんなのポケモンカードユニバース」で遊んでみました！ みんなのユニバースも見せてください🌠 みんなのポケモンカードユニバースはこちら！ https://www.30tharchive.pokemon-card.com/ ななっぷる王国ユニバースはこちら！ https://30tharchive.poke…",
-      "url": "https://www.youtube.com/watch?v=hSow3M_Exqw",
-      "image": "https://i1.ytimg.com/vi/hSow3M_Exqw/hqdefault.jpg",
-      "leadSource": "ポケモンカードチャンネル",
-      "publishedAt": "2026-10-16T07:05:21.000Z",
-      "sourceCount": 3,
-      "articleCount": 3,
-      "categories": [
-        "other"
-      ],
-      "keywords": [
-        "ポケモンカードユニバース",
-        "ユニバース"
-      ],
-      "articles": [
-        {
-          "title": "「みんなのポケモンカードユニバース」について",
-          "url": "https://www.30th.pokemon-card.com/special/universe",
-          "source": "ポケモンカードゲーム トレーナーズウェブサイト",
-          "publishedAt": "2026-10-16T07:05:21.000Z",
-          "isPR": false
-        },
-        {
-          "title": "みんなのポケモンカードユニバース",
-          "url": "https://www.30tharchive.pokemon-card.com/",
-          "source": "ポケモンカードゲーム トレーナーズウェブサイト",
-          "publishedAt": "2026-10-16T05:41:23.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "242bac53c705",
       "title": "【ポケカ】御三家セットとは？買取・相場価格/再販抽選情報まとめ【30th CELEBRATION カードセット】",
       "summary": "",
@@ -473,6 +432,32 @@
           "url": "https://pokeca-pocket.dbfw-days.com/30th-celebration-cardset-ranking/",
           "source": "ポケカポケット開封日記",
           "publishedAt": "2026-10-17T04:29:25.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "0212357b707b",
+      "title": "「みんなのポケモンカードユニバース」について｜ポケカ30周年特別サイト",
+      "summary": "",
+      "url": "https://www.30th.pokemon-card.com/special/universe",
+      "image": "https://www.30th.pokemon-card.com/30th_ogp.jpg",
+      "leadSource": "ポケモンカードゲーム トレーナーズウェブサイト",
+      "publishedAt": "2026-10-16T07:05:21.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "other"
+      ],
+      "keywords": [
+        "ポケモンカードユニバース"
+      ],
+      "articles": [
+        {
+          "title": "みんなのポケモンカードユニバース",
+          "url": "https://www.30tharchive.pokemon-card.com/",
+          "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+          "publishedAt": "2026-10-16T05:41:23.000Z",
           "isPR": false
         }
       ]
@@ -579,6 +564,29 @@
       "start": "",
       "status": "info",
       "count": 3
+    },
+    {
+      "id": "a5ae38af28ca",
+      "title": "【ポケカ】ストームエメラルダの予約・抽選情報まとめ【7/30更新】 | スニーカーダンク",
+      "url": "https://snkrdunk.com/articles/32581/",
+      "source": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/uploads/media/2989b9e7-e8f4-4557-bee3-ff9f7db28e77.jpeg",
+      "publishedAt": "2026-10-18T15:29:19.000Z",
+      "series": [
+        "tcg"
+      ],
+      "stores": [],
+      "products": [
+        "ストームエメラルダ"
+      ],
+      "isOfficial": false,
+      "host": "snkrdunk.com",
+      "method": "抽選",
+      "deadline": "",
+      "deadlineTime": "",
+      "start": "",
+      "status": "info",
+      "count": 1
     },
     {
       "id": "e3901a69627e",
@@ -725,12 +733,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-18T14:43:16.736Z",
-    "previousCount": 55,
-    "newCount": 5
+    "previousAt": "2026-10-18T17:34:21.472Z",
+    "previousCount": 57,
+    "newCount": 2
   },
   "updateGapMin": 171,
-  "nextUpdateAt": "2026-10-18T20:25:21.472Z",
+  "nextUpdateAt": "2026-10-18T22:30:08.229Z",
   "items": [
     {
       "id": "6a3e82a97ce5",
@@ -754,6 +762,27 @@
       "isNew": false
     },
     {
+      "id": "dffa414ee5a2",
+      "title": "【ポケカ】2026年の新弾発売スケジュールまとめ | スニーカーダンク",
+      "url": "https://snkrdunk.com/articles/15950/",
+      "host": "snkrdunk.com",
+      "source": "SNKRDUNK",
+      "summary": "",
+      "publishedAt": "2026-10-18T17:26:37.000Z",
+      "image": "https://cdn.snkrdunk.com/uploads/media/20251222061410-0.jpeg",
+      "categories": [
+        "release"
+      ],
+      "series": [
+        "tcg"
+      ],
+      "stores": [],
+      "products": [],
+      "isOfficial": false,
+      "isPR": false,
+      "isNew": true
+    },
+    {
       "id": "242bac53c705",
       "title": "【ポケカ】御三家セットとは？買取・相場価格/再販抽選情報まとめ【30th CELEBRATION カードセット】",
       "url": "https://snkrdunk.com/articles/32998/",
@@ -775,7 +804,7 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "780ca96f34b4",
@@ -795,6 +824,29 @@
       "stores": [],
       "products": [
         "ポケモンカード151"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "isNew": false
+    },
+    {
+      "id": "a5ae38af28ca",
+      "title": "【ポケカ】ストームエメラルダの予約・抽選情報まとめ【7/30更新】 | スニーカーダンク",
+      "url": "https://snkrdunk.com/articles/32581/",
+      "host": "snkrdunk.com",
+      "source": "SNKRDUNK",
+      "summary": "",
+      "publishedAt": "2026-10-18T15:29:19.000Z",
+      "image": "https://cdn.snkrdunk.com/uploads/media/2989b9e7-e8f4-4557-bee3-ff9f7db28e77.jpeg",
+      "categories": [
+        "lottery"
+      ],
+      "series": [
+        "tcg"
+      ],
+      "stores": [],
+      "products": [
+        "ストームエメラルダ"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -929,7 +981,7 @@
       "products": [],
       "isOfficial": false,
       "isPR": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "3f4e3bd3edff",
@@ -1057,7 +1109,7 @@
       "products": [],
       "isOfficial": true,
       "isPR": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "b7134167af3c",
@@ -1189,7 +1241,7 @@
       "products": [],
       "isOfficial": false,
       "isPR": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "67f6fd1a0950",
@@ -1558,7 +1610,7 @@
     },
     {
       "id": "0212357b707b",
-      "title": "「みんなのポケモンカードユニバース」について",
+      "title": "「みんなのポケモンカードユニバース」について｜ポケカ30周年特別サイト",
       "url": "https://www.30th.pokemon-card.com/special/universe",
       "host": "30th.pokemon-card.com",
       "source": "ポケモンカードゲーム トレーナーズウェブサイト",
