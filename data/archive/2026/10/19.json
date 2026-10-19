@@ -18,19 +18,19 @@
   "isPR": false
  },
  {
-  "id": "b66f414d563a",
-  "title": "【ポケカ】エーフィex SAR仕様の買取・相場価格と値段推移｜30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
-  "url": "https://snkrdunk.com/articles/32484/",
-  "source": "SNKRDUNK",
+  "id": "3f4e3bd3edff",
+  "title": "【ポケポケ】天空の支配者の当たりカードと収録カード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/564725",
+  "source": "GameWith",
   "summary": "",
-  "publishedAt": "2026-10-19T13:44:05.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/36f42531-f6c6-4477-b822-b15cccc7a576.jpeg",
+  "publishedAt": "2026-10-19T14:43:08.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/564725.png?date=1784813440",
   "categories": [
-   "market",
-   "release"
+   "reveal",
+   "deck"
   ],
   "series": [
-   "tcg"
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
@@ -42,11 +42,49 @@
   "url": "https://snkrdunk.com/articles/32464/",
   "source": "SNKRDUNK",
   "summary": "",
-  "publishedAt": "2026-10-19T13:24:30.000Z",
+  "publishedAt": "2026-10-19T13:55:52.000Z",
   "image": "https://cdn.snkrdunk.com/uploads/media/b3ec7894-3c17-4254-b87a-9ca52ed4616f.jpeg",
   "categories": [
    "lottery",
    "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "7ce29a27e667",
+  "title": "【ポケカ】MEGAドリームexの当たりランキング/買取相場/封入率/レア別相場/値段まとめ",
+  "url": "https://snkrdunk.com/articles/29152/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-19T13:54:29.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/20251127061052-0.jpeg",
+  "categories": [
+   "market",
+   "reveal"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "b66f414d563a",
+  "title": "【ポケカ】エーフィex SAR仕様の買取・相場価格と値段推移｜30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
+  "url": "https://snkrdunk.com/articles/32484/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-19T13:44:05.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/36f42531-f6c6-4477-b822-b15cccc7a576.jpeg",
+  "categories": [
+   "market",
+   "release"
   ],
   "series": [
    "tcg"
@@ -202,6 +240,24 @@
   "isPR": false
  },
  {
+  "id": "cd0e03a05efb",
+  "title": "【ポケポケ】アゲハント&ドクケイルデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/551793",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-19T10:06:55.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/551793.png?date=1785418069",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "62c9d5f138cb",
   "title": "【ポケポケ】メガガブリアスexデッキのレシピと評価【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/582954",
@@ -245,6 +301,24 @@
   "summary": "",
   "publishedAt": "2026-10-19T10:04:53.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559109.png?date=1777351053",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "98a287b6e25b",
+  "title": "【ポケポケ】メガバクーダexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/559108",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-19T10:04:53.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559108.png?date=1777355937",
   "categories": [
    "deck"
   ],
@@ -501,25 +575,6 @@
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574423.png?date=1788139354",
   "categories": [
    "other"
-  ],
-  "series": [
-   "pocket"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "3f4e3bd3edff",
-  "title": "【ポケポケ】天空の支配者の当たりカードと収録カード一覧【ポケモンカードアプリ】",
-  "url": "https://gamewith.jp/pokemon-tcg-pocket/564725",
-  "source": "GameWith",
-  "summary": "",
-  "publishedAt": "2026-10-18T19:06:14.000Z",
-  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/564725.png?date=1784813440",
-  "categories": [
-   "reveal",
-   "deck"
   ],
   "series": [
    "pocket"
