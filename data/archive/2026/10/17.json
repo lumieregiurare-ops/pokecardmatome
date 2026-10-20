@@ -257,6 +257,24 @@
   "isPR": false
  },
  {
+  "id": "63858e709ec3",
+  "title": "【26/10】ポケモンカードジム ジムバトル",
+  "url": "https://players.pokemon-card.com/event/detail/1163678/1/14660/20261026/1947648",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-17T08:36:01.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "630ccaadc1f5",
   "title": "【26/10】ポケモンカードジム トレーナーズリーグ（マスターリーグ）",
   "url": "https://players.pokemon-card.com/event/detail/1162341/1/14660/20261025/1947713",
@@ -485,24 +503,6 @@
   "source": "ポケモンカードゲーム プレイヤーズクラブ",
   "summary": "",
   "publishedAt": "2026-10-17T01:30:00.000Z",
-  "image": "",
-  "categories": [
-   "event"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": true,
-  "isPR": false
- },
- {
-  "id": "63858e709ec3",
-  "title": "【26/10】ポケモンカードジム ジムバトル",
-  "url": "https://players.pokemon-card.com/event/detail/1155444/1/22123/20261017/1954339",
-  "source": "ポケモンカードゲーム プレイヤーズクラブ",
-  "summary": "",
-  "publishedAt": "2026-10-17T01:28:43.000Z",
   "image": "",
   "categories": [
    "event"
