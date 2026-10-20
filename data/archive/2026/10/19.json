@@ -18,6 +18,25 @@
   "isPR": false
  },
  {
+  "id": "7ed1b0f66964",
+  "title": "【ポケポケ】新パック「ハイクラスパックMEGA(メガ)」の収録カードと当たりカード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/578648",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-19T14:49:08.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/578648.png?date=1790261909",
+  "categories": [
+   "release",
+   "reveal"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "3f4e3bd3edff",
   "title": "【ポケポケ】天空の支配者の当たりカードと収録カード一覧【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/564725",
@@ -760,25 +779,6 @@
   "categories": [
    "deck",
    "event"
-  ],
-  "series": [
-   "pocket"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "7ed1b0f66964",
-  "title": "【ポケポケ】新パック「ハイクラスパックMEGA(メガ)」の収録カードと当たりカード一覧【ポケモンカードアプリ】",
-  "url": "https://gamewith.jp/pokemon-tcg-pocket/578648",
-  "source": "GameWith",
-  "summary": "",
-  "publishedAt": "2026-10-18T15:26:12.000Z",
-  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/578648.png?date=1790261909",
-  "categories": [
-   "release",
-   "reveal"
   ],
   "series": [
    "pocket"
