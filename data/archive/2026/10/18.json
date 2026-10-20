@@ -222,6 +222,26 @@
   "isPR": false
  },
  {
+  "id": "bfe16d2cf9cd",
+  "title": "【買取情報】ポケモンカードゲーム 買取情報 カードラボ津田沼店 1018 / 津田沼店の店舗ブログ",
+  "url": "https://www.c-labo.jp/blog/581202/",
+  "source": "カードラボ",
+  "summary": "",
+  "publishedAt": "2026-10-18T07:00:00.000Z",
+  "image": "https://www.c-labo.jp/wordpress/wp-content/uploads/2026/10/4c85c234076325c638e2c305400f29d6.jpg",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [
+   "cardshop"
+  ],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "83b07b71a705",
   "title": "シティリーグ2027 シーズン1 オープンリーグ",
   "url": "https://players.pokemon-card.com/event/detail/1115087/result",
@@ -292,6 +312,24 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "63858e709ec3",
+  "title": "【26/10】ポケモンカードジム ジムバトル",
+  "url": "https://players.pokemon-card.com/event/detail/1156444/1/22717/20261018/1959497",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-18T02:00:00.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
