@@ -1,5 +1,61 @@
 [
  {
+  "id": "49abbee5bb61",
+  "title": "『ポケポケ』新拡張パック「デュアルフュージョン」が10月29日10時に配信。ほかの人のデッキをコピー可能、おすそわけ・トレード機能やバトルを改修",
+  "url": "https://www.famitsu.com/article/202610/91550",
+  "source": "ファミ通",
+  "summary": "",
+  "publishedAt": "2026-10-20T14:52:00.000Z",
+  "image": "https://cimg.kgl-systems.io/camion/files/91550/thumbnail_YkyJ.jpg?x=1280",
+  "categories": [
+   "release",
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "2dbe98d16b51",
+  "title": "ポケポケ新パック『デュアルフュージョン』新登場で収録カード9枚発表 スペシャルパック「はじまりのパートナー」発表",
+  "url": "https://www.sankei.com/article/20261020-72MF62ATJNLJPJEF3NK2UZOLZY/",
+  "source": "産経ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-20T14:01:08.000Z",
+  "image": "https://www.sankei.com/resizer/v2/IYJIRFAKTBLIFPEA2YFNG6LNPM.jpg?auth=d80638154f92626742810aa71ba3ca2d3a7fd9c37acf529a9e09c4e06d956bb6&quality=50&smart=true&width=1200&height=675",
+  "categories": [
+   "release",
+   "reveal"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "d6213a4c7cbf",
+  "title": "ポケポケ新パック『デュアルフュージョン』新登場",
+  "url": "https://www.sankei.com/article/20261020-72MF62ATJNLJPJEF3NK2UZOLZY/photo/IYJIRFAKTBLIFPEA2YFNG6LNPM/",
+  "source": "産経ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-20T14:01:08.000Z",
+  "image": "https://www.sankei.com/resizer/v2/IYJIRFAKTBLIFPEA2YFNG6LNPM.jpg?auth=d80638154f92626742810aa71ba3ca2d3a7fd9c37acf529a9e09c4e06d956bb6&quality=50&smart=true&width=1200&height=675",
+  "categories": [
+   "release"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "cf57d26049d1",
   "title": "【ポケポケ】新パック「デュアルフュージョン」の収録カード一覧【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/583349",
@@ -29,25 +85,6 @@
   "categories": [
    "release",
    "event"
-  ],
-  "series": [
-   "pocket"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "2dbe98d16b51",
-  "title": "ポケポケ新パック『デュアルフュージョン』新登場で収録カード9枚発表 スペシャルパック「はじまりのパートナー」発表（オリコン）",
-  "url": "https://news.yahoo.co.jp/articles/36baaa9490ec803e1df7794f15c00d194e91d368",
-  "source": "Yahoo!ニュース",
-  "summary": "",
-  "publishedAt": "2026-10-20T13:17:21.000Z",
-  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-00000553-oric-000-1-view.jpg?exp=10800",
-  "categories": [
-   "release",
-   "reveal"
   ],
   "series": [
    "pocket"
@@ -139,6 +176,43 @@
   "image": "https://cdn.snkrdunk.com/uploads/media/f6fbd3a3-a36f-47a9-93ea-8c16b48ac4f3.jpeg",
   "categories": [
    "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "a5ae38af28ca",
+  "title": "【ポケカ】ストームエメラルダの予約・抽選情報まとめ【7/30更新】 | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/32581/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-20T12:01:22.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/2989b9e7-e8f4-4557-bee3-ff9f7db28e77.jpeg",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "01eef2d84448",
+  "title": "【ポケカ】30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキーの収録カード・再販抽選情報まとめ",
+  "url": "https://snkrdunk.com/articles/32464/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-20T11:57:41.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/b3ec7894-3c17-4254-b87a-9ca52ed4616f.jpeg",
+  "categories": [
+   "lottery",
+   "restock"
   ],
   "series": [
    "tcg"
@@ -388,6 +462,24 @@
   "isPR": false
  },
  {
+  "id": "e621c2864b38",
+  "title": "ワールドチャンピオンシップス選手選抜戦、ポケモンカードゲーム大会が江西区で開催される",
+  "url": "https://www.gamemeca.com/ja/view.php?gid",
+  "source": "게임메카",
+  "summary": "",
+  "publishedAt": "2026-10-20T07:44:08.000Z",
+  "image": "https://cdn.gamemeca.com/g17/images/common/meca_logo_sns.gif",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "global"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "b74bf58648dc",
   "title": "【公式】ポケモンカードゲーム 30周年記念映像「24時間カードギャラリー」Part3",
   "url": "https://www.youtube.com/watch?v=8nu3ORBH90I",
@@ -459,25 +551,6 @@
   "stores": [
    "cardshop"
   ],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "01eef2d84448",
-  "title": "【ポケカ】30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキーの収録カード・再販抽選情報まとめ",
-  "url": "https://snkrdunk.com/articles/32464/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-20T02:42:24.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/b3ec7894-3c17-4254-b87a-9ca52ed4616f.jpeg",
-  "categories": [
-   "lottery",
-   "restock"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
   "isOfficial": false,
   "isPR": false
  },
@@ -602,24 +675,6 @@
   ],
   "series": [
    "pocket"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "a5ae38af28ca",
-  "title": "【ポケカ】ストームエメラルダの予約・抽選情報まとめ【7/30更新】 | スニーカーダンク",
-  "url": "https://snkrdunk.com/articles/32581/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-19T23:58:51.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/2989b9e7-e8f4-4557-bee3-ff9f7db28e77.jpeg",
-  "categories": [
-   "lottery"
-  ],
-  "series": [
-   "tcg"
   ],
   "stores": [],
   "isOfficial": false,
