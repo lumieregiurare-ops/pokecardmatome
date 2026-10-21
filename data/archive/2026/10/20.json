@@ -56,6 +56,25 @@
   "isPR": false
  },
  {
+  "id": "d42caaa915f0",
+  "title": "『Pokemon TCG Pocket』新拡張パック「デュアルフュージョン」10月29日登場。対戦履歴の確認やルール設定に対応",
+  "url": "https://corriente.jp/pokemon-tcg-pocket-dual-fusion-261029/",
+  "source": "CoRRiENTE",
+  "summary": "",
+  "publishedAt": "2026-10-20T13:43:26.000Z",
+  "image": "https://corriente.jp/wp-content/uploads/2026/10/pokemon-tcg-pocket-dual-fusion-261029-1.webp",
+  "categories": [
+   "release",
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "cf57d26049d1",
   "title": "【ポケポケ】新パック「デュアルフュージョン」の収録カード一覧【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/583349",
@@ -779,7 +798,7 @@
   "source": "北海道新聞デジタル",
   "summary": "",
   "publishedAt": "2026-10-19T19:00:00.000Z",
-  "image": "https://static.hokkaido-np.co.jp/image/article/size1/8/8/9/b/889bb46c01ec26b8a6dd7fa9bdfced64_1.webp?20261021000323",
+  "image": "https://static.hokkaido-np.co.jp/image/article/size1/8/8/9/b/889bb46c01ec26b8a6dd7fa9bdfced64_1.webp?20261021094422",
   "categories": [
    "market",
    "caution"
