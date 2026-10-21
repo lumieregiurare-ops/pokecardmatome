@@ -19,6 +19,24 @@
   "isPR": false
  },
  {
+  "id": "9771208b9776",
+  "title": "ポケカ初心者のししゃもだよ",
+  "url": "https://players.pokemon-card.com/event/search/21362/202612/list",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-20T14:32:56.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "2dbe98d16b51",
   "title": "ポケポケ新パック『デュアルフュージョン』新登場で収録カード9枚発表 スペシャルパック「はじまりのパートナー」発表",
   "url": "https://www.sankei.com/article/20261020-72MF62ATJNLJPJEF3NK2UZOLZY/",
@@ -424,6 +442,24 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "63858e709ec3",
+  "title": "【26/10】ポケモンカードジム ジムバトル",
+  "url": "https://players.pokemon-card.com/event/detail/1158500/1/22685/20261020/1960651",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-20T08:01:57.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
