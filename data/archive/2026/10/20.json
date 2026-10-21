@@ -373,24 +373,6 @@
   "isPR": false
  },
  {
-  "id": "53ce975d0050",
-  "title": "LINEヤフーとポケモンが連携強化、「Yahoo!フリマ」「Yahoo!オークション」でポケカの取引適正化施策を実施",
-  "url": "https://news.yahoo.co.jp/articles/8d606b509a236a340f386c5d2655c9ea717f5f78",
-  "source": "Yahoo!ニュース",
-  "summary": "",
-  "publishedAt": "2026-10-20T09:31:04.000Z",
-  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800",
-  "categories": [
-   "market"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "c3572f07ab43",
   "title": "【ポケカ30周年】30th CELEBRATION(30th セレブレーション)の当たりランキング/買取相場/封入率/予約抽選/値段まとめ【10/20更新】",
   "url": "https://snkrdunk.com/articles/30971/",
@@ -530,6 +512,24 @@
   ],
   "series": [
    "global"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "3ca365bc2aff",
+  "title": "【ポケポケ】炎タイプのみデッキと炎デッキの最強・おすすめカード【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/472613",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-20T07:33:05.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/472613.png?date=1772787257",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
@@ -787,6 +787,24 @@
   ],
   "series": [
    "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "53ce975d0050",
+  "title": "LINEヤフーとポケモンが連携強化、「Yahoo!フリマ」「Yahoo!オークション」でポケカの取引適正化施策を実施",
+  "url": "https://netshop.impress.co.jp/n/2026/10/20/16885",
+  "source": "ネットショップ担当者フォーラム",
+  "summary": "",
+  "publishedAt": "2026-10-20T01:30:00.000Z",
+  "image": "https://netshop.impress.co.jp/sites/default/files/styles/1200x630/public/images/news/2026/news-node16885-ogp.jpg?itok=O2omBpNV",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
   ],
   "stores": [],
   "isOfficial": false,
