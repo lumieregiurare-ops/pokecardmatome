@@ -120,8 +120,7 @@
   "publishedAt": "2026-10-20T13:25:02.000Z",
   "image": "https://www.inside-games.jp/imgs/rss/1796437.jpg",
   "categories": [
-   "release",
-   "event"
+   "release"
   ],
   "series": [
    "pocket"
@@ -164,6 +163,24 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "ba898d20fde2",
+  "title": "デッキを表示 | ポケカ公式 デッキコード=kbFbFF-nf4xlU-kwkFFV",
+  "url": "https://www.pokemon-card.com/deck/confirm.html/deckID/kbFbFF-nf4xlU-kwkFFV",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-10-20T13:05:54.000Z",
+  "image": "",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
@@ -330,6 +347,26 @@
   ],
   "stores": [
    "cardshop"
+  ],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "075dce22bfef",
+  "title": "【ポケカ】Amazon抽選販売まとめ。30周年カードセット“30th CELEBRATION”やストームエメラルダ、MEGAドリームexなど",
+  "url": "https://www.famitsu.com/article/images/202610/90708/900895",
+  "source": "ファミ通",
+  "summary": "",
+  "publishedAt": "2026-10-20T10:34:00.000Z",
+  "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90708/afe5df232cafa4c4e0f1a0294418e5660.jpg?x=1280",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [
+   "amazon"
   ],
   "isOfficial": false,
   "isPR": false
