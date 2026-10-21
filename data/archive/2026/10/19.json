@@ -222,24 +222,6 @@
   "isPR": false
  },
  {
-  "id": "dffa414ee5a2",
-  "title": "【ポケカ】2026年の新弾発売スケジュールまとめ | スニーカーダンク",
-  "url": "https://snkrdunk.com/articles/15950/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-19T11:40:15.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/20251222061410-0.jpeg",
-  "categories": [
-   "release"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "4264613ead10",
   "title": "【ポケポケ】波動ビートの当たりカードと収録カード一覧【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/558029",
@@ -488,6 +470,24 @@
   ],
   "series": [
    "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "dffa414ee5a2",
+  "title": "【ポケカ】2026年の新弾発売スケジュールまとめ | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/15950/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-19T07:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/20251222061410-0.jpeg",
+  "categories": [
+   "release"
+  ],
+  "series": [
+   "tcg"
   ],
   "stores": [],
   "isOfficial": false,

@@ -203,24 +203,6 @@
   "isPR": false
  },
  {
-  "id": "22218f279261",
-  "title": "【ポケカ】30周年記念ピカチュウをまるごとチェック！買取・相場価格/注目カードまとめ",
-  "url": "https://snkrdunk.com/articles/33255/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-20T12:08:46.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/a283fd47-f236-4427-b317-4486e4e559c7.png",
-  "categories": [
-   "market"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "114719810f4b",
   "title": "【ポケカ】30th CELEBRATION(30th セレブレーション)の予約・抽選情報まとめ【9/15更新】 | スニーカーダンク",
   "url": "https://snkrdunk.com/articles/32425/",
@@ -368,24 +350,6 @@
   "stores": [
    "amazon"
   ],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "d3b87d882a5e",
-  "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【10/20更新】",
-  "url": "https://snkrdunk.com/articles/33304/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-20T10:23:45.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/1be64b43-ba7d-41a8-adea-6b26f00f1866.png",
-  "categories": [
-   "restock"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
   "isOfficial": false,
   "isPR": false
  },
@@ -568,6 +532,62 @@
    "global"
   ],
   "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "22218f279261",
+  "title": "【ポケカ】30周年記念ピカチュウをまるごとチェック！買取・相場価格/注目カードまとめ",
+  "url": "https://snkrdunk.com/articles/33255/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-20T07:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/a283fd47-f236-4427-b317-4486e4e559c7.png",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "d3b87d882a5e",
+  "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【10/20更新】",
+  "url": "https://snkrdunk.com/articles/33304/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-20T07:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/1be64b43-ba7d-41a8-adea-6b26f00f1866.png",
+  "categories": [
+   "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "ae34a5d2ee2f",
+  "title": "【買取情報】ポケモンカードゲーム 買取情報 カードラボ津田沼店 1020 / 津田沼店の店舗ブログ",
+  "url": "https://www.c-labo.jp/blog/581202/",
+  "source": "カードラボ",
+  "summary": "",
+  "publishedAt": "2026-10-20T07:00:00.000Z",
+  "image": "https://www.c-labo.jp/wordpress/wp-content/uploads/2026/10/4c85c234076325c638e2c305400f29d6.jpg",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [
+   "cardshop"
+  ],
   "isOfficial": false,
   "isPR": false
  },
