@@ -3,7 +3,7 @@
   "id": "49abbee5bb61",
   "title": "『ポケポケ』新拡張パック「デュアルフュージョン」が10月29日10時に配信。ほかの人のデッキをコピー可能、おすそわけ・トレード機能やバトルを改修",
   "url": "https://www.famitsu.com/article/202610/91550",
-  "source": "ファミ通.com",
+  "source": "ファミ通",
   "summary": "",
   "publishedAt": "2026-10-20T14:52:00.000Z",
   "image": "https://cimg.kgl-systems.io/camion/files/91550/thumbnail_YkyJ.jpg?x=1280",
@@ -99,10 +99,9 @@
   "source": "インサイド",
   "summary": "スペシャルパック「はじまりのパートナー」や、イベントで「ピカピカ！ピカチュウパック」なども登場！",
   "publishedAt": "2026-10-20T13:25:02.000Z",
-  "image": "https://www.inside-games.jp/imgs/rss/1796437.jpg",
+  "image": "https://www.inside-games.jp/imgs/ogp_f/1796437.jpg",
   "categories": [
-   "release",
-   "event"
+   "release"
   ],
   "series": [
    "pocket"
@@ -173,7 +172,7 @@
   "source": "ポケモンカードゲーム トレーナーズウェブサイト",
   "summary": "",
   "publishedAt": "2026-10-20T13:05:54.000Z",
-  "image": "",
+  "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/kbFbFF-nf4xlU-kwkFFV.png?v=1998061658402",
   "categories": [
    "deck"
   ],
@@ -337,11 +336,11 @@
  {
   "id": "075dce22bfef",
   "title": "【ポケカ】Amazon抽選販売まとめ。30周年カードセット“30th CELEBRATION”やストームエメラルダ、MEGAドリームexなど",
-  "url": "https://www.famitsu.com/article/images/202610/90708/900895",
+  "url": "https://www.famitsu.com/article/images/202610/90708/900891",
   "source": "ファミ通",
   "summary": "",
   "publishedAt": "2026-10-20T10:34:00.000Z",
-  "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90708/afe5df232cafa4c4e0f1a0294418e5660.jpg?x=1280",
+  "image": "https://cimg.kgl-systems.io/camion/files/famitsu/90708/a799bad5a3b514f096e69bbc4a7896cd9.jpg?x=1280",
   "categories": [
    "lottery"
   ],
@@ -671,7 +670,7 @@
   "id": "83b07b71a705",
   "title": "シティリーグ2027 シーズン1 オープンリーグ",
   "url": "https://players.pokemon-card.com/event/detail/1115222/result",
-  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "source": "プレイヤーズクラブ",
   "summary": "",
   "publishedAt": "2026-10-20T02:00:00.000Z",
   "image": "",

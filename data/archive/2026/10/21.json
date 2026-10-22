@@ -296,24 +296,6 @@
   "isPR": false
  },
  {
-  "id": "e6d518312745",
-  "title": "韓国でポケモンカード収集熱、専門店の売上高154％増…大人の来店も拡大",
-  "url": "https://www.afpbb.com/articles/biz/3658742?ctm_campaign",
-  "source": "AFPBB News",
-  "summary": "",
-  "publishedAt": "2026-10-21T09:10:34.000Z",
-  "image": "https://afpbb.ismcdn.jp/mwimgs/d/e/1000x/img_de6b20c85b2d9ff539ddc02043d152a6142512.jpg",
-  "categories": [
-   "other"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "ae34a5d2ee2f",
   "title": "【買取情報】ポケモンカードゲーム 買取情報 カードラボ津田沼店 1020 / 津田沼店の店舗ブログ",
   "url": "https://www.c-labo.jp/blog/581202/",
@@ -330,6 +312,24 @@
   "stores": [
    "cardshop"
   ],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "e6d518312745",
+  "title": "韓国でポケモンカード収集熱、専門店の売上高154％増…大人の来店も拡大（KOREA WAVE）",
+  "url": "https://news.yahoo.co.jp/articles/06fc51087da50c2c7a8119cd5303e9ef76746299",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-21T08:42:15.000Z",
+  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-03658742-clc_korea-000-1-view.jpg?exp=10800",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
   "isOfficial": false,
   "isPR": false
  },
