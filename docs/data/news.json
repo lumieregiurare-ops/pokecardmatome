@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T15:54:27.503Z",
+  "updatedAt": "2026-10-22T19:44:27.142Z",
   "site": {
     "title": "ポケカ速報",
     "tagline": "ポケモンカードの抽選・予約・新弾・再販・大会のニュースを、あちこちから集めてまとめています。",
@@ -7,8 +7,8 @@
     "gaId": "",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 61,
-  "todayCount": 0,
+  "total": 60,
+  "todayCount": 3,
   "categories": [
     {
       "id": "lottery",
@@ -18,7 +18,7 @@
     {
       "id": "restock",
       "label": "再販・入荷",
-      "count": 4
+      "count": 5
     },
     {
       "id": "release",
@@ -28,27 +28,27 @@
     {
       "id": "reveal",
       "label": "新カード",
-      "count": 7
+      "count": 6
     },
     {
       "id": "event",
       "label": "大会・イベント",
-      "count": 6
+      "count": 4
     },
     {
       "id": "promo",
       "label": "プロモ・特典",
-      "count": 1
+      "count": 3
     },
     {
       "id": "market",
       "label": "相場・買取",
-      "count": 7
+      "count": 5
     },
     {
       "id": "deck",
       "label": "デッキ・攻略",
-      "count": 13
+      "count": 14
     },
     {
       "id": "caution",
@@ -63,14 +63,14 @@
     {
       "id": "other",
       "label": "その他",
-      "count": 13
+      "count": 12
     }
   ],
   "series": [
     {
       "id": "tcg",
       "label": "ポケカ",
-      "count": 43
+      "count": 42
     },
     {
       "id": "pocket",
@@ -121,14 +121,14 @@
       "slug": "30th-celebration",
       "count": 42,
       "release": "2026-10-16",
-      "latestAt": "2026-10-22T14:44:22.000Z"
+      "latestAt": "2026-10-22T15:16:25.000Z"
     },
     {
       "name": "デュアルフュージョン",
       "slug": "pzh9pu2",
       "count": 22,
       "release": "2026-10-29",
-      "latestAt": "2026-10-21T15:34:28.000Z"
+      "latestAt": "2026-10-22T16:45:09.000Z"
     },
     {
       "name": "ハイクラスパックMEGA",
@@ -223,7 +223,7 @@
     },
     {
       "name": "Yahoo!ニュース",
-      "count": 5
+      "count": 6
     },
     {
       "name": "ポケモンカードゲーム公式",
@@ -246,8 +246,8 @@
       "count": 2
     },
     {
-      "name": "ポケモンカードゲーム プレイヤーズクラブ",
-      "count": 2
+      "name": "ポケモンカードゲーム トレーナーズウェブサイト",
+      "count": 1
     },
     {
       "name": "産経ニュース",
@@ -258,7 +258,7 @@
       "count": 1
     },
     {
-      "name": "KSBニュース",
+      "name": "ウォーカープラス",
       "count": 1
     },
     {
@@ -270,6 +270,10 @@
       "count": 1
     },
     {
+      "name": "ポケモンカードゲーム プレイヤーズクラブ",
+      "count": 1
+    },
+    {
       "name": "CoRRiENTE",
       "count": 1
     },
@@ -278,19 +282,11 @@
       "count": 1
     },
     {
-      "name": "ポケモンカードゲーム トレーナーズウェブサイト",
-      "count": 1
-    },
-    {
       "name": "読売新聞",
       "count": 1
     },
     {
       "name": "ホビーステーション",
-      "count": 1
-    },
-    {
-      "name": "プレイヤーズクラブ",
       "count": 1
     },
     {
@@ -306,31 +302,52 @@
       "url": "https://gamewith.jp/pokemon-tcg-pocket/583349",
       "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583349.png?date=1792503111",
       "leadSource": "GameWith",
-      "publishedAt": "2026-10-21T15:34:28.000Z",
-      "sourceCount": 5,
-      "articleCount": 6,
+      "publishedAt": "2026-10-22T16:45:09.000Z",
+      "sourceCount": 3,
+      "articleCount": 7,
       "categories": [
         "release",
         "reveal"
       ],
       "keywords": [
-        "パック",
-        "デュアルフュージョン",
-        "ポケポケ"
+        "カード",
+        "ポケポケ",
+        "再販"
       ],
       "articles": [
         {
-          "title": "ポケポケ、拡張パック「デュアルフュージョン」登場 御三家ポケモンが登場するスペシャルパックも（ITmedia Mobile）",
-          "url": "https://news.yahoo.co.jp/articles/423d8766d47fc709945282687803635fb246441e",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-21T07:43:25.000Z",
+          "title": "【ポケカ】30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキーの収録カード・再販抽選情報まとめ",
+          "url": "https://snkrdunk.com/articles/32464/",
+          "source": "SNKRDUNK",
+          "publishedAt": "2026-10-22T14:33:42.000Z",
           "isPR": false
         },
         {
-          "title": "2つのタイプ、ポケモンカードゲーム Pocket「デュアルフュージョン」拡張パック発売",
-          "url": "https://www.gamemeca.com/ja/view.php?gid",
-          "source": "게임메카",
-          "publishedAt": "2026-10-21T05:26:54.000Z",
+          "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【10/22更新】",
+          "url": "https://snkrdunk.com/articles/33304/",
+          "source": "SNKRDUNK",
+          "publishedAt": "2026-10-22T13:23:21.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【ポケカ】ポケモンカード151の再販はいつ？再販入荷情報まとめ【10/10更新】",
+          "url": "https://snkrdunk.com/articles/18862/",
+          "source": "SNKRDUNK",
+          "publishedAt": "2026-10-22T07:03:30.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【ポケポケ】ミュウex(デュアルフュージョン)の効果と事前評価【ポケモンカードアプリ】",
+          "url": "https://gamewith.jp/pokemon-tcg-pocket/583353",
+          "source": "GameWith",
+          "publishedAt": "2026-10-22T01:13:12.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【ポケポケ】メガミュウツーYex(プロモ)の効果と事前評価【ポケモンカードアプリ】",
+          "url": "https://gamewith.jp/pokemon-tcg-pocket/583357",
+          "source": "GameWith",
+          "publishedAt": "2026-10-22T01:13:10.000Z",
           "isPR": false
         },
         {
@@ -339,46 +356,62 @@
           "source": "ポケカポケット開封日記",
           "publishedAt": "2026-10-20T22:56:18.000Z",
           "isPR": false
-        },
+        }
+      ]
+    },
+    {
+      "id": "3eb9c416020d",
+      "title": "【ポケカ】スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー商品紹介",
+      "summary": "",
+      "url": "https://pokeca-pocket.dbfw-days.com/mega-startdeck/",
+      "image": "https://pokeca-pocket.dbfw-days.com/wp-content/uploads/2026/10/IMG_0538.jpg",
+      "leadSource": "ポケカポケット開封日記",
+      "publishedAt": "2026-10-22T02:10:31.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "deck",
+        "lottery"
+      ],
+      "keywords": [
+        "mega",
+        "スペシャルデッキセット",
+        "メガオーダイル"
+      ],
+      "articles": [
         {
-          "title": "『ポケポケ』新パック「デュアルフュージョン」10月29日追加！目玉の「メガミュウツーXex」「メガゲッコウガex」など、“デュアルタイプ”のカードが新登場",
-          "url": "https://www.inside-games.jp/article/2026/10/20/189575.html",
-          "source": "インサイド",
-          "publishedAt": "2026-10-20T13:25:02.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ポケポケ新パック『デュアルフュージョン』新登場で収録カード9枚発表 スペシャルパック「はじまりのパートナー」発表（オリコン）",
-          "url": "https://news.yahoo.co.jp/articles/36baaa9490ec803e1df7794f15c00d194e91d368",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-10-20T13:17:21.000Z",
+          "title": "【ポケカ】「スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー」の予約・抽選情報まとめ【10/21更新】",
+          "url": "https://snkrdunk.com/articles/33534/",
+          "source": "SNKRDUNK",
+          "publishedAt": "2026-10-21T07:00:00.000Z",
           "isPR": false
         }
       ]
     },
     {
-      "id": "bc6f7e23c279",
-      "title": "ポケモンカード約2220万円分を盗んだ疑い「トクリュウ」か？男2人逮捕（2026年10月22日掲載）｜RNC NEWS NNN",
+      "id": "331ebb17c57d",
+      "title": "ポケポケ、拡張パック「デュアルフュージョン」登場 御三家ポケモンが登場するスペシャルパックも（ITmedia Mobile）",
       "summary": "",
-      "url": "https://news.ntv.co.jp/n/rnc/category/society/rn5e9e6a78256b480abc793654aeb1cbd3",
-      "image": "https://image.gallery.play.jp/rnc-news/articles/ed0a87b1ad9d44f8b944d58a9e46d53b/86541bc6-cfb0-483a-901e-0363b2357cde.jpg?w=1200",
-      "leadSource": "日テレNEWS NNN",
-      "publishedAt": "2026-10-22T09:49:50.000Z",
+      "url": "https://news.yahoo.co.jp/articles/423d8766d47fc709945282687803635fb246441e",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000050-zdn_m-000-1-view.jpg?exp=10800",
+      "leadSource": "Yahoo!ニュース",
+      "publishedAt": "2026-10-21T07:43:25.000Z",
       "sourceCount": 2,
       "articleCount": 2,
       "categories": [
-        "caution"
+        "release"
       ],
       "keywords": [
-        "トクリュウ",
-        "人逮捕"
+        "拡張パック",
+        "パック",
+        "デュアルフュージョン"
       ],
       "articles": [
         {
-          "title": "「トクリュウ」と見られる窃盗団がポケモンカードなど約2200万円相当を盗んだ疑い 男2人逮捕 香川県警",
-          "url": "https://news.ksb.co.jp/article/16985673",
-          "source": "KSBニュース",
-          "publishedAt": "2026-10-22T07:00:00.000Z",
+          "title": "2つのタイプ、ポケモンカードゲーム Pocket「デュアルフュージョン」拡張パック発売",
+          "url": "https://www.gamemeca.com/ja/view.php?gid",
+          "source": "게임메카",
+          "publishedAt": "2026-10-21T05:26:54.000Z",
           "isPR": false
         }
       ]
@@ -436,6 +469,35 @@
           "url": "https://news.denfaminicogamer.jp/news/2610203e",
           "source": "電ファミニコゲーマー",
           "publishedAt": "2026-10-20T13:15:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "c72266cd83f6",
+      "title": "『ポケポケ』新パック「デュアルフュージョン」10月29日追加！目玉の「メガミュウツーXex」「メガゲッコウガex」など、“デュアルタイプ”のカードが新登場",
+      "summary": "",
+      "url": "https://www.inside-games.jp/article/2026/10/20/189575.html",
+      "image": "https://www.inside-games.jp/imgs/ogp_f/1796437.jpg",
+      "leadSource": "インサイド",
+      "publishedAt": "2026-10-20T13:25:02.000Z",
+      "sourceCount": 2,
+      "articleCount": 2,
+      "categories": [
+        "release",
+        "reveal"
+      ],
+      "keywords": [
+        "ポケポケ",
+        "パック",
+        "デュアルフュージョン"
+      ],
+      "articles": [
+        {
+          "title": "ポケポケ新パック『デュアルフュージョン』新登場で収録カード9枚発表 スペシャルパック「はじまりのパートナー」発表（オリコン）",
+          "url": "https://news.yahoo.co.jp/articles/36baaa9490ec803e1df7794f15c00d194e91d368",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-10-20T13:17:21.000Z",
           "isPR": false
         }
       ]
@@ -550,6 +612,29 @@
       "count": 1
     },
     {
+      "id": "01eef2d84448",
+      "title": "【ポケカ】30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキーの収録カード・再販抽選情報まとめ",
+      "url": "https://snkrdunk.com/articles/32464/",
+      "source": "SNKRDUNK",
+      "image": "https://cdn.snkrdunk.com/uploads/media/b3ec7894-3c17-4254-b87a-9ca52ed4616f.jpeg",
+      "publishedAt": "2026-10-22T14:33:42.000Z",
+      "series": [
+        "tcg"
+      ],
+      "stores": [],
+      "products": [
+        "30th CELEBRATION"
+      ],
+      "isOfficial": false,
+      "host": "snkrdunk.com",
+      "method": "抽選",
+      "deadline": "",
+      "deadlineTime": "",
+      "start": "",
+      "status": "info",
+      "count": 2
+    },
+    {
       "id": "a5ae38af28ca",
       "title": "【ポケカ】ストームエメラルダの予約・抽選情報まとめ【7/30更新】 | スニーカーダンク",
       "url": "https://snkrdunk.com/articles/32581/",
@@ -608,29 +693,6 @@
       "stores": [],
       "products": [
         "ポケモンカード151"
-      ],
-      "isOfficial": false,
-      "host": "snkrdunk.com",
-      "method": "抽選",
-      "deadline": "",
-      "deadlineTime": "",
-      "start": "",
-      "status": "info",
-      "count": 2
-    },
-    {
-      "id": "01eef2d84448",
-      "title": "【ポケカ】30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキーの収録カード・再販抽選情報まとめ",
-      "url": "https://snkrdunk.com/articles/32464/",
-      "source": "SNKRDUNK",
-      "image": "https://cdn.snkrdunk.com/uploads/media/b3ec7894-3c17-4254-b87a-9ca52ed4616f.jpeg",
-      "publishedAt": "2026-10-22T02:55:32.000Z",
-      "series": [
-        "tcg"
-      ],
-      "stores": [],
-      "products": [
-        "30th CELEBRATION"
       ],
       "isOfficial": false,
       "host": "",
@@ -809,12 +871,12 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-10-22T11:10:58.570Z",
-    "previousCount": 63,
-    "newCount": 5
+    "previousAt": "2026-10-22T15:54:27.503Z",
+    "previousCount": 61,
+    "newCount": 9
   },
-  "updateGapMin": 244,
-  "nextUpdateAt": "2026-10-22T19:58:27.503Z",
+  "updateGapMin": 230,
+  "nextUpdateAt": "2026-10-22T23:34:27.142Z",
   "items": [
     {
       "id": "6a3e82a97ce5",
@@ -834,6 +896,76 @@
       "stores": [],
       "products": [],
       "isOfficial": true,
+      "isPR": false,
+      "isNew": false
+    },
+    {
+      "id": "cf57d26049d1",
+      "title": "【ポケポケ】新パック「デュアルフュージョン」の収録カード一覧【ポケモンカードアプリ】",
+      "url": "https://gamewith.jp/pokemon-tcg-pocket/583349",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-22T16:45:09.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583349.png?date=1792503111",
+      "categories": [
+        "release",
+        "reveal"
+      ],
+      "series": [
+        "pocket"
+      ],
+      "stores": [],
+      "products": [
+        "デュアルフュージョン"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "isNew": false
+    },
+    {
+      "id": "8890f6584d01",
+      "title": "【ポケカ】FUTURISTIC BOXの買取・相場価格と値段推移｜30th CELEBRATION",
+      "url": "https://snkrdunk.com/articles/33089/",
+      "host": "snkrdunk.com",
+      "source": "SNKRDUNK",
+      "summary": "",
+      "publishedAt": "2026-10-22T15:16:25.000Z",
+      "image": "https://cdn.snkrdunk.com/uploads/media/8cad1500-46eb-4bd4-bb79-000e72a2ec46.jpeg",
+      "categories": [
+        "market"
+      ],
+      "series": [
+        "tcg"
+      ],
+      "stores": [],
+      "products": [
+        "30th CELEBRATION"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "isNew": true
+    },
+    {
+      "id": "a54d539d0370",
+      "title": "【ポケカ】ルギア(30th再録)の買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)",
+      "url": "https://snkrdunk.com/articles/33331/",
+      "host": "snkrdunk.com",
+      "source": "SNKRDUNK",
+      "summary": "",
+      "publishedAt": "2026-10-22T15:02:32.000Z",
+      "image": "https://cdn.snkrdunk.com/uploads/media/ae0dc9c1-0da8-46bf-90cb-413081856201.png",
+      "categories": [
+        "market"
+      ],
+      "series": [
+        "tcg"
+      ],
+      "stores": [],
+      "products": [
+        "30th CELEBRATION"
+      ],
+      "isOfficial": false,
       "isPR": false,
       "isNew": false
     },
@@ -859,6 +991,30 @@
       "isOfficial": false,
       "isPR": false,
       "isNew": false
+    },
+    {
+      "id": "01eef2d84448",
+      "title": "【ポケカ】30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキーの収録カード・再販抽選情報まとめ",
+      "url": "https://snkrdunk.com/articles/32464/",
+      "host": "snkrdunk.com",
+      "source": "SNKRDUNK",
+      "summary": "",
+      "publishedAt": "2026-10-22T14:33:42.000Z",
+      "image": "https://cdn.snkrdunk.com/uploads/media/b3ec7894-3c17-4254-b87a-9ca52ed4616f.jpeg",
+      "categories": [
+        "lottery",
+        "restock"
+      ],
+      "series": [
+        "tcg"
+      ],
+      "stores": [],
+      "products": [
+        "30th CELEBRATION"
+      ],
+      "isOfficial": false,
+      "isPR": false,
+      "isNew": true
     },
     {
       "id": "d3b87d882a5e",
@@ -926,6 +1082,27 @@
       "isOfficial": false,
       "isPR": false,
       "isNew": false
+    },
+    {
+      "id": "95676cbdfdb3",
+      "title": "デッキ表示デッキを保存 | ポケカ公式",
+      "url": "https://www.pokemon-card.com/deck/result.html/deckID/RyMXXU-adCwJv-2MMyyp/",
+      "host": "pokemon-card.com",
+      "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+      "summary": "",
+      "publishedAt": "2026-10-22T11:30:56.000Z",
+      "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/RyMXXU-adCwJv-2MMyyp.png?v=1998061658402",
+      "categories": [
+        "deck"
+      ],
+      "series": [
+        "tcg"
+      ],
+      "stores": [],
+      "products": [],
+      "isOfficial": true,
+      "isPR": false,
+      "isNew": true
     },
     {
       "id": "961098b4a434",
@@ -1009,17 +1186,17 @@
       "products": [],
       "isOfficial": false,
       "isPR": false,
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "578368d24971",
-      "title": "【ポケポケ】タケルライコデッキのレシピと評価【ポケモンカードアプリ】",
-      "url": "https://gamewith.jp/pokemon-tcg-pocket/562235",
+      "id": "6bdf0e2fef54",
+      "title": "【ポケポケ】ミライドンexデッキのレシピと評価【ポケモンカードアプリ】",
+      "url": "https://gamewith.jp/pokemon-tcg-pocket/562111",
       "host": "gamewith.jp",
       "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-10-22T10:09:33.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/562235.png?date=1779971861",
+      "publishedAt": "2026-10-22T10:09:35.000Z",
+      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/562111.png?date=1779946633",
       "categories": [
         "deck"
       ],
@@ -1074,7 +1251,7 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "114719810f4b",
@@ -1087,29 +1264,6 @@
       "image": "https://cdn.snkrdunk.com/uploads/media/f6fbd3a3-a36f-47a9-93ea-8c16b48ac4f3.jpeg",
       "categories": [
         "lottery"
-      ],
-      "series": [
-        "tcg"
-      ],
-      "stores": [],
-      "products": [
-        "30th CELEBRATION"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "isNew": true
-    },
-    {
-      "id": "a54d539d0370",
-      "title": "【ポケカ】ルギア(30th再録)の買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)",
-      "url": "https://snkrdunk.com/articles/33331/",
-      "host": "snkrdunk.com",
-      "source": "SNKRDUNK",
-      "summary": "",
-      "publishedAt": "2026-10-22T08:57:59.000Z",
-      "image": "https://cdn.snkrdunk.com/uploads/media/ae0dc9c1-0da8-46bf-90cb-413081856201.png",
-      "categories": [
-        "market"
       ],
       "series": [
         "tcg"
@@ -1144,6 +1298,28 @@
       "isNew": false
     },
     {
+      "id": "73f87360f5d1",
+      "title": "「ナカノ スタイリング タント」が「ポケモンカードゲーム」と初コラボ！特別なプロモカードが付くオリジナルデザインボトルを8月1日より発売",
+      "url": "https://www.walkerplus.com/article/1147143/",
+      "host": "walkerplus.com",
+      "source": "ウォーカープラス",
+      "summary": "",
+      "publishedAt": "2026-10-22T07:17:10.000Z",
+      "image": "https://news.walkerplus.com/article/1147143/11970583_615.jpg",
+      "categories": [
+        "release",
+        "promo"
+      ],
+      "series": [
+        "tcg"
+      ],
+      "stores": [],
+      "products": [],
+      "isOfficial": false,
+      "isPR": false,
+      "isNew": true
+    },
+    {
       "id": "780ca96f34b4",
       "title": "【ポケカ】ポケモンカード151の再販はいつ？再販入荷情報まとめ【10/10更新】",
       "url": "https://snkrdunk.com/articles/18862/",
@@ -1168,13 +1344,13 @@
     },
     {
       "id": "e2b051a1829d",
-      "title": "「トクリュウ」と見られる窃盗団がポケモンカードなど約2200万円相当を盗んだ疑い 男2人逮捕 香川県警",
-      "url": "https://news.ksb.co.jp/article/16985673",
-      "host": "news.ksb.co.jp",
-      "source": "KSBニュース",
+      "title": "「トクリュウ」と見られる窃盗団がポケモンカードなど約2200万円相当を盗んだ疑い 男2人逮捕 香川県警（KSB瀬戸内海放送）",
+      "url": "https://news.yahoo.co.jp/articles/3895fe5fd65f78157759f25e04716fd9a2c14c9d",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
       "summary": "",
-      "publishedAt": "2026-10-22T07:00:00.000Z",
-      "image": "https://p.potaufeu.asahi.com/2bad-p/picture/29304591/a064a0259070a887403d1d831e0b9947.jpg",
+      "publishedAt": "2026-10-22T07:00:59.000Z",
+      "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261022-11800251-ksbv-000-42814919-view.jpg?exp=10800",
       "categories": [
         "caution"
       ],
@@ -1209,54 +1385,6 @@
       "isNew": false
     },
     {
-      "id": "c3572f07ab43",
-      "title": "【ポケカ30周年】30th CELEBRATION(30th セレブレーション)の当たりランキング/買取相場/封入率/予約抽選/値段まとめ【10/22更新】",
-      "url": "https://snkrdunk.com/articles/30971/",
-      "host": "snkrdunk.com",
-      "source": "SNKRDUNK",
-      "summary": "",
-      "publishedAt": "2026-10-22T04:38:57.000Z",
-      "image": "https://cdn.snkrdunk.com/uploads/media/2b5245f0-2774-4480-bb7d-cd8b457f7349.jpeg",
-      "categories": [
-        "market",
-        "lottery"
-      ],
-      "series": [
-        "tcg"
-      ],
-      "stores": [],
-      "products": [
-        "30th CELEBRATION"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "isNew": false
-    },
-    {
-      "id": "7ce29a27e667",
-      "title": "【ポケカ】MEGAドリームexの当たりランキング/買取相場/封入率/レア別相場/値段まとめ",
-      "url": "https://snkrdunk.com/articles/29152/",
-      "host": "snkrdunk.com",
-      "source": "SNKRDUNK",
-      "summary": "",
-      "publishedAt": "2026-10-22T04:13:30.000Z",
-      "image": "https://cdn.snkrdunk.com/uploads/media/20251127061052-0.jpeg",
-      "categories": [
-        "market",
-        "reveal"
-      ],
-      "series": [
-        "tcg"
-      ],
-      "stores": [],
-      "products": [
-        "MEGAドリームex"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "isNew": false
-    },
-    {
       "id": "49a792db72a4",
       "title": "【ポケポケ】ロケット団の野望の所持率チェッカー【ポケモンカードアプリ】",
       "url": "https://gamewith.jp/pokemon-tcg-pocket/574029",
@@ -1273,30 +1401,6 @@
       ],
       "stores": [],
       "products": [],
-      "isOfficial": false,
-      "isPR": false,
-      "isNew": false
-    },
-    {
-      "id": "ccabeed8fafd",
-      "title": "【ポケカ】ポケモンカード151の当たりランキング/買取相場/封入率/予約抽選/値段まとめ | スニーカーダンク",
-      "url": "https://snkrdunk.com/articles/16466/",
-      "host": "snkrdunk.com",
-      "source": "SNKRDUNK",
-      "summary": "",
-      "publishedAt": "2026-10-22T03:46:56.000Z",
-      "image": "https://cdn.snkrdunk.com/uploads/media/6ea1ef47-3013-4b51-9383-82543e43db12.jpeg",
-      "categories": [
-        "market",
-        "lottery"
-      ],
-      "series": [
-        "tcg"
-      ],
-      "stores": [],
-      "products": [
-        "ポケモンカード151"
-      ],
       "isOfficial": false,
       "isPR": false,
       "isNew": false
@@ -1345,28 +1449,48 @@
       "isNew": false
     },
     {
-      "id": "b66f414d563a",
-      "title": "【ポケカ】エーフィex SAR仕様の買取・相場価格と値段推移｜30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
-      "url": "https://snkrdunk.com/articles/32484/",
-      "host": "snkrdunk.com",
-      "source": "SNKRDUNK",
+      "id": "18389d8c20a2",
+      "title": "【ポケポケ】ミュウex(デュアルフュージョン)の効果と事前評価【ポケモンカードアプリ】",
+      "url": "https://gamewith.jp/pokemon-tcg-pocket/583353",
+      "host": "gamewith.jp",
+      "source": "GameWith",
       "summary": "",
-      "publishedAt": "2026-10-22T00:45:30.000Z",
-      "image": "https://cdn.snkrdunk.com/uploads/media/36f42531-f6c6-4477-b822-b15cccc7a576.jpeg",
+      "publishedAt": "2026-10-22T01:13:12.000Z",
+      "image": "",
       "categories": [
-        "market",
-        "release"
+        "other"
       ],
       "series": [
-        "tcg"
+        "pocket"
       ],
       "stores": [],
       "products": [
-        "30th CELEBRATION"
+        "デュアルフュージョン"
       ],
       "isOfficial": false,
       "isPR": false,
-      "isNew": false
+      "isNew": true
+    },
+    {
+      "id": "41c006bbf12f",
+      "title": "【ポケポケ】メガミュウツーYex(プロモ)の効果と事前評価【ポケモンカードアプリ】",
+      "url": "https://gamewith.jp/pokemon-tcg-pocket/583357",
+      "host": "gamewith.jp",
+      "source": "GameWith",
+      "summary": "",
+      "publishedAt": "2026-10-22T01:13:10.000Z",
+      "image": "",
+      "categories": [
+        "promo"
+      ],
+      "series": [
+        "pocket"
+      ],
+      "stores": [],
+      "products": [],
+      "isOfficial": false,
+      "isPR": false,
+      "isNew": true
     },
     {
       "id": "0528f7b9bb26",
@@ -1387,72 +1511,6 @@
       "stores": [],
       "products": [
         "メガシンフォニア"
-      ],
-      "isOfficial": false,
-      "isPR": false,
-      "isNew": false
-    },
-    {
-      "id": "221cc65953bf",
-      "title": "【ポケポケ】結界のフィールドの効果・計算方法【ポケモンカードアプリ】",
-      "url": "https://gamewith.jp/pokemon-tcg-pocket/567935",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-21T18:04:05.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/567935.png?date=1783913204",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "pocket"
-      ],
-      "stores": [],
-      "products": [],
-      "isOfficial": false,
-      "isPR": false,
-      "isNew": false
-    },
-    {
-      "id": "397da41a59f2",
-      "title": "【ポケポケ】デュアルタイプとは？【ポケモンカードアプリ】",
-      "url": "https://gamewith.jp/pokemon-tcg-pocket/574423",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-21T17:18:26.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574423.png?date=1788139354",
-      "categories": [
-        "other"
-      ],
-      "series": [
-        "pocket"
-      ],
-      "stores": [],
-      "products": [],
-      "isOfficial": false,
-      "isPR": false,
-      "isNew": false
-    },
-    {
-      "id": "cf57d26049d1",
-      "title": "【ポケポケ】新パック「デュアルフュージョン」の収録カード一覧【ポケモンカードアプリ】",
-      "url": "https://gamewith.jp/pokemon-tcg-pocket/583349",
-      "host": "gamewith.jp",
-      "source": "GameWith",
-      "summary": "",
-      "publishedAt": "2026-10-21T15:34:28.000Z",
-      "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583349.png?date=1792503111",
-      "categories": [
-        "release",
-        "reveal"
-      ],
-      "series": [
-        "pocket"
-      ],
-      "stores": [],
-      "products": [
-        "デュアルフュージョン"
       ],
       "isOfficial": false,
       "isPR": false,
@@ -1504,7 +1562,7 @@
       ],
       "isOfficial": false,
       "isPR": false,
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7d8885f6d5e9",
@@ -1593,6 +1651,28 @@
       "isOfficial": false,
       "isPR": false,
       "isNew": false
+    },
+    {
+      "id": "1bee3d92f217",
+      "title": "【ポケカ】「スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー」の予約・抽選情報まとめ【10/21更新】",
+      "url": "https://snkrdunk.com/articles/33534/",
+      "host": "snkrdunk.com",
+      "source": "SNKRDUNK",
+      "summary": "",
+      "publishedAt": "2026-10-21T07:00:00.000Z",
+      "image": "https://cdn.snkrdunk.com/uploads/media/54b41b6e-3681-437e-94cb-8ef5e97ac5a4.jpeg",
+      "categories": [
+        "lottery",
+        "deck"
+      ],
+      "series": [
+        "tcg"
+      ],
+      "stores": [],
+      "products": [],
+      "isOfficial": false,
+      "isPR": false,
+      "isNew": true
     },
     {
       "id": "a4daf4ddeca7",
@@ -1823,27 +1903,6 @@
       "isNew": false
     },
     {
-      "id": "ba898d20fde2",
-      "title": "デッキを表示 | ポケカ公式 デッキコード=kbFbFF-nf4xlU-kwkFFV",
-      "url": "https://www.pokemon-card.com/deck/confirm.html/deckID/kbFbFF-nf4xlU-kwkFFV",
-      "host": "pokemon-card.com",
-      "source": "ポケモンカードゲーム トレーナーズウェブサイト",
-      "summary": "",
-      "publishedAt": "2026-10-20T13:05:54.000Z",
-      "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/kbFbFF-nf4xlU-kwkFFV.png?v=1998061658402",
-      "categories": [
-        "deck"
-      ],
-      "series": [
-        "tcg"
-      ],
-      "stores": [],
-      "products": [],
-      "isOfficial": true,
-      "isPR": false,
-      "isNew": false
-    },
-    {
       "id": "0fffbcf9d293",
       "title": "「退職時に持ち出した本物の試作ポケカだ」偽りカードショップに販売委託、本当はコピー機で作った偽物…信じた男性に８０万円振り込ませた詐欺容疑で逮捕",
       "url": "https://www.yomiuri.co.jp/local/kansai/news/20261020-GYO1T00082/",
@@ -1894,27 +1953,6 @@
       "isNew": false
     },
     {
-      "id": "63858e709ec3",
-      "title": "【26/10】ポケモンカードジム ジムバトル",
-      "url": "https://players.pokemon-card.com/event/detail/1158500/1/22685/20261020/1960651",
-      "host": "players.pokemon-card.com",
-      "source": "ポケモンカードゲーム プレイヤーズクラブ",
-      "summary": "",
-      "publishedAt": "2026-10-20T08:01:57.000Z",
-      "image": "",
-      "categories": [
-        "event"
-      ],
-      "series": [
-        "tcg"
-      ],
-      "stores": [],
-      "products": [],
-      "isOfficial": true,
-      "isPR": false,
-      "isNew": false
-    },
-    {
       "id": "e621c2864b38",
       "title": "ワールドチャンピオンシップス選手選抜戦、ポケモンカードゲーム大会が江西区で開催される",
       "url": "https://www.gamemeca.com/ja/view.php?gid",
@@ -1934,6 +1972,27 @@
       "isOfficial": false,
       "isPR": false,
       "isNew": false
+    },
+    {
+      "id": "22218f279261",
+      "title": "【ポケカ】30周年記念ピカチュウをまるごとチェック！買取・相場価格/注目カードまとめ",
+      "url": "https://snkrdunk.com/articles/33255/",
+      "host": "snkrdunk.com",
+      "source": "SNKRDUNK",
+      "summary": "",
+      "publishedAt": "2026-10-20T07:00:00.000Z",
+      "image": "https://cdn.snkrdunk.com/uploads/media/a283fd47-f236-4427-b317-4486e4e559c7.png",
+      "categories": [
+        "market"
+      ],
+      "series": [
+        "tcg"
+      ],
+      "stores": [],
+      "products": [],
+      "isOfficial": false,
+      "isPR": false,
+      "isNew": true
     },
     {
       "id": "b74bf58648dc",
@@ -1979,27 +2038,6 @@
         "30th CELEBRATION"
       ],
       "isOfficial": false,
-      "isPR": false,
-      "isNew": false
-    },
-    {
-      "id": "83b07b71a705",
-      "title": "シティリーグ2027 シーズン1 オープンリーグ",
-      "url": "https://players.pokemon-card.com/event/detail/1115222/result",
-      "host": "players.pokemon-card.com",
-      "source": "プレイヤーズクラブ",
-      "summary": "",
-      "publishedAt": "2026-10-20T02:00:00.000Z",
-      "image": "",
-      "categories": [
-        "event"
-      ],
-      "series": [
-        "tcg"
-      ],
-      "stores": [],
-      "products": [],
-      "isOfficial": true,
       "isPR": false,
       "isNew": false
     },

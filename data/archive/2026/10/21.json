@@ -1,24 +1,5 @@
 [
  {
-  "id": "1bee3d92f217",
-  "title": "【ポケカ】「スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー」の予約・抽選情報まとめ【10/21更新】",
-  "url": "https://snkrdunk.com/articles/33534/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-21T14:16:14.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/54b41b6e-3681-437e-94cb-8ef5e97ac5a4.jpeg",
-  "categories": [
-   "lottery",
-   "deck"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "301f2796ae73",
   "title": "【ポケポケ】ラッキーチャレンジ(ヒトカゲ+ジジーロン)の攻略【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/583147",
@@ -508,6 +489,25 @@
   ],
   "series": [
    "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "1bee3d92f217",
+  "title": "【ポケカ】「スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー」の予約・抽選情報まとめ【10/21更新】",
+  "url": "https://snkrdunk.com/articles/33534/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-21T07:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/54b41b6e-3681-437e-94cb-8ef5e97ac5a4.jpeg",
+  "categories": [
+   "lottery",
+   "deck"
+  ],
+  "series": [
+   "tcg"
   ],
   "stores": [],
   "isOfficial": false,
