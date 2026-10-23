@@ -290,24 +290,6 @@
   "isPR": false
  },
  {
-  "id": "a54d539d0370",
-  "title": "【ポケカ】ルギア(30th再録)の買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)",
-  "url": "https://snkrdunk.com/articles/33331/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-22T08:57:59.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/ae0dc9c1-0da8-46bf-90cb-413081856201.png",
-  "categories": [
-   "market"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "8890f6584d01",
   "title": "【ポケカ】FUTURISTIC BOXの買取・相場価格と値段推移｜30th CELEBRATION",
   "url": "https://snkrdunk.com/articles/33089/",
@@ -399,6 +381,24 @@
   "isPR": false
  },
  {
+  "id": "a54d539d0370",
+  "title": "【ポケカ】ルギア(30th再録)の買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)",
+  "url": "https://snkrdunk.com/articles/33331/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-22T07:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/ae0dc9c1-0da8-46bf-90cb-413081856201.png",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "3fd25a757c03",
   "title": "【ポケカ】リザードン(30th再録)の買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)",
   "url": "https://snkrdunk.com/articles/33338/",
@@ -431,6 +431,26 @@
    "tcg"
   ],
   "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "78160a724339",
+  "title": "【買取情報】ポケモンカードゲーム 買取情報 カードラボ津田沼店 1022 / 津田沼店の店舗ブログ",
+  "url": "https://www.c-labo.jp/blog/581202/",
+  "source": "カードラボ",
+  "summary": "",
+  "publishedAt": "2026-10-22T07:00:00.000Z",
+  "image": "https://www.c-labo.jp/wordpress/wp-content/uploads/2026/10/4c85c234076325c638e2c305400f29d6.jpg",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [
+   "cardshop"
+  ],
   "isOfficial": false,
   "isPR": false
  },
