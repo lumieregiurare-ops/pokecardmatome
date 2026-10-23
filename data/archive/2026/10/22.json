@@ -441,7 +441,7 @@
   "source": "インサイド",
   "summary": "「ポケモンカードゲーム トレーナーズウェブサイト」のメンテナンス画面に仕込まれた“小ネタ”が話題に！",
   "publishedAt": "2026-10-22T06:05:32.000Z",
-  "image": "https://www.inside-games.jp/imgs/rss/1797077.jpg",
+  "image": "https://www.inside-games.jp/imgs/ogp_f/1797077.jpg",
   "categories": [
    "other"
   ],
@@ -668,6 +668,25 @@
   ],
   "series": [
    "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "33470e49d4d6",
+  "title": "『ポケモンGO』の年齢レーティングが欧州で7歳以上から16歳以上に引き上げ。『ポケポケ』『ゼンゼロ』も対象に",
+  "url": "https://gamestalk.net/pokemon-go-pocket-zenless-zone-zero-pegi-16-rating/",
+  "source": "ゲーム情報！ゲームのはなし",
+  "summary": "",
+  "publishedAt": "2026-10-21T21:16:38.000Z",
+  "image": "https://gamestalk.net/wp-content/uploads/2026/10/Pokemon-Go_261022.webp",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "pocket",
+   "global"
   ],
   "stores": [],
   "isOfficial": false,
