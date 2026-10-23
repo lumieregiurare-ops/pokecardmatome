@@ -55,6 +55,25 @@
   "isPR": false
  },
  {
+  "id": "2dbe98d16b51",
+  "title": "ポケポケ新パック『デュアルフュージョン』新登場で収録カード9枚発表 スペシャルパック「はじまりのパートナー」発表",
+  "url": "https://www.sankei.com/article/20261020-72MF62ATJNLJPJEF3NK2UZOLZY/",
+  "source": "産経ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-20T14:01:08.000Z",
+  "image": "https://www.sankei.com/resizer/v2/IYJIRFAKTBLIFPEA2YFNG6LNPM.jpg?auth=d80638154f92626742810aa71ba3ca2d3a7fd9c37acf529a9e09c4e06d956bb6&quality=50&smart=true&width=1200&height=675",
+  "categories": [
+   "release",
+   "reveal"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "d42caaa915f0",
   "title": "『Pokemon TCG Pocket』新拡張パック「デュアルフュージョン」10月29日登場。対戦履歴の確認やルール設定に対応",
   "url": "https://corriente.jp/pokemon-tcg-pocket-dual-fusion-261029/",
@@ -102,25 +121,6 @@
   "image": "https://www.inside-games.jp/imgs/ogp_f/1796437.jpg",
   "categories": [
    "release"
-  ],
-  "series": [
-   "pocket"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "2dbe98d16b51",
-  "title": "ポケポケ新パック『デュアルフュージョン』新登場で収録カード9枚発表 スペシャルパック「はじまりのパートナー」発表（オリコン）",
-  "url": "https://news.yahoo.co.jp/articles/36baaa9490ec803e1df7794f15c00d194e91d368",
-  "source": "Yahoo!ニュース",
-  "summary": "",
-  "publishedAt": "2026-10-20T13:17:21.000Z",
-  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261020-00000553-oric-000-6-view.jpg?exp=10800",
-  "categories": [
-   "release",
-   "reveal"
   ],
   "series": [
    "pocket"

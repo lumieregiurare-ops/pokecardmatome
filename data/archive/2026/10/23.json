@@ -1,5 +1,41 @@
 [
  {
+  "id": "9666be1b625a",
+  "title": "JAXAやポケカともコラボ、YOSHIROTTENの8年ぶり大規模個展 TOKYO NODEで10月30日から開催",
+  "url": "https://www.advertimes.com/20261023/article561321/",
+  "source": "AdverTimes.（アドタイ） by 宣伝会議",
+  "summary": "",
+  "publishedAt": "2026-10-23T00:40:57.000Z",
+  "image": "https://cdn.advertimes.com/wp-content/uploads/2026/10/yoshirotten01.jpg",
+  "categories": [
+   "goods"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "4d6f870ac15f",
+  "title": "「ポケカ」６３枚、時価２２２０万円相当を窃取の疑いで男２人逮捕…トクリュウが関与か",
+  "url": "https://www.yomiuri.co.jp/national/20261022-GYT1T00339/",
+  "source": "読売新聞",
+  "summary": "",
+  "publishedAt": "2026-10-22T22:46:00.000Z",
+  "image": "https://www.yomiuri.co.jp/media/2026/10/20261022-GYT1I00340-1.jpg?type=ogp",
+  "categories": [
+   "caution"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "38c388e87ce4",
   "title": "２２２０万円相当のポケモンカード６３枚を店舗から盗んだ疑い、男２人を逮捕…２人に面識なくトクリュウ関与か",
   "url": "https://www.yomiuri.co.jp/local/kansai/news/20261022-GYO1T00175/",
@@ -9,6 +45,24 @@
   "image": "https://www.yomiuri.co.jp/media/2026/10/20261022-GYO1I00176-1.jpg?type=ogp",
   "categories": [
    "caution"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "3fd25a757c03",
+  "title": "【ポケカ】リザードン(30th再録)の買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)",
+  "url": "https://snkrdunk.com/articles/33338/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-22T20:59:04.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/9d415bff-8f48-458b-8756-d9ddc47412d7.png",
+  "categories": [
+   "market"
   ],
   "series": [
    "tcg"
