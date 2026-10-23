@@ -111,6 +111,24 @@
   "isPR": false
  },
  {
+  "id": "04912c2dcbb0",
+  "title": "デッキを表示 | ポケカ公式 デッキコード=dFVbkw-B2JzZL-bkvFVV",
+  "url": "https://www.pokemon-card.com/deck/confirm.html/deckID/dFVbkw-B2JzZL-bkvFVV",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-10-20T13:22:40.000Z",
+  "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/dFVbkw-B2JzZL-bkvFVV.png?v=1998061658402",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "2dbe98d16b51",
   "title": "ポケポケ新パック『デュアルフュージョン』新登場で収録カード9枚発表 スペシャルパック「はじまりのパートナー」発表（オリコン）",
   "url": "https://news.yahoo.co.jp/articles/36baaa9490ec803e1df7794f15c00d194e91d368",

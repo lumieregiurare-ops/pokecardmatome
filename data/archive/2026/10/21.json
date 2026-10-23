@@ -55,24 +55,6 @@
   "isPR": false
  },
  {
-  "id": "8890f6584d01",
-  "title": "【ポケカ】FUTURISTIC BOXの買取・相場価格と値段推移｜30th CELEBRATION",
-  "url": "https://snkrdunk.com/articles/33089/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-21T13:07:10.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/8cad1500-46eb-4bd4-bb79-000e72a2ec46.jpeg",
-  "categories": [
-   "market"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "7dc33f7d9b87",
   "title": "【ポケモンカードゲーム】『30thセレブレーション』再販抽選販売のお知らせ / 小倉店の店舗ブログ",
   "url": "https://www.c-labo.jp/shop/kokura/blog/620949/",
@@ -489,6 +471,24 @@
   ],
   "series": [
    "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "8890f6584d01",
+  "title": "【ポケカ】FUTURISTIC BOXの買取・相場価格と値段推移｜30th CELEBRATION",
+  "url": "https://snkrdunk.com/articles/33089/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-21T07:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/8cad1500-46eb-4bd4-bb79-000e72a2ec46.jpeg",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
   ],
   "stores": [],
   "isOfficial": false,
