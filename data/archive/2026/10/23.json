@@ -57,6 +57,24 @@
   "isPR": false
  },
  {
+  "id": "b7c158e5da49",
+  "title": "【ポケポケ】相手ベンチ数依存のワザを持つカード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/574154",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-23T12:23:27.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574154.png?date=1787821902",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "cd0e03a05efb",
   "title": "【ポケポケ】アゲハント&ドクケイルデッキのレシピと評価【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/551793",
@@ -183,6 +201,25 @@
   "isPR": false
  },
  {
+  "id": "c30a9a06a364",
+  "title": "わずか1分で…“高額ポケカ窃盗” トクリュウか 約2200万円分",
+  "url": "https://article.auone.jp/67928120-53e2-4389-ae86-1b1c5c554558",
+  "source": "au Webポータル",
+  "summary": "",
+  "publishedAt": "2026-10-23T11:12:21.000Z",
+  "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/23/https___news_jp_i_1486321841077207882_w1280.webp",
+  "categories": [
+   "market",
+   "caution"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "21beed7ca646",
   "title": "【ポケポケ】ロケット団の野望の当たりカードと収録カード一覧【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/573136",
@@ -196,25 +233,6 @@
   ],
   "series": [
    "pocket"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "c30a9a06a364",
-  "title": "わずか1分で…“高額ポケカ窃盗” トクリュウか 約2200万円分（日テレNEWS NNN）",
-  "url": "https://news.yahoo.co.jp/articles/0e6442dfc6e4603c465637df9e5fccc9c67f3a76",
-  "source": "Yahoo!ニュース",
-  "summary": "",
-  "publishedAt": "2026-10-23T11:10:00.000Z",
-  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-01466495-nnn-000-3-thumb.jpg?exp=10800",
-  "categories": [
-   "market",
-   "caution"
-  ],
-  "series": [
-   "tcg"
   ],
   "stores": [],
   "isOfficial": false,
@@ -551,12 +569,12 @@
  },
  {
   "id": "c2b4daf737e2",
-  "title": "犯行1分…事前に下見か ポケモンカード約2000万円相当の窃盗団 値札ない超高額カードはスルー 高松市",
-  "url": "https://news.ksb.co.jp/article/16988384",
-  "source": "KSBニュース",
+  "title": "犯行1分…事前に下見か ポケモンカード約2000万円相当の窃盗団 値札ない超高額カードはスルー 高松市（KSB瀬戸内海放送）",
+  "url": "https://news.yahoo.co.jp/articles/747b58b75c6cf7ac4e4c2d944557d9b9e79a7313",
+  "source": "Yahoo!ニュース",
   "summary": "",
-  "publishedAt": "2026-10-23T08:43:00.000Z",
-  "image": "https://p.potaufeu.asahi.com/004a-p/picture/31478986/04d2cceaee7e8b38cf76df51ec1df210.jpg",
+  "publishedAt": "2026-10-23T08:44:06.000Z",
+  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-11800734-ksbv-000-42826316-thumb.jpg?exp=10800",
   "categories": [
    "market",
    "caution"
@@ -730,6 +748,24 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "fa31e42ce5da",
+  "title": "「チャンピオンズリーグ2027 千葉」同伴保護者の事前登録についてニュース詳細 | ポケカ公式",
+  "url": "https://www.pokemon-card.com/info/005728.html",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-10-23T05:32:23.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
@@ -954,12 +990,12 @@
  },
  {
   "id": "4d6f870ac15f",
-  "title": "「ポケカ」６３枚、時価２２２０万円相当を窃取の疑いで男２人逮捕…トクリュウが関与か",
-  "url": "https://www.yomiuri.co.jp/national/20261022-GYT1T00339/",
-  "source": "読売新聞",
+  "title": "「ポケカ」６３枚、時価２２２０万円相当を窃取の疑いで男２人逮捕…トクリュウが関与か (読売新聞オンライン)",
+  "url": "https://news.yahoo.co.jp/articles/f559f357feb8302b2dc963422ee5aed94bcda501/images/000",
+  "source": "Yahoo!ニュース",
   "summary": "",
-  "publishedAt": "2026-10-22T22:46:00.000Z",
-  "image": "https://www.yomiuri.co.jp/media/2026/10/20261022-GYT1I00340-1.jpg?type=ogp",
+  "publishedAt": "2026-10-22T22:47:24.000Z",
+  "image": "https://s.yimg.jp/images/news-web/versions/20261023-f85a587/all/images/ogp_default.png",
   "categories": [
    "caution"
   ],
