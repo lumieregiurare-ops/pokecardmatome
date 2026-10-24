@@ -19,6 +19,24 @@
   "isPR": false
  },
  {
+  "id": "31b3b5b6b4f8",
+  "title": "デッキを表示 | ポケカ公式 デッキコード=nPgHLg-rKGUNb-9nNLnn",
+  "url": "https://www.pokemon-card.com/deck/confirm.html/deckID/nPgHLg-rKGUNb-9nNLnn/",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-10-23T13:58:00.000Z",
+  "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/nPgHLg-rKGUNb-9nNLnn.png?v=1998061658402",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "0a27e2724709",
   "title": "【ポケカ】ブラックボルトの収録カードリスト一覧/最新情報【2025年6月6日発売】",
   "url": "https://snkrdunk.com/articles/28050/",
@@ -263,7 +281,7 @@
   "source": "Yahoo!ニュース",
   "summary": "",
   "publishedAt": "2026-10-23T11:10:00.000Z",
-  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-01466495-nnn-000-3-thumb.jpg?exp=10800",
+  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-01466495-nnn-000-4-thumb.jpg?exp=10800",
   "categories": [
    "market",
    "caution"
