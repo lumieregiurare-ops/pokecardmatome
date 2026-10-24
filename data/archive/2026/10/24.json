@@ -93,6 +93,25 @@
   "isPR": false
  },
  {
+  "id": "fbb15bf5c451",
+  "title": "【ポケポケ】シャイニングメガの当たりカードと収録カード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/549856",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-24T11:06:08.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/549856.png?date=1773926468",
+  "categories": [
+   "reveal",
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "3f4e3bd3edff",
   "title": "【ポケポケ】天空の支配者の当たりカードと収録カード一覧【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/564725",
@@ -346,25 +365,6 @@
   ],
   "series": [
    "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "fbb15bf5c451",
-  "title": "【ポケポケ】シャイニングメガの当たりカードと収録カード一覧【ポケモンカードアプリ】",
-  "url": "https://gamewith.jp/pokemon-tcg-pocket/549856",
-  "source": "GameWith",
-  "summary": "",
-  "publishedAt": "2026-10-23T20:37:17.000Z",
-  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/549856.png?date=1773926468",
-  "categories": [
-   "reveal",
-   "deck"
-  ],
-  "series": [
-   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
