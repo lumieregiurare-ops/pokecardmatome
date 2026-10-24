@@ -19,6 +19,43 @@
   "isPR": false
  },
  {
+  "id": "0a27e2724709",
+  "title": "【ポケカ】ブラックボルトの収録カードリスト一覧/最新情報【2025年6月6日発売】",
+  "url": "https://snkrdunk.com/articles/28050/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-23T13:48:36.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/20250503102443-0.jpeg",
+  "categories": [
+   "reveal",
+   "release"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "397da41a59f2",
+  "title": "【ポケポケ】デュアルタイプとは？【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/574423",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-23T13:45:08.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574423.png?date=1788139354",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "c3572f07ab43",
   "title": "【ポケカ30周年】30th CELEBRATION(30th セレブレーション)の当たりランキング/買取相場/封入率/予約抽選/値段まとめ【10/22更新】",
   "url": "https://snkrdunk.com/articles/30971/",
@@ -201,25 +238,6 @@
   "isPR": false
  },
  {
-  "id": "c30a9a06a364",
-  "title": "わずか1分で…“高額ポケカ窃盗” トクリュウか 約2200万円分",
-  "url": "https://article.auone.jp/67928120-53e2-4389-ae86-1b1c5c554558",
-  "source": "au Webポータル",
-  "summary": "",
-  "publishedAt": "2026-10-23T11:12:21.000Z",
-  "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/23/https___news_jp_i_1486321841077207882_w1280.webp",
-  "categories": [
-   "market",
-   "caution"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "21beed7ca646",
   "title": "【ポケポケ】ロケット団の野望の当たりカードと収録カード一覧【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/573136",
@@ -233,6 +251,25 @@
   ],
   "series": [
    "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "c30a9a06a364",
+  "title": "わずか1分で…“高額ポケカ窃盗” トクリュウか 約2200万円分（日テレNEWS NNN）",
+  "url": "https://news.yahoo.co.jp/articles/0e6442dfc6e4603c465637df9e5fccc9c67f3a76",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-23T11:10:00.000Z",
+  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261023-01466495-nnn-000-3-thumb.jpg?exp=10800",
+  "categories": [
+   "market",
+   "caution"
+  ],
+  "series": [
+   "tcg"
   ],
   "stores": [],
   "isOfficial": false,
@@ -295,6 +332,26 @@
   "isPR": false
  },
  {
+  "id": "347e27f232e4",
+  "title": "ビックカメラのポケカ抽選方法｜店頭とネットの応募条件と結果の見方",
+  "url": "https://charagoo.jp/biccamera-pokemoncards-lottery/",
+  "source": "キャラグー",
+  "summary": "",
+  "publishedAt": "2026-10-23T10:45:47.000Z",
+  "image": "",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [
+   "biccamera"
+  ],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "c278f8d16758",
   "title": "「Farming Simulator 25」，コンテンツ拡張パック「Beans & Alpacas」の家屋とオブジェクトの情報を公開",
   "url": "https://www.4gamer.net/games/813/G081325/20261023044/",
@@ -309,6 +366,26 @@
    "tcg"
   ],
   "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "39cc10af5d02",
+  "title": "TSUTAYAのポケカ抽選のやり方｜渋谷の予約販売の応募と受け取り",
+  "url": "https://charagoo.jp/tsutaya-pokemoncard-lottery/",
+  "source": "キャラグー",
+  "summary": "",
+  "publishedAt": "2026-10-23T10:01:35.000Z",
+  "image": "",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [
+   "tsutaya"
+  ],
   "isOfficial": false,
   "isPR": false
  },
@@ -351,21 +428,23 @@
   "isPR": false
  },
  {
-  "id": "63858e709ec3",
-  "title": "【26/10】ポケモンカードジム ジムバトル",
-  "url": "https://players.pokemon-card.com/event/detail/1160521/1/20017/20261023/1958408",
-  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "id": "9820396494a5",
+  "title": "イオンのポケカ抽選方法｜地域別の応募窓口と当選結果の確かめ方",
+  "url": "https://charagoo.jp/aeon-pokeca-lottery/",
+  "source": "キャラグー",
   "summary": "",
-  "publishedAt": "2026-10-23T09:15:06.000Z",
+  "publishedAt": "2026-10-23T09:41:04.000Z",
   "image": "",
   "categories": [
-   "event"
+   "lottery"
   ],
   "series": [
    "tcg"
   ],
-  "stores": [],
-  "isOfficial": true,
+  "stores": [
+   "aeon"
+  ],
+  "isOfficial": false,
   "isPR": false
  },
  {
@@ -606,6 +685,24 @@
   "isPR": false
  },
  {
+  "id": "6fdab70b8807",
+  "title": "ポケカボックス買取価格表｜未開封BOXの相場と損せず売れる店",
+  "url": "https://charagoo.jp/pokemoncard-box-buyback/",
+  "source": "キャラグー",
+  "summary": "",
+  "publishedAt": "2026-10-23T08:16:24.000Z",
+  "image": "",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "3f6f201e40f8",
   "title": "ポケカ拡張パック“ハドウシーカー”が11/27（金）発売。ガルカリオZexなどZの名がつくのメガシンカポケモンのカードが登場",
   "url": "https://dengekionline.com/article/202610/91897",
@@ -660,6 +757,24 @@
   "isPR": false
  },
  {
+  "id": "63858e709ec3",
+  "title": "【26/10】ポケモンカードジム ジムバトル",
+  "url": "https://players.pokemon-card.com/event/detail/1162258/1/20017/20261025/1958445",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-23T06:28:45.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "92c34ec12b0f",
   "title": "「ポケモンカードゲーム MEGA」拡張パック「ハドウシーカー」が11月27日に発売！メガルカリオZex、メガアブソルZex、メガガブリアスZexなどを収録",
   "url": "https://www.gamer.ne.jp/news/202610230027/image/6/",
@@ -684,7 +799,7 @@
   "source": "インサイド",
   "summary": "「メガルカリオZex」「メガガブリアスZex」「メガアブソルZex」など、Zと名のつくメガシンカポケモンたちが登場！",
   "publishedAt": "2026-10-23T06:15:03.000Z",
-  "image": "https://www.inside-games.jp/imgs/rss/1797870.jpg",
+  "image": "https://www.inside-games.jp/imgs/ogp_f/1797870.webp",
   "categories": [
    "release"
   ],
@@ -858,6 +973,24 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "83b07b71a705",
+  "title": "シティリーグ2027 シーズン1 オープンリーグ",
+  "url": "https://players.pokemon-card.com/event/detail/1115390/result",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-23T03:30:00.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
@@ -1168,6 +1301,24 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "832a70c46c86",
+  "title": "デッキを表示 | ポケカ公式 デッキコード=88GcK8-6GoQb3-ccxxcD",
+  "url": "https://www.pokemon-card.com/deck/confirm.html/deckID/88GcK8-6GoQb3-ccxxcD/",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-10-22T15:34:57.000Z",
+  "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/88GcK8-6GoQb3-ccxxcD.png?v=1998061658402",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
