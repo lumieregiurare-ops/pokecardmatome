@@ -5,7 +5,7 @@
   "url": "https://snkrdunk.com/articles/33534/",
   "source": "SNKRDUNK",
   "summary": "",
-  "publishedAt": "2026-10-25T17:30:01.000Z",
+  "publishedAt": "2026-10-25T20:15:17.000Z",
   "image": "https://cdn.snkrdunk.com/uploads/media/54b41b6e-3681-437e-94cb-8ef5e97ac5a4.jpeg",
   "categories": [
    "lottery",
@@ -13,6 +13,62 @@
   ],
   "series": [
    "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "0f4f7ed1e461",
+  "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【10/25更新】 | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/33599/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-25T20:15:17.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/0d519b94-9561-4ffa-9b32-d01f0552beb9.jpeg",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "c3572f07ab43",
+  "title": "【ポケカ30周年】30th CELEBRATION(30th セレブレーション)の当たりランキング/買取相場/封入率/予約抽選/値段まとめ【10/25更新】",
+  "url": "https://snkrdunk.com/articles/30971/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-25T19:31:16.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/2b5245f0-2774-4480-bb7d-cd8b457f7349.jpeg",
+  "categories": [
+   "market",
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "fbb15bf5c451",
+  "title": "【ポケポケ】シャイニングメガの当たりカードと収録カード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/549856",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-25T18:00:20.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/549856.png?date=1773926468",
+  "categories": [
+   "reveal",
+   "deck"
+  ],
+  "series": [
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
@@ -67,24 +123,6 @@
   "categories": [
    "market",
    "reveal"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "0f4f7ed1e461",
-  "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【10/25更新】 | スニーカーダンク",
-  "url": "https://snkrdunk.com/articles/33599/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-25T16:05:49.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/0d519b94-9561-4ffa-9b32-d01f0552beb9.jpeg",
-  "categories": [
-   "lottery"
   ],
   "series": [
    "tcg"
