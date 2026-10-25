@@ -331,6 +331,24 @@
   "isPR": false
  },
  {
+  "id": "95676cbdfdb3",
+  "title": "デッキ表示デッキを保存 | ポケカ公式",
+  "url": "https://www.pokemon-card.com/deck/result.html/deckID/MyMMMy-wP5RmI-RMypM2/",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-10-23T11:06:33.000Z",
+  "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/MyMMMy-wP5RmI-RMypM2.png?v=1998061658402",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "23a4d6cd73e6",
   "title": "屋根裏のポケモンカードが総額3億円超に──子どもの趣味をきっかけに収集、専門家も驚くコレクション",
   "url": "https://artnewsjapan.com/article/90719",
@@ -830,24 +848,6 @@
   "isPR": false
  },
  {
-  "id": "92c34ec12b0f",
-  "title": "「ポケモンカードゲーム MEGA」拡張パック「ハドウシーカー」が11月27日に発売！メガルカリオZex、メガアブソルZex、メガガブリアスZexなどを収録",
-  "url": "https://www.gamer.ne.jp/news/202610230027/image/6/",
-  "source": "Gamer",
-  "summary": "",
-  "publishedAt": "2026-10-23T06:23:20.000Z",
-  "image": "",
-  "categories": [
-   "release"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "f1b24369383e",
   "title": "『ポケカ』新拡張パック「ハドウシーカー」11月27日発売決定！「メガルカリオZex」「コルニの本気」など、Zと名のつくメガシンカに注目",
   "url": "https://www.inside-games.jp/article/2026/10/23/189696.html",
@@ -894,6 +894,24 @@
   "categories": [
    "release",
    "reveal"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "92c34ec12b0f",
+  "title": "「ポケモンカードゲーム MEGA」拡張パック「ハドウシーカー」が11月27日に発売！メガルカリオZex、メガアブソルZex、メガガブリアスZexなどを収録",
+  "url": "https://www.gamer.ne.jp/news/202610230027/",
+  "source": "Gamer",
+  "summary": "",
+  "publishedAt": "2026-10-23T05:50:00.000Z",
+  "image": "",
+  "categories": [
+   "release"
   ],
   "series": [
    "tcg"
