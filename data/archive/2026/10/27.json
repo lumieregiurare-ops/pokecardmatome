@@ -1,5 +1,80 @@
 [
  {
+  "id": "ecf584925f32",
+  "title": "偽ポケカで詐欺か 37歳の男を3度目の逮捕 注意喚起でカード画像も公開 島根県（日本海テレビ）",
+  "url": "https://news.yahoo.co.jp/articles/e44894a846b416f287d0f0f084995f95d2fe73d2",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-26T21:42:18.000Z",
+  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261027-04429845-nkt-000-1-view.jpg?exp=10800",
+  "categories": [
+   "caution"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "3a29c3fefe74",
+  "title": "【ポケポケ】進撃パラドックスの当たりカードと収録カード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/561436",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-26T18:12:01.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/561436.png?date=1779369911",
+  "categories": [
+   "reveal",
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "3f4e3bd3edff",
+  "title": "【ポケポケ】天空の支配者の当たりカードと収録カード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/564725",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-26T17:48:05.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/564725.png?date=1784813440",
+  "categories": [
+   "reveal",
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "b37a8b4b04ca",
+  "title": "【ポケポケ】ミラクルデイズの当たりカードと収録カード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/565225",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-26T17:12:27.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/565225.png?date=1782307542",
+  "categories": [
+   "reveal",
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "603fa1dde1b0",
   "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【10/26更新】 | スニーカーダンク",
   "url": "https://snkrdunk.com/articles/33599/",
@@ -9,6 +84,24 @@
   "image": "https://cdn.snkrdunk.com/uploads/media/0d519b94-9561-4ffa-9b32-d01f0552beb9.jpeg",
   "categories": [
    "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "dffa414ee5a2",
+  "title": "【ポケカ】2026年の新弾発売スケジュールまとめ | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/15950/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-26T15:17:45.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/20251222061410-0.jpeg",
+  "categories": [
+   "release"
   ],
   "series": [
    "tcg"

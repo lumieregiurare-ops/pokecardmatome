@@ -1,5 +1,23 @@
 [
  {
+  "id": "301f2796ae73",
+  "title": "【ポケポケ】ラッキーチャレンジ(ヒトカゲ+ジジーロン)の攻略【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/583147",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-26T14:46:27.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583147.jpg?date=1792310792",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "44f4f43622f8",
   "title": "【ポケポケ】ハイクラスパックMEGA(メガ)の収録カードと当たりカード一覧【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/578648",
@@ -83,6 +101,24 @@
   "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/Qnnnng-AmfWN8-9g9LQg.png?v=1998061658402",
   "categories": [
    "deck"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "0597b2db50b5",
+  "title": "ポケモンカードゲーム プレイヤーズクラブ",
+  "url": "https://players.pokemon-card.com/event/detail/1115091/result",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-26T12:17:17.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "series": [
    "tcg"
@@ -219,6 +255,24 @@
   "isPR": false
  },
  {
+  "id": "9c5bf50fa91e",
+  "title": "【ポケポケ】メガヘルガーexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/572654",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-26T09:30:04.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/572654.png?date=1786676147",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "d3ef0e0c9f7c",
   "title": "【ポケポケ】メガリザードンXexデッキのレシピと評価【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/551306",
@@ -244,6 +298,24 @@
   "summary": "",
   "publishedAt": "2026-10-26T09:28:06.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559121.png?date=1777356017",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "96697715ad8f",
+  "title": "【ポケポケ】フライゴンexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/559119",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-26T09:28:06.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559119.png?date=1777356000",
   "categories": [
    "deck"
   ],
