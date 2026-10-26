@@ -361,7 +361,7 @@
   "source": "Yahoo!ニュース",
   "summary": "",
   "publishedAt": "2026-10-25T09:05:16.000Z",
-  "image": "https://s.yimg.jp/images/news-web/versions/20261023-f85a587/all/images/ogp_default.png",
+  "image": "https://s.yimg.jp/images/news-web/versions/20261026-9326281/all/images/ogp_default.png",
   "categories": [
    "caution"
   ],
@@ -382,6 +382,25 @@
   "image": "https://txbiz.tv-tokyo.co.jp/images/thumbnail/txn/20261025_tn_ns105_6664663aa54ba826_9.jpg",
   "categories": [
    "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "4e215f5d4cbf",
+  "title": "ポケカ再販情報｜30周年の追加抽選はいつ？店舗別の応募先と探し方",
+  "url": "https://charagoo.jp/pokemoncard-restock/",
+  "source": "キャラグー",
+  "summary": "",
+  "publishedAt": "2026-10-25T07:18:01.000Z",
+  "image": "",
+  "categories": [
+   "lottery",
+   "restock"
   ],
   "series": [
    "tcg"
@@ -608,6 +627,24 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "0597b2db50b5",
+  "title": "ポケモンカードゲーム プレイヤーズクラブ",
+  "url": "https://players.pokemon-card.com/event/detail/1141579/1/21639/20261024/1959345",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-24T20:58:25.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
