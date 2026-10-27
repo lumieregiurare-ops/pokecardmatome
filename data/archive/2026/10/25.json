@@ -336,25 +336,6 @@
   "isPR": false
  },
  {
-  "id": "1bee3d92f217",
-  "title": "【ポケカ】「スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー」の予約・抽選情報まとめ【10/25更新】",
-  "url": "https://snkrdunk.com/articles/33534/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-25T09:45:25.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/54b41b6e-3681-437e-94cb-8ef5e97ac5a4.jpeg",
-  "categories": [
-   "lottery",
-   "deck"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "4d6f870ac15f",
   "title": "「ポケカ」６３枚、時価２２２０万円相当を窃取の疑いで男２人逮捕…トクリュウが関与か（読売新聞オンライン）",
   "url": "https://news.yahoo.co.jp/articles/f559f357feb8302b2dc963422ee5aed94bcda501",
@@ -401,6 +382,25 @@
   "categories": [
    "lottery",
    "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "1bee3d92f217",
+  "title": "【ポケカ】「スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー」の予約・抽選情報まとめ【10/25更新】",
+  "url": "https://snkrdunk.com/articles/33534/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-25T07:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/54b41b6e-3681-437e-94cb-8ef5e97ac5a4.jpeg",
+  "categories": [
+   "lottery",
+   "deck"
   ],
   "series": [
    "tcg"
@@ -593,6 +593,25 @@
   "isPR": false
  },
  {
+  "id": "06146948cab3",
+  "title": "「ポケカ」30周年商品、買取・転売で“中身すり替え”不正続出…実店舗やネットで規制強化 シュリンクなしを悪用（オタク総研）",
+  "url": "https://news.yahoo.co.jp/articles/ff025723d55166a0be2a68168dfdaa119ef0c28b",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-24T22:23:00.000Z",
+  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261025-00072300-otakulab-000-4778-view.jpg?exp=10800",
+  "categories": [
+   "market",
+   "caution"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "c58315036353",
   "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【10/24更新】",
   "url": "https://snkrdunk.com/articles/33599/",
@@ -620,25 +639,6 @@
   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261025-00000020-chuspo-000-1-view.jpg?exp=10800",
   "categories": [
    "other"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "06146948cab3",
-  "title": "「ポケカ」30周年商品、買取・転売で“中身すり替え”不正続出…実店舗やネットで規制強化 シュリンクなしを悪用",
-  "url": "https://0115765.com/archives/211267",
-  "source": "オタク総研",
-  "summary": "",
-  "publishedAt": "2026-10-24T21:09:22.000Z",
-  "image": "https://0115765.com/wp-content/uploads/2026/10/20261024-tbygw5d7.jpg",
-  "categories": [
-   "market",
-   "caution"
   ],
   "series": [
    "tcg"
