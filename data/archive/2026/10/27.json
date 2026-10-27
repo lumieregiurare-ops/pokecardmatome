@@ -5,7 +5,7 @@
   "url": "https://snkrdunk.com/articles/33599/",
   "source": "SNKRDUNK",
   "summary": "",
-  "publishedAt": "2026-10-27T11:50:44.000Z",
+  "publishedAt": "2026-10-27T14:51:01.000Z",
   "image": "https://cdn.snkrdunk.com/uploads/media/0d519b94-9561-4ffa-9b32-d01f0552beb9.jpeg",
   "categories": [
    "lottery"
@@ -19,14 +19,219 @@
  },
  {
   "id": "dffa414ee5a2",
-  "title": "【ポケカ】2026年の新弾発売スケジュールまとめ",
+  "title": "【ポケカ】2026年の新弾発売スケジュールまとめ | スニーカーダンク",
   "url": "https://snkrdunk.com/articles/15950/",
   "source": "SNKRDUNK",
   "summary": "",
-  "publishedAt": "2026-10-27T09:23:23.000Z",
+  "publishedAt": "2026-10-27T14:27:29.000Z",
   "image": "https://cdn.snkrdunk.com/uploads/media/20251222061410-0.jpeg",
   "categories": [
    "release"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "ccabeed8fafd",
+  "title": "【ポケカ】ポケモンカード151の当たりランキング/買取相場/封入率/予約抽選/値段まとめ | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/16466/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-27T13:57:47.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/6ea1ef47-3013-4b51-9383-82543e43db12.jpeg",
+  "categories": [
+   "market",
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "b66f414d563a",
+  "title": "【ポケカ】エーフィex SAR仕様の買取・相場価格と値段推移｜30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
+  "url": "https://snkrdunk.com/articles/32484/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-27T13:38:39.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/36f42531-f6c6-4477-b822-b15cccc7a576.jpeg",
+  "categories": [
+   "market",
+   "release"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "44f4f43622f8",
+  "title": "【ポケポケ】ハイクラスパックMEGA(メガ)の収録カードと当たりカード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/578648",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-27T12:49:06.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/578648.png?date=1790261909",
+  "categories": [
+   "reveal",
+   "release"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "6244c8c0106f",
+  "title": "ポケモンカードゲーム教室（当日枠）",
+  "url": "https://players.pokemon-card.com/event/detail/1169873/1/12700/20261103/2005039",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-27T12:34:15.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "780ca96f34b4",
+  "title": "【ポケカ】ポケモンカード151の再販はいつ？再販入荷情報まとめ【10/10更新】",
+  "url": "https://snkrdunk.com/articles/18862/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-27T12:32:08.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/20231130021213-0.jpeg",
+  "categories": [
+   "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "21beed7ca646",
+  "title": "【ポケポケ】ロケット団の野望の当たりカードと収録カード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/573136",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-27T12:30:34.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/573136.png?date=1787237535",
+  "categories": [
+   "reveal",
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "c774ac346a44",
+  "title": "【ポケカ】ハドウシーカーの当たりランキング/買取相場/カードリスト/封入率/予約抽選/値段まとめ【2026年11月27日発売】",
+  "url": "https://snkrdunk.com/articles/31684/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-27T11:49:40.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/7f277c58-b2ec-4b03-908c-804cbb735fee.jpeg",
+  "categories": [
+   "reveal",
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "01eef2d84448",
+  "title": "【ポケカ】30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキーの収録カード・再販抽選情報まとめ",
+  "url": "https://snkrdunk.com/articles/32464/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-27T11:24:24.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/b3ec7894-3c17-4254-b87a-9ca52ed4616f.jpeg",
+  "categories": [
+   "lottery",
+   "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "c3572f07ab43",
+  "title": "【ポケカ30周年】30th CELEBRATION(30th セレブレーション)の当たりランキング/買取相場/封入率/予約抽選/値段まとめ【10/27更新】",
+  "url": "https://snkrdunk.com/articles/30971/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-27T10:52:12.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/2b5245f0-2774-4480-bb7d-cd8b457f7349.jpeg",
+  "categories": [
+   "market",
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "a5ae38af28ca",
+  "title": "【ポケカ】ストームエメラルダの予約・抽選情報まとめ【7/30更新】 | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/32581/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-27T10:27:59.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/2989b9e7-e8f4-4557-bee3-ff9f7db28e77.jpeg",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "b68d97bc26f9",
+  "title": "【ポケカ】SARが全部わかる！これまでに登場したSAR一覧まとめ【定期更新】",
+  "url": "https://snkrdunk.com/articles/32922/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-27T09:36:12.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/14a7d7d0-154e-43b4-89c8-29d46bb8641d.jpeg",
+  "categories": [
+   "reveal"
   ],
   "series": [
    "tcg"
@@ -75,18 +280,19 @@
   "isPR": false
  },
  {
-  "id": "d3b87d882a5e",
-  "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【10/26更新】",
-  "url": "https://snkrdunk.com/articles/33304/",
-  "source": "SNKRDUNK",
+  "id": "3f4e3bd3edff",
+  "title": "【ポケポケ】天空の支配者の当たりカードと収録カード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/564725",
+  "source": "GameWith",
   "summary": "",
-  "publishedAt": "2026-10-27T07:59:18.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/1be64b43-ba7d-41a8-adea-6b26f00f1866.png",
+  "publishedAt": "2026-10-27T07:59:20.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/564725.png?date=1784813440",
   "categories": [
-   "restock"
+   "reveal",
+   "deck"
   ],
   "series": [
-   "tcg"
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
@@ -129,6 +335,24 @@
   "isPR": false
  },
  {
+  "id": "dfb68e54f3ea",
+  "title": "【ポケポケ】カラマネロデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/560181",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-27T06:29:59.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560181.png?date=1778055956",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "62c9d5f138cb",
   "title": "【ポケポケ】メガガブリアスexデッキのレシピと評価【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/582954",
@@ -136,6 +360,24 @@
   "summary": "",
   "publishedAt": "2026-10-27T06:29:57.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/582954.png?date=1792066964",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "2f75ac0c2c28",
+  "title": "【ポケポケ】ハラバリーexデッキのレシピと評価・対策【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/546331",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-27T06:28:11.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/546331.png?date=1772081484",
   "categories": [
    "deck"
   ],
@@ -201,6 +443,42 @@
   "isPR": false
  },
  {
+  "id": "83b07b71a705",
+  "title": "シティリーグ2027 シーズン1 オープンリーグ",
+  "url": "https://players.pokemon-card.com/event/detail/1115391/result",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-27T03:00:00.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "d3b87d882a5e",
+  "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【10/26更新】",
+  "url": "https://snkrdunk.com/articles/33304/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-27T01:54:23.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/1be64b43-ba7d-41a8-adea-6b26f00f1866.png",
+  "categories": [
+   "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "66c5aff8d385",
   "title": "ポケカ新弾ハドウシーカー、11月27日発売 1パック200円、Amazonの招待リクエストとメガルカリオZexなど公開カードを整理",
   "url": "https://mediadogs.jp/2026/10/27/pokeca-hadou-seeker-release/",
@@ -218,6 +496,24 @@
   "stores": [
    "amazon"
   ],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "c06268b045b1",
+  "title": "【ポケポケ】セキタンザン(波動ビート)の入手方法と収録パック【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/558996",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-27T01:15:32.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/558996.png?date=1777370928",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
   "isOfficial": false,
   "isPR": false
  },
@@ -590,25 +886,6 @@
   "summary": "",
   "publishedAt": "2026-10-26T18:12:01.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/561436.png?date=1779369911",
-  "categories": [
-   "reveal",
-   "deck"
-  ],
-  "series": [
-   "pocket"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "3f4e3bd3edff",
-  "title": "【ポケポケ】天空の支配者の当たりカードと収録カード一覧【ポケモンカードアプリ】",
-  "url": "https://gamewith.jp/pokemon-tcg-pocket/564725",
-  "source": "GameWith",
-  "summary": "",
-  "publishedAt": "2026-10-26T17:48:05.000Z",
-  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/564725.png?date=1784813440",
   "categories": [
    "reveal",
    "deck"
