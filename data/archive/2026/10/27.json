@@ -298,24 +298,6 @@
   "isPR": false
  },
  {
-  "id": "b68d97bc26f9",
-  "title": "【ポケカ】SARが全部わかる！これまでに登場したSAR一覧まとめ【定期更新】",
-  "url": "https://snkrdunk.com/articles/32922/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-27T09:36:12.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/14a7d7d0-154e-43b4-89c8-29d46bb8641d.jpeg",
-  "categories": [
-   "reveal"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "fdcfe4b74b08",
   "title": "「ポケモンカードゲーム MEGA 30th CELEBRATION カードセット ナエトル・ヒコザル・ポッチャマ」など：Amazonおもちゃ新着ランキングBEST10",
   "url": "https://hobby.dengeki.com/news/3209175/",
@@ -364,6 +346,43 @@
   "image": "https://cdn.snkrdunk.com/uploads/media/8cad1500-46eb-4bd4-bb79-000e72a2ec46.jpeg",
   "categories": [
    "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "b68d97bc26f9",
+  "title": "【ポケカ】SARが全部わかる！これまでに登場したSAR一覧まとめ【定期更新】",
+  "url": "https://snkrdunk.com/articles/32922/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-27T07:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/14a7d7d0-154e-43b4-89c8-29d46bb8641d.jpeg",
+  "categories": [
+   "reveal"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "e31621f73e2d",
+  "title": "Pokémon TCG x Santa Cruz ポケモン30周年記念コラボアイテムが国内順次発売中 【抽選情報更新中】",
+  "url": "https://uptodate.tokyo/pokemon-x-santa-cruz-2026/",
+  "source": "UP TO DATE",
+  "summary": "",
+  "publishedAt": "2026-10-27T07:00:00.000Z",
+  "image": "https://uptodate.tokyo/wp-content/uploads/2026/10/IMG_7304_7BDCACCD-768x1024.jpeg",
+  "categories": [
+   "lottery",
+   "release"
   ],
   "series": [
    "tcg"
