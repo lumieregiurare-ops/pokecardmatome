@@ -294,6 +294,24 @@
   "isPR": false
  },
  {
+  "id": "0597b2db50b5",
+  "title": "ポケモンカードゲーム プレイヤーズクラブ",
+  "url": "https://players.pokemon-card.com/event/detail/1166460/1/12741/20261030/1965614",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-28T08:21:52.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "95f68dcbccb8",
   "title": "【ポケモンカードゲーム】30th再販売のお知らせ【10月28日】 / 天王寺店の店舗ブログ",
   "url": "https://www.c-labo.jp/shop/tennouji/blog/623043/",
@@ -477,6 +495,24 @@
   ],
   "series": [
    "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "50a0777432c9",
+  "title": "【ポケポケ】カツラデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/468345",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-28T01:25:51.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/468345.png?date=1730166378",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,

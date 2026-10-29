@@ -94,6 +94,98 @@
   "isPR": false
  },
  {
+  "id": "bb1bf8024de4",
+  "title": "【ポケポケ】メガミュウツーXexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/586076",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-29T10:11:52.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586076.png?date=1793269608",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "f0f41f4a19db",
+  "title": "【ポケポケ】ルガルガンexデッキ(デュアルフュージョン)のレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/586074",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-29T10:11:50.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586074.png?date=1793283652",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "0051ca37f286",
+  "title": "【ポケポケ】メガカイリューexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/586071",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-29T10:11:48.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586071.png?date=1793283564",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "24b34471a1e2",
+  "title": "トレカプロ、古物商許可を取得。ポケカの買取と鑑定を自社でも手がける体制へ、海外展開も視野に",
+  "url": "https://mantan-web.jp/prtimes/article/20261029prt00m200000833a/photopage/001.html",
+  "source": "Mantan Web",
+  "summary": "",
+  "publishedAt": "2026-10-29T10:02:20.000Z",
+  "image": "https://prtimes.jp/img/183006/74/resize/d183006-74-fa9e3c60f218939657c7-3.png",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "d1ec015f7bf8",
+  "title": "画像ページ (1/2) 【ポケカ】ハドウシーカーがAmazonで招待販売リクエスト開始。メガルカリオZ、メガアブソルZ、メガガブリアスZが登場する最新パック",
+  "url": "https://www.famitsu.com/article/images/202610/92098/912365",
+  "source": "ファミ通",
+  "summary": "",
+  "publishedAt": "2026-10-29T09:59:20.000Z",
+  "image": "https://cimg.kgl-systems.io/camion/files/famitsu/92098/a512bb14b4e76c78eba675f21bc8ca0ed.jpg?x=1280",
+  "categories": [
+   "release"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [
+   "amazon"
+  ],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "dffa414ee5a2",
   "title": "【ポケカ】2026年の新弾発売スケジュールまとめ | スニーカーダンク",
   "url": "https://snkrdunk.com/articles/15950/",
@@ -125,6 +217,24 @@
   ],
   "series": [
    "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "fc406459b27d",
+  "title": "【ポケポケ】「デュアルフュージョン」の当たりランキング|2タイプを持つポケモンが登場【ポケカ ポケット】",
+  "url": "https://gamepedia.jp/pokemon-tcgp/archives/19839",
+  "source": "攻略大百科",
+  "summary": "",
+  "publishedAt": "2026-10-29T07:26:42.000Z",
+  "image": "https://tfi.gamepedia.jp/image/w=1200,h=630,fit=pad,f=webp/puppeteer.gamepedia.jp/gamepedia.jp/pokemon-tcgp/thumbnail/19839/7c332cc2dd57180e640b880238701a91",
+  "categories": [
+   "reveal"
+  ],
+  "series": [
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
@@ -166,6 +276,24 @@
   "stores": [
    "amazon"
   ],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "fb2ca0bf7816",
+  "title": "【ポケポケ】ロケット団の研究員（ロケット団の野望）の効果・入手方法【ポケカ ポケット】",
+  "url": "https://gamepedia.jp/pokemon-tcgp/card/18121",
+  "source": "攻略大百科",
+  "summary": "",
+  "publishedAt": "2026-10-29T06:07:47.000Z",
+  "image": "https://tfi.gamepedia.jp/image/w=1200,h=630,fit=pad,f=webp/images.gamepedia.jp/pokemon/pokepoke/original/ロケット団の研究員_1.png",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
   "isOfficial": false,
   "isPR": false
  },
@@ -281,6 +409,24 @@
   "isPR": false
  },
  {
+  "id": "0f1d9fa1c646",
+  "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【10/29更新】",
+  "url": "https://snkrdunk.com/articles/33599/?slide",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-29T04:42:29.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/0d519b94-9561-4ffa-9b32-d01f0552beb9.jpeg",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "966544ed0184",
   "title": "【ポケカ】ミュウex URの買取価格と最新相場と値段推移｜ポケモンカード151",
   "url": "https://snkrdunk.com/articles/18649/",
@@ -291,24 +437,6 @@
   "categories": [
    "market",
    "reveal"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "0f1d9fa1c646",
-  "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【10/29更新】 | スニーカーダンク",
-  "url": "https://snkrdunk.com/articles/33599/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-29T04:19:29.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/0d519b94-9561-4ffa-9b32-d01f0552beb9.jpeg",
-  "categories": [
-   "lottery"
   ],
   "series": [
    "tcg"
@@ -334,24 +462,6 @@
   "stores": [],
   "isOfficial": false,
   "isPR": false
- },
- {
-  "id": "24b34471a1e2",
-  "title": "トレカプロ、古物商許可を取得。ポケカの買取と鑑定を自社でも手がける体制へ、海外展開も視野に",
-  "url": "https://prtimes.jp/main/html/rd/p/000000074.000183006.html",
-  "source": "PR TIMES",
-  "summary": "",
-  "publishedAt": "2026-10-29T04:09:43.000Z",
-  "image": "https://prcdn.freetls.fastly.net/release_image/183006/74/183006-74-5deb4ef4a72191727f8c474a9e08ae99-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-  "categories": [
-   "market"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": true
  },
  {
   "id": "3a7de21ceb40",
@@ -471,6 +581,24 @@
   "summary": "",
   "publishedAt": "2026-10-29T02:04:02.000Z",
   "image": "",
+  "categories": [
+   "caution"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "b8e3d87b3b11",
+  "title": "ポケカ14枚2700万円相当を奪ったか 大晦日に強盗 男4人逮捕 闇バイトか – Quebee キュエビー",
+  "url": "https://www.qab.co.jp/quebee/video/000543707/",
+  "source": "QAB 琉球朝日放送",
+  "summary": "",
+  "publishedAt": "2026-10-29T02:04:02.000Z",
+  "image": "https://www.qab.co.jp/quebee/wp-content/uploads/000543707_640-1.jpg",
   "categories": [
    "caution"
   ],
