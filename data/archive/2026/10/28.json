@@ -314,6 +314,26 @@
   "isPR": false
  },
  {
+  "id": "15eb6b14945c",
+  "title": "【買取情報】ポケモンカードゲーム 買取情報 カードラボ津田沼店 1028 / 津田沼店の店舗ブログ",
+  "url": "https://www.c-labo.jp/blog/581202/",
+  "source": "カードラボ",
+  "summary": "",
+  "publishedAt": "2026-10-28T07:00:00.000Z",
+  "image": "https://www.c-labo.jp/wordpress/wp-content/uploads/2026/10/4c85c234076325c638e2c305400f29d6-1.jpg",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [
+   "cardshop"
+  ],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "01eef2d84448",
   "title": "【ポケカ】30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキーの収録カード・再販抽選情報まとめ",
   "url": "https://snkrdunk.com/articles/32464/",
@@ -535,6 +555,24 @@
   "isPR": false
  },
  {
+  "id": "2f75ac0c2c28",
+  "title": "【ポケポケ】ハラバリーexデッキのレシピと評価・対策【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/546331",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-28T01:23:45.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/546331.png?date=1772081484",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "d3ef0e0c9f7c",
   "title": "【ポケポケ】メガリザードンXexデッキのレシピと評価【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/551306",
@@ -542,6 +580,24 @@
   "summary": "",
   "publishedAt": "2026-10-28T01:23:42.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/551306.png?date=1774496509",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "e5345bc0d117",
+  "title": "【ポケポケ】メガライボルトexデッキのレシピと評価・対策【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/551307",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-28T01:23:40.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/551307.png?date=1774496570",
   "categories": [
    "deck"
   ],
@@ -802,6 +858,24 @@
   "categories": [
    "deck",
    "event"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "258601ae6c33",
+  "title": "【ポケポケ】トレードおすすめカード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/483267",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-27T18:23:32.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/483267.png?date=1738143627",
+  "categories": [
+   "deck"
   ],
   "series": [
    "pocket"
