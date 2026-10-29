@@ -1,14 +1,126 @@
 [
  {
+  "id": "334ebfdf3331",
+  "title": "ポケカ14枚2700万円相当を奪ったか 大晦日に強盗 男4人逮捕 闇バイトか",
+  "url": "https://news.tv-asahi.co.jp/news_society/articles/000543707.html",
+  "source": "テレ朝NEWS",
+  "summary": "",
+  "publishedAt": "2026-10-29T02:04:02.000Z",
+  "image": "",
+  "categories": [
+   "caution"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "63012add9928",
+  "title": "カードショップに侵入…ポケモンカード約2700万円分奪ったか 男4人逮捕 東京・池袋",
+  "url": "https://news.ntv.co.jp/category/society/ca9485dfd0f64c96ba054423fd988ad2",
+  "source": "日テレNEWS NNN",
+  "summary": "",
+  "publishedAt": "2026-10-29T01:44:00.000Z",
+  "image": "https://news.ntv.co.jp/gimage/n24/articles/50364173ee394651a1f7fb0f79630a13/c464a83adaed27943ac1d5c1922dd47c59dc80ddb127c8f0b5b438684e75ec90.jpg?w=1200",
+  "categories": [
+   "caution"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [
+   "cardshop"
+  ],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "0f118742b039",
+  "title": "ポケポケで50pt獲得！Google Play「Play Points クエスト」開始【2026年11月4日（水）まで】",
+  "url": "https://jetstream.blog/2026/10/29/google-play-quest-pokemon-tcg-pocket-until-november-4-2026/",
+  "source": "Jetstream",
+  "summary": "",
+  "publishedAt": "2026-10-29T01:37:14.000Z",
+  "image": "https://jetstream.blog/wp-content/uploads/2026/08/Google-Play-Quest-3.jpg",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "a3a84b368260",
+  "title": "ポケポケ新パック『デュアルフュージョン』収録カード公開で「メガミュウツーXex」など",
+  "url": "https://www.saga-s.co.jp/articles/-/1819708",
+  "source": "佐賀新聞",
+  "summary": "",
+  "publishedAt": "2026-10-29T01:30:00.000Z",
+  "image": "https://saga.ismcdn.jp/mwimgs/e/4/1200m/img_e4e5d1bc82c22f4b79be1f69a078708c79595.jpg",
+  "categories": [
+   "reveal",
+   "release"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "0b105c132fd6",
+  "title": "闇バイトか 大晦日にポケモンカード2700万相当円奪った疑い 男4人逮捕「SNSで見て参加した」（テレビ朝日系（ANN））",
+  "url": "https://news.yahoo.co.jp/articles/f705fedc8fb252e5ed214c93c693433db9eac2ed",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-29T00:56:01.000Z",
+  "image": "https://newsatcl-pctr.c.yimg.jp/dk/yvpub-bucket001-west/contents/yvpub-content-ceb0300eee4c7741bc2d1a3a4ca417ad/28465923-2e543683e781067ed6f1b0119526dc4a/img/1793238754/thumbnail.jpg?exp=10800",
+  "categories": [
+   "caution"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "d3b87d882a5e",
   "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【10/28更新】",
   "url": "https://snkrdunk.com/articles/33304/",
   "source": "SNKRDUNK",
   "summary": "",
-  "publishedAt": "2026-10-28T15:51:38.000Z",
+  "publishedAt": "2026-10-28T23:34:39.000Z",
   "image": "https://cdn.snkrdunk.com/uploads/media/1be64b43-ba7d-41a8-adea-6b26f00f1866.png",
   "categories": [
    "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "ccabeed8fafd",
+  "title": "【ポケカ】ポケモンカード151の当たりランキング/買取相場/封入率/予約抽選/値段まとめ | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/16466/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-28T23:22:27.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/6ea1ef47-3013-4b51-9383-82543e43db12.jpeg",
+  "categories": [
+   "market",
+   "lottery"
   ],
   "series": [
    "tcg"

@@ -24,7 +24,7 @@
   "url": "https://snkrdunk.com/articles/15950/",
   "source": "SNKRDUNK",
   "summary": "",
-  "publishedAt": "2026-10-28T13:03:23.000Z",
+  "publishedAt": "2026-10-28T13:24:08.000Z",
   "image": "https://cdn.snkrdunk.com/uploads/media/20251222061410-0.jpeg",
   "categories": [
    "release"
@@ -506,6 +506,42 @@
   "summary": "",
   "publishedAt": "2026-10-28T01:25:31.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/572654.png?date=1786676147",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "d3ef0e0c9f7c",
+  "title": "【ポケポケ】メガリザードンXexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/551306",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-28T01:23:42.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/551306.png?date=1774496509",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "96dede30191d",
+  "title": "【ポケポケ】コライドンexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/562112",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-28T01:23:31.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/562112.png?date=1779946649",
   "categories": [
    "deck"
   ],
