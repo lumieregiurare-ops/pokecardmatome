@@ -131,12 +131,12 @@
  },
  {
   "id": "d839db7affa9",
-  "title": "14枚のポケモンカード奪う、2690万円相当 容疑で男4人逮捕 東京・池袋のショップ（産経新聞）",
-  "url": "https://news.yahoo.co.jp/articles/1a30b74a6adbbfb703948a9b34ce71ce076c749e",
-  "source": "Yahoo!ニュース",
+  "title": "14枚のポケモンカード奪う、2690万円相当 容疑で男4人逮捕 東京・池袋のショップ",
+  "url": "https://www.sankei.com/article/20261028-R5PFKTKK6ZMTFDRZPVL3WXBABI/",
+  "source": "産経ニュース",
   "summary": "",
-  "publishedAt": "2026-10-28T10:06:22.000Z",
-  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261028-00000159-san-000-1-view.jpg?exp=10800",
+  "publishedAt": "2026-10-28T10:04:31.000Z",
+  "image": "https://www.sankei.com/resizer/v2/4PVOQMWUZ5I4ZACGHEDWEJKQME.jpg?auth=8452b2a7fee5b07974fefb0febb47091acdfc02de7b6382222fd4e73b30a3a3b&quality=50&focal=2435%2C1247&width=1200&height=675",
   "categories": [
    "caution"
   ],
@@ -482,24 +482,6 @@
   "isPR": false
  },
  {
-  "id": "83b07b71a705",
-  "title": "シティリーグ2027 シーズン1 オープンリーグ",
-  "url": "https://players.pokemon-card.com/event/detail/1115393/result",
-  "source": "ポケモンカードゲーム プレイヤーズクラブ",
-  "summary": "",
-  "publishedAt": "2026-10-28T03:00:00.000Z",
-  "image": "",
-  "categories": [
-   "event"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": true,
-  "isPR": false
- },
- {
   "id": "1f81585d227d",
   "title": "【ポケカ】ゴッホピカチュウの買取・相場価格と値段推移｜ゴッホ美術館×ポケモンコラボ",
   "url": "https://snkrdunk.com/articles/20582/",
@@ -516,6 +498,24 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "83b07b71a705",
+  "title": "シティリーグ2027 シーズン1 オープンリーグ",
+  "url": "https://players.pokemon-card.com/event/detail/1115392/result",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-28T01:30:00.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
