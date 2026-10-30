@@ -56,6 +56,24 @@
   "isPR": false
  },
  {
+  "id": "b7c158e5da49",
+  "title": "【ポケポケ】相手ベンチ数依存のワザを持つカード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/574154",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-29T10:55:11.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574154.png?date=1787821902",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "1f81585d227d",
   "title": "【ポケカ】ゴッホピカチュウの買取・相場価格と値段推移｜ゴッホ美術館×ポケモンコラボ",
   "url": "https://snkrdunk.com/articles/20582/",
@@ -112,6 +130,42 @@
   "isPR": false
  },
  {
+  "id": "3d32415add9d",
+  "title": "【ポケポケ】ミュウexデッキ(デュアルフュージョン)のレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/586075",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-29T10:11:52.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586075.png?date=1793283628",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "46699272b9b9",
+  "title": "【ポケポケ】ピカチュウexデッキ(デュアルフュージョン)のレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/586077",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-29T10:11:52.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586077.png?date=1793269649",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "f0f41f4a19db",
   "title": "【ポケポケ】ルガルガンexデッキ(デュアルフュージョン)のレシピと評価【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/586074",
@@ -137,6 +191,24 @@
   "summary": "",
   "publishedAt": "2026-10-29T10:11:48.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586071.png?date=1793283564",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "5ebbbec1eed8",
+  "title": "【ポケポケ】ギラティナexデッキ(デュアルフュージョン)のレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/586070",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-29T10:11:48.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586070.png?date=1793283607",
   "categories": [
    "deck"
   ],
@@ -247,10 +319,10 @@
   "source": "インサイド",
   "summary": "『ポケモンカードゲーム』新拡張パック「ハドウシーカー」が11月27日に発売！Amazonで抽選販売がスタート。",
   "publishedAt": "2026-10-29T06:15:03.000Z",
-  "image": "https://www.inside-games.jp/imgs/rss/1800800.jpg",
+  "image": "https://www.inside-games.jp/imgs/ogp_f/1800800.webp",
   "categories": [
-   "release",
-   "lottery"
+   "lottery",
+   "release"
   ],
   "series": [
    "tcg"
@@ -502,12 +574,12 @@
  },
  {
   "id": "8aa35ed1b4ca",
-  "title": "大晦日ポケカ強盗 男ら逮捕 2700万円相当 闇バイトか（ABEMA TIMES）",
-  "url": "https://news.yahoo.co.jp/articles/012ea892a5ceaf1d5de5bb4b38145a63d05270a2",
+  "title": "大晦日ポケカ強盗 男ら逮捕 2700万円相当 闇バイトか (ABEMA TIMES)",
+  "url": "https://news.yahoo.co.jp/articles/012ea892a5ceaf1d5de5bb4b38145a63d05270a2/images/000",
   "source": "Yahoo!ニュース",
   "summary": "",
   "publishedAt": "2026-10-29T02:48:16.000Z",
-  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-10284913-abemav-000-1-view.jpg?exp=10800",
+  "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnSvaQAmlluRV7u-mtucUEArTpa14otkN9scVegL180DlfTsk0d5gmjhuINcUrzddDUgltN23ycOo2XW-BpFI1hitV79ktwBvZRK8unE871zdobIxQgdM9Twmz69wmmIK3A==",
   "categories": [
    "caution"
   ],
@@ -610,6 +682,24 @@
   "isPR": false
  },
  {
+  "id": "96bdaebed869",
+  "title": "ポケカ14枚2700万円相当を奪ったか 大晦日に強盗 男4人逮捕 闇バイトか（テレビ朝日系（ANN））",
+  "url": "https://news.yahoo.co.jp/articles/8892ebf7c1bd7f634c901c901edefa85d66bb04b",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-29T02:04:02.000Z",
+  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00000024-ann-000-9-thumb.jpg?exp=10800",
+  "categories": [
+   "caution"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "63012add9928",
   "title": "カードショップに侵入…ポケモンカード約2700万円分奪ったか 男4人逮捕 東京・池袋",
   "url": "https://article.auone.jp/6270062b-db8c-499a-96aa-506a60611f3c",
@@ -668,11 +758,11 @@
  },
  {
   "id": "a3a84b368260",
-  "title": "ポケポケ新パック『デュアルフュージョン』収録カード公開で「メガミュウツーXex」など（オリコン）",
-  "url": "https://news.yahoo.co.jp/articles/62d4c38f0572ec5c4f92c428e6adcf6815593063",
-  "source": "Yahoo!ニュース",
+  "title": "ポケポケ新パック『デュアルフュージョン』収録カード公開で「メガミュウツーXex」など",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT1dTMTZHSWkyem5KeURkYWV4MVA3UXNNT2FxNlAtOWU4Z25VZ0VKclZiNlZhc0FIdkRNaWpjUV9lWENxQWxFcTFadWpzWUxWYkJGOU02czhMMHNSMXdaSzRKb0UtODJCQVI5X3c1MnZRQnhzWnJLVHQ5ZWxOWjVLY9IBhgFBVV95cUxOZjdud2hPR1dlQ3J4bVNKek9VeFR3QWQ3SDJKYVRTNDZ5VDRpeUcyRDltRzBSaFlvRHZkbE9MdjFIMFJwR1MzVGw1Q1ZCUWVuNkxmVXBscFJNU2Vfak1CTDdfVmVqZTNEdUxLbjFuLXo5dGlnT2pVMV9XTVNnb2tMU3k4U3RwQQ?oc=5",
+  "source": "ｄメニューニュース",
   "summary": "",
-  "publishedAt": "2026-10-29T01:30:40.000Z",
+  "publishedAt": "2026-10-29T01:30:00.000Z",
   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00000374-oric-000-2-view.jpg?exp=10800",
   "categories": [
    "reveal",
@@ -743,12 +833,12 @@
  },
  {
   "id": "0b105c132fd6",
-  "title": "闇バイトか 大晦日にポケモンカード2700万相当円奪った疑い 男4人逮捕「SNSで見て参加した」 (テレビ朝日系（ANN）)",
-  "url": "https://news.yahoo.co.jp/articles/f705fedc8fb252e5ed214c93c693433db9eac2ed/images/000",
+  "title": "闇バイトか 大晦日にポケモンカード2700万相当円奪った疑い 男4人逮捕「SNSで見て参加した」（テレビ朝日系（ANN））",
+  "url": "https://news.yahoo.co.jp/articles/f705fedc8fb252e5ed214c93c693433db9eac2ed",
   "source": "Yahoo!ニュース",
   "summary": "",
   "publishedAt": "2026-10-29T00:56:01.000Z",
-  "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnVHrhX3aFq53ZK1l69vXU_QLzDMkpWU6DM41eT6OXAg2rIpTquzyzcgQ2JcHb8YUeJHvhDfPJfs7WuVo12gUFss-H7Lt-UrdxdZYMordwJFG",
+  "image": "https://newsatcl-pctr.c.yimg.jp/dk/yvpub-bucket001-west/contents/yvpub-content-ceb0300eee4c7741bc2d1a3a4ca417ad/28465923-2e543683e781067ed6f1b0119526dc4a/img/1793238754/thumbnail.jpg?exp=10800",
   "categories": [
    "caution"
   ],
