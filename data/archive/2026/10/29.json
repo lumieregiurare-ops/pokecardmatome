@@ -148,24 +148,6 @@
   "isPR": false
  },
  {
-  "id": "24b34471a1e2",
-  "title": "トレカプロ、古物商許可を取得。ポケカの買取と鑑定を自社でも手がける体制へ、海外展開も視野に",
-  "url": "https://mantan-web.jp/prtimes/article/20261029prt00m200000833a/photopage/001.html",
-  "source": "Mantan Web",
-  "summary": "",
-  "publishedAt": "2026-10-29T10:02:20.000Z",
-  "image": "https://prtimes.jp/img/183006/74/resize/d183006-74-fa9e3c60f218939657c7-3.png",
-  "categories": [
-   "market"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "d1ec015f7bf8",
   "title": "画像ページ (1/2) 【ポケカ】ハドウシーカーがAmazonで招待販売リクエスト開始。メガルカリオZ、メガアブソルZ、メガガブリアスZが登場する最新パック",
   "url": "https://www.famitsu.com/article/images/202610/92098/912365",
@@ -392,7 +374,7 @@
  {
   "id": "9f061f4a5037",
   "title": "大晦日にポケモンカード強盗 男4人逮捕 14枚で2700万円相当 オーナー脅し暴行か 1人は“SNS見て応募”",
-  "url": "https://www.chiba-tv.com/plus/detail/amp/2026102172698",
+  "url": "https://www.chiba-tv.com/plus/detail/2026102172698",
   "source": "千葉テレビ放送株式会社",
   "summary": "",
   "publishedAt": "2026-10-29T04:49:32.000Z",
@@ -462,6 +444,24 @@
   "stores": [],
   "isOfficial": false,
   "isPR": false
+ },
+ {
+  "id": "24b34471a1e2",
+  "title": "トレカプロ、古物商許可を取得。ポケカの買取と鑑定を自社でも手がける体制へ、海外展開も視野に",
+  "url": "https://prtimes.jp/main/html/rd/p/000000074.000183006.html",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-10-29T04:09:43.000Z",
+  "image": "https://prcdn.freetls.fastly.net/release_image/183006/74/183006-74-5deb4ef4a72191727f8c474a9e08ae99-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": true
  },
  {
   "id": "3a7de21ceb40",
@@ -668,12 +668,12 @@
  },
  {
   "id": "a3a84b368260",
-  "title": "ポケポケ新パック『デュアルフュージョン』収録カード公開で「メガミュウツーXex」など",
-  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT1dTMTZHSWkyem5KeURkYWV4MVA3UXNNT2FxNlAtOWU4Z25VZ0VKclZiNlZhc0FIdkRNaWpjUV9lWENxQWxFcTFadWpzWUxWYkJGOU02czhMMHNSMXdaSzRKb0UtODJCQVI5X3c1MnZRQnhzWnJLVHQ5ZWxOWjVLY9IBhgFBVV95cUxOZjdud2hPR1dlQ3J4bVNKek9VeFR3QWQ3SDJKYVRTNDZ5VDRpeUcyRDltRzBSaFlvRHZkbE9MdjFIMFJwR1MzVGw1Q1ZCUWVuNkxmVXBscFJNU2Vfak1CTDdfVmVqZTNEdUxLbjFuLXo5dGlnT2pVMV9XTVNnb2tMU3k4U3RwQQ?oc=5",
-  "source": "ｄメニューニュース",
+  "title": "ポケポケ新パック『デュアルフュージョン』収録カード公開で「メガミュウツーXex」など（オリコン）",
+  "url": "https://news.yahoo.co.jp/articles/62d4c38f0572ec5c4f92c428e6adcf6815593063",
+  "source": "Yahoo!ニュース",
   "summary": "",
-  "publishedAt": "2026-10-29T01:30:00.000Z",
-  "image": "https://saga.ismcdn.jp/mwimgs/e/4/1200m/img_e4e5d1bc82c22f4b79be1f69a078708c79595.jpg",
+  "publishedAt": "2026-10-29T01:30:40.000Z",
+  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00000374-oric-000-2-view.jpg?exp=10800",
   "categories": [
    "reveal",
    "release"
