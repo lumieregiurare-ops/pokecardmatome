@@ -191,7 +191,7 @@
  {
   "id": "53e965376913",
   "title": "【26/11】ポケモンカードジム ジムバトル",
-  "url": "https://players.pokemon-card.com/event/detail/1176376/1/19979/20261107/1988973",
+  "url": "https://players.pokemon-card.com/event/detail/1178053/1/19979/20261109/1974715",
   "source": "ポケモンカードゲーム プレイヤーズクラブ",
   "summary": "",
   "publishedAt": "2026-10-30T10:14:07.000Z",
@@ -445,6 +445,25 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "0945b14d1458",
+  "title": "「チャンピオンズリーグ2027 千葉」ジュニアリーグの追加エントリーについてニュース詳細 | ポケカ公式",
+  "url": "https://www.pokemon-card.com/info/005738.html",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-10-30T06:45:02.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "lottery",
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
