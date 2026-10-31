@@ -370,25 +370,6 @@
   "isPR": false
  },
  {
-  "id": "a9427fa4c5b4",
-  "title": "『ポケポケ』新パック“デュアルフュージョン”登場。メガミュウツーXex［★★］が初公開！ 2周年記念キャンペーンも開催",
-  "url": "https://dengekionline.com/article/202610/92463",
-  "source": "電撃オンライン",
-  "summary": "",
-  "publishedAt": "2026-10-29T06:08:00.000Z",
-  "image": "https://cimg.kgl-systems.io/camion/files/92463/ogp_grzU.jpg?x=1280",
-  "categories": [
-   "release",
-   "reveal"
-  ],
-  "series": [
-   "pocket"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "fb2ca0bf7816",
   "title": "【ポケポケ】ロケット団の研究員（ロケット団の野望）の効果・入手方法【ポケカ ポケット】",
   "url": "https://gamepedia.jp/pokemon-tcgp/card/18121",
@@ -398,6 +379,25 @@
   "image": "https://tfi.gamepedia.jp/image/w=1200,h=630,fit=pad,f=webp/images.gamepedia.jp/pokemon/pokepoke/original/ロケット団の研究員_1.png",
   "categories": [
    "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "a9427fa4c5b4",
+  "title": "『ポケポケ』新パック“デュアルフュージョン”登場。メガミュウツーXex［★★］が初公開！ 2周年記念キャンペーンも開催",
+  "url": "https://dengekionline.com/article/202610/92463",
+  "source": "電撃オンライン",
+  "summary": "",
+  "publishedAt": "2026-10-29T06:07:00.000Z",
+  "image": "https://cimg.kgl-systems.io/camion/files/92463/ogp_grzU.jpg?x=1280",
+  "categories": [
+   "release",
+   "reveal"
   ],
   "series": [
    "pocket"
