@@ -1,5 +1,41 @@
 [
  {
+  "id": "e81a9303e1f6",
+  "title": "【ポケポケ】デュアルフュージョンの所持率チェッカー【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/585955",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-31T17:34:24.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585955.png?date=1793253810",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "bc627621f846",
+  "title": "【ポケポケ】「デュアルフュージョン」はどっちがおすすめ？【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/585949",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-31T16:51:31.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585949.png?date=1793263680",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "837a8103c539",
   "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【10/31更新】 | スニーカーダンク",
   "url": "https://snkrdunk.com/articles/33599/",
@@ -7,6 +43,24 @@
   "summary": "",
   "publishedAt": "2026-10-31T16:47:35.000Z",
   "image": "https://cdn.snkrdunk.com/uploads/media/b82bd0a8-5400-450a-9b78-af65dc6f5e0c.png",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "a5ae38af28ca",
+  "title": "【ポケカ】ストームエメラルダの予約・抽選情報まとめ【7/30更新】 | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/32581/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-31T16:33:49.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/2989b9e7-e8f4-4557-bee3-ff9f7db28e77.jpeg",
   "categories": [
    "lottery"
   ],
