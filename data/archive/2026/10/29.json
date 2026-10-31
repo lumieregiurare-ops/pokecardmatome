@@ -370,15 +370,16 @@
   "isPR": false
  },
  {
-  "id": "fb2ca0bf7816",
-  "title": "【ポケポケ】ロケット団の研究員（ロケット団の野望）の効果・入手方法【ポケカ ポケット】",
-  "url": "https://gamepedia.jp/pokemon-tcgp/card/18121",
-  "source": "攻略大百科",
+  "id": "a9427fa4c5b4",
+  "title": "『ポケポケ』新パック“デュアルフュージョン”登場。メガミュウツーXex［★★］が初公開！ 2周年記念キャンペーンも開催",
+  "url": "https://dengekionline.com/article/202610/92463",
+  "source": "電撃オンライン",
   "summary": "",
-  "publishedAt": "2026-10-29T06:07:47.000Z",
-  "image": "https://tfi.gamepedia.jp/image/w=1200,h=630,fit=pad,f=webp/images.gamepedia.jp/pokemon/pokepoke/original/ロケット団の研究員_1.png",
+  "publishedAt": "2026-10-29T06:08:00.000Z",
+  "image": "https://cimg.kgl-systems.io/camion/files/92463/ogp_grzU.jpg?x=1280",
   "categories": [
-   "deck"
+   "release",
+   "reveal"
   ],
   "series": [
    "pocket"
@@ -388,16 +389,15 @@
   "isPR": false
  },
  {
-  "id": "a9427fa4c5b4",
-  "title": "『ポケポケ』新パック“デュアルフュージョン”登場。メガミュウツーXex［★★］が初公開！ 2周年記念キャンペーンも開催",
-  "url": "https://dengekionline.com/article/202610/92463",
-  "source": "電撃オンライン",
+  "id": "fb2ca0bf7816",
+  "title": "【ポケポケ】ロケット団の研究員（ロケット団の野望）の効果・入手方法【ポケカ ポケット】",
+  "url": "https://gamepedia.jp/pokemon-tcgp/card/18121",
+  "source": "攻略大百科",
   "summary": "",
-  "publishedAt": "2026-10-29T06:07:00.000Z",
-  "image": "https://cimg.kgl-systems.io/camion/files/92463/ogp_grzU.jpg?x=1280",
+  "publishedAt": "2026-10-29T06:07:47.000Z",
+  "image": "https://tfi.gamepedia.jp/image/w=1200,h=630,fit=pad,f=webp/images.gamepedia.jp/pokemon/pokepoke/original/ロケット団の研究員_1.png",
   "categories": [
-   "release",
-   "reveal"
+   "deck"
   ],
   "series": [
    "pocket"
@@ -833,11 +833,11 @@
  },
  {
   "id": "a3a84b368260",
-  "title": "ポケポケ新パック『デュアルフュージョン』収録カード公開で「メガミュウツーXex」など（オリコン）",
-  "url": "https://news.yahoo.co.jp/articles/62d4c38f0572ec5c4f92c428e6adcf6815593063",
-  "source": "Yahoo!ニュース",
+  "title": "ポケポケ新パック『デュアルフュージョン』収録カード公開で「メガミュウツーXex」など",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRkdZSjNDbGhEWWd1V2FubjF5MFlCOUZ3NnJXdnBJRVZyQ09oU0xrYzFlS1hLVXJaSVNiWTVJVEQwVWl6STdFQV9Wc2JvbHlCSjNpZ3dSU1k0c2x4Q2ZVRmRLQXItSG9uWUJ6VUloT0pyVklIellRbklIOXd6aUZhNlRackkza0NPQ2k0dEZDUjliQTDSAYYBQVVfeXFMTmY3bndoT0dXZUNyeG1TSnpPVXhUd0FkN0gySmFUUzQ2eVQ0aXlHMkQ5bUcwUmhZb0R2ZGxPTHYxSDBScEdTM1RsNUNWQlFlbjZMZlVwbHBSTVNlX2pNQkw3X1ZlamUzRHVMS24xbi16OXRpZ09qVTFfV01TZ29rTFN5OFN0cEE?oc=5",
+  "source": "ｄメニューニュース",
   "summary": "",
-  "publishedAt": "2026-10-29T01:30:40.000Z",
+  "publishedAt": "2026-10-29T01:30:00.000Z",
   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261029-00000374-oric-000-2-view.jpg?exp=10800",
   "categories": [
    "reveal",
