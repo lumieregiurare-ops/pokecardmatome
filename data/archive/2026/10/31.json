@@ -532,6 +532,24 @@
   "isPR": false
  },
  {
+  "id": "7d9377f803ec",
+  "title": "世界一の剛腕も、ドジャース守護神も…ＭＬＢでも大流行日本の「ポケモンカード」 (スポーツ報知)",
+  "url": "https://news.yahoo.co.jp/articles/6387bcd7944ad893dfd028fd6a6174e23edd0787/images/000",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-31T09:17:49.000Z",
+  "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3xudcUclfbXjZqAvGT8NJnUqS1GSWHhbjxNPamZZPb-VeF6Eh3fpRc9Yzy7hyGSS7qSuKyKRTAnbA7KJdYAlTMj-WLidnEvxbN_X2JB2py2ix6RWd3Qk2z6d8MSvVUD5u",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "dffa414ee5a2",
   "title": "【ポケカ】2026年の新弾発売スケジュールまとめ | スニーカーダンク",
   "url": "https://snkrdunk.com/articles/15950/",
@@ -615,24 +633,6 @@
   "image": "https://cdn.snkrdunk.com/uploads/media/1be64b43-ba7d-41a8-adea-6b26f00f1866.png",
   "categories": [
    "restock"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "7d9377f803ec",
-  "title": "世界一の剛腕も、ドジャース守護神も…ＭＬＢでも大流行日本の「ポケモンカード」",
-  "url": "https://hochi.news/articles/20261030-OHT1T51276.html",
-  "source": "スポーツ報知",
-  "summary": "",
-  "publishedAt": "2026-10-31T07:00:00.000Z",
-  "image": "https://hochi.news/images/2026/10/30/20261030-OHT1I51564-C.jpg",
-  "categories": [
-   "other"
   ],
   "series": [
    "tcg"
@@ -1011,11 +1011,11 @@
  {
   "id": "95676cbdfdb3",
   "title": "デッキ表示デッキを保存 | ポケカ公式",
-  "url": "https://www.pokemon-card.com/deck/result.html/deckID/FFFV15-BqK4hy-bfk5Vf/",
+  "url": "https://www.pokemon-card.com/deck/result.html/deckID/8xaDDx-lDPihm-cGx4cY/",
   "source": "ポケモンカードゲーム トレーナーズウェブサイト",
   "summary": "",
   "publishedAt": "2026-10-30T23:17:19.000Z",
-  "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/FFFV15-BqK4hy-bfk5Vf.png?v=1998061658402",
+  "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/8xaDDx-lDPihm-cGx4cY.png?v=1998061658402",
   "categories": [
    "deck"
   ],
