@@ -204,6 +204,24 @@
   "isPR": false
  },
  {
+  "id": "34f99ca4b64d",
+  "title": "【26/11】ポケモンカードジム トレーナーズリーグ（オープンリーグ）",
+  "url": "https://players.pokemon-card.com/event/detail/1171124/1/20887/20261101/1974265",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-31T12:03:42.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "598fde8371c9",
   "title": "【ポケカ】ロストアビスの当たりランキング/買取相場情報/封入率/予約再販抽選/値段まとめ",
   "url": "https://snkrdunk.com/articles/13404/",
@@ -959,6 +977,24 @@
   "source": "キャラグー",
   "summary": "",
   "publishedAt": "2026-10-31T02:20:12.000Z",
+  "image": "",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "1661e5c2eb89",
+  "title": "もえたく買取の評判は？ポケカ・フィギュアを損せず売る流れと注意点",
+  "url": "https://charagoo.jp/moetaku-buyback/",
+  "source": "キャラグー",
+  "summary": "",
+  "publishedAt": "2026-10-31T02:19:32.000Z",
   "image": "",
   "categories": [
    "market"
