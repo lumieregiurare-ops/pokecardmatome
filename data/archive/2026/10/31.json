@@ -658,6 +658,24 @@
   "isPR": false
  },
  {
+  "id": "53e965376913",
+  "title": "【26/11】ポケモンカードジム ジムバトル",
+  "url": "https://players.pokemon-card.com/event/detail/1184120/1/22070/20261117/1992702",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-31T08:20:20.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "dc1b32b1c336",
   "title": "ポケカ30周年で見えた世代交代。親が監督、子どもが選手になる時代へ",
   "url": "https://news.infoseek.co.jp/article/mynavi_3242153/",
@@ -859,24 +877,6 @@
   ],
   "stores": [],
   "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "53e965376913",
-  "title": "【26/11】ポケモンカードジム ジムバトル",
-  "url": "https://players.pokemon-card.com/event/detail/1175133/1/12223/20261106/2000652",
-  "source": "ポケモンカードゲーム プレイヤーズクラブ",
-  "summary": "",
-  "publishedAt": "2026-10-31T04:06:27.000Z",
-  "image": "",
-  "categories": [
-   "event"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": true,
   "isPR": false
  },
  {
