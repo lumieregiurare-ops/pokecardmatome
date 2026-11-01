@@ -316,6 +316,60 @@
   "isPR": false
  },
  {
+  "id": "991633044134",
+  "title": "【ポケポケ】セグレイブ&スイクンexデッキのレシピと評価・対策【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/546871",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-31T10:14:52.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/546871.png?date=1772438035",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "6bdf0e2fef54",
+  "title": "【ポケポケ】ミライドンexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/562111",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-31T10:14:39.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/562111.png?date=1779946633",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "358278432ae6",
+  "title": "【ポケポケ】テラパゴスexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/562183",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-31T10:14:38.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/562183.png?date=1779956790",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "07068a774ad8",
   "title": "【ポケポケ】ミロカロスexデッキのレシピと評価【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/565896",
@@ -735,24 +789,6 @@
   "isPR": false
  },
  {
-  "id": "126d8cbe171c",
-  "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【10/30更新】 | スニーカーダンク",
-  "url": "https://snkrdunk.com/articles/33599/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-10-31T04:37:55.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/b82bd0a8-5400-450a-9b78-af65dc6f5e0c.png",
-  "categories": [
-   "lottery"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "913825ecb461",
   "title": "11月13日より「ポケモンカードストア」が愛知・静岡・埼玉・大阪・和歌山の全国5会場にオープン！ イーブイのプロモカードがもらえる無料イベントも開催",
   "url": "https://www.ndw.jp/pokemon-news-261031/",
@@ -787,6 +823,24 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "53e965376913",
+  "title": "【26/11】ポケモンカードジム ジムバトル",
+  "url": "https://players.pokemon-card.com/event/detail/1175133/1/12223/20261106/2000652",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-10-31T04:06:27.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
@@ -1009,6 +1063,25 @@
   "isPR": false
  },
  {
+  "id": "1758fd84d7ef",
+  "title": "【ポケカ】ルザミーネ(黒)SRの最新相場情報や値段の推移",
+  "url": "https://snkrdunk.com/articles/18231/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-30T23:33:43.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/20230529081242-0.jpeg",
+  "categories": [
+   "market",
+   "reveal"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "95676cbdfdb3",
   "title": "デッキ表示デッキを保存 | ポケカ公式",
   "url": "https://www.pokemon-card.com/deck/result.html/deckID/8xaDDx-lDPihm-cGx4cY/",
@@ -1058,6 +1131,24 @@
   ],
   "series": [
    "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "126d8cbe171c",
+  "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【10/30更新】",
+  "url": "https://snkrdunk.com/articles/33599/?slide",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-30T20:04:28.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/b82bd0a8-5400-450a-9b78-af65dc6f5e0c.png",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
   ],
   "stores": [],
   "isOfficial": false,

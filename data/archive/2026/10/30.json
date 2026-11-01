@@ -59,16 +59,16 @@
   "isPR": false
  },
  {
-  "id": "01eef2d84448",
-  "title": "【ポケカ】30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキーの収録カード・再販抽選情報まとめ",
-  "url": "https://snkrdunk.com/articles/32464/",
-  "source": "SNKRDUNK",
+  "id": "63e7627b9fb6",
+  "title": "ポケカ新弾の発売日一覧｜次のパックはいつ？値段と予約・抽選の方法",
+  "url": "https://charagoo.jp/pokemoncard-newset/",
+  "source": "キャラグー",
   "summary": "",
-  "publishedAt": "2026-10-30T14:07:26.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/b3ec7894-3c17-4254-b87a-9ca52ed4616f.jpeg",
+  "publishedAt": "2026-10-30T14:08:12.000Z",
+  "image": "",
   "categories": [
    "lottery",
-   "restock"
+   "release"
   ],
   "series": [
    "tcg"
@@ -78,14 +78,15 @@
   "isPR": false
  },
  {
-  "id": "d3b87d882a5e",
-  "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【10/30更新】",
-  "url": "https://snkrdunk.com/articles/33304/",
+  "id": "01eef2d84448",
+  "title": "【ポケカ】30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキーの収録カード・再販抽選情報まとめ",
+  "url": "https://snkrdunk.com/articles/32464/",
   "source": "SNKRDUNK",
   "summary": "",
-  "publishedAt": "2026-10-30T14:01:26.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/1be64b43-ba7d-41a8-adea-6b26f00f1866.png",
+  "publishedAt": "2026-10-30T14:07:26.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/b3ec7894-3c17-4254-b87a-9ca52ed4616f.jpeg",
   "categories": [
+   "lottery",
    "restock"
   ],
   "series": [
@@ -448,6 +449,24 @@
   "isPR": false
  },
  {
+  "id": "d3b87d882a5e",
+  "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【10/30更新】",
+  "url": "https://snkrdunk.com/articles/33304/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-10-30T07:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/1be64b43-ba7d-41a8-adea-6b26f00f1866.png",
+  "categories": [
+   "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "0945b14d1458",
   "title": "「チャンピオンズリーグ2027 千葉」ジュニアリーグの追加エントリーについてニュース詳細 | ポケカ公式",
   "url": "https://www.pokemon-card.com/info/005738.html",
@@ -477,24 +496,6 @@
   "categories": [
    "market",
    "reveal"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "24e224a384b2",
-  "title": "静岡PARCOに初登場！11月13日（金）『ポケモンカードストア』オープン！",
-  "url": "https://www.gamespark.jp/release/prtimes/20261030/325206.html",
-  "source": "Game*Spark",
-  "summary": "[株式会社パルコ] 株式会社パルコ(本部:東京都渋谷区）が運営する静岡PARCOでは、ポケモンカードゲームMEGA 拡張パック「ハドウシーカー」の発売に先駆けて、ポケモンカードゲーム・ポケモンセンターオリジナル商品が買える「ポケ...",
-  "publishedAt": "2026-10-30T05:47:00.000Z",
-  "image": "https://www.gamespark.jp/release/imgs/list/570534.png",
-  "categories": [
-   "other"
   ],
   "series": [
    "tcg"
@@ -538,6 +539,24 @@
   "stores": [],
   "isOfficial": true,
   "isPR": false
+ },
+ {
+  "id": "24e224a384b2",
+  "title": "静岡PARCOに初登場！11月13日（金）『ポケモンカードストア』オープン！",
+  "url": "https://prtimes.jp/main/html/rd/p/000004144.000003639.html",
+  "source": "PR TIMES",
+  "summary": "[株式会社パルコ] 株式会社パルコ(本部:東京都渋谷区）が運営する静岡PARCOでは、ポケモンカードゲームMEGA 拡張パック「ハドウシーカー」の発売に先駆けて、ポケモンカードゲーム・ポケモンセンターオリジナル商品が買える「ポケ...",
+  "publishedAt": "2026-10-30T05:00:01.000Z",
+  "image": "https://prcdn.freetls.fastly.net/release_image/3639/4144/3639-4144-4ec60a92e2f7936a98cddda07392f7bf-1538x678.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": true
  },
  {
   "id": "455da308ff3c",
@@ -1021,6 +1040,24 @@
   "image": "https://www.dailysunny.com/wp-content/uploads/2026/10/01-1.jpg",
   "categories": [
    "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "24b34471a1e2",
+  "title": "トレカプロ、古物商許可を取得。ポケカの買取と鑑定を自社でも手がける体制へ、海外展開も視野に",
+  "url": "https://news.nicovideo.jp/watch/nw19935514?news_ref",
+  "source": "ニコニコニュース",
+  "summary": "",
+  "publishedAt": "2026-10-29T15:51:31.000Z",
+  "image": "",
+  "categories": [
+   "market"
   ],
   "series": [
    "tcg"

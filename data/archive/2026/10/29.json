@@ -349,6 +349,27 @@
   "isPR": false
  },
  {
+  "id": "15e82425a326",
+  "title": "『ポケカ』新拡張パック「ハドウシーカー」がAmazonで抽選販売！1BOX（30パック入り）が対象",
+  "url": "https://article.auone.jp/650753a6-b2cd-48bb-9973-b6c8b13521fd",
+  "source": "au Webポータル",
+  "summary": "『ポケモンカードゲーム』新拡張パック「ハドウシーカー」が11月27日に発売！Amazonで抽選販売がスタート。",
+  "publishedAt": "2026-10-29T06:37:44.000Z",
+  "image": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/29/https___news_jp_i_1488427059475071467_w640.webp",
+  "categories": [
+   "lottery",
+   "release"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [
+   "amazon"
+  ],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "aedb8bf8ab9c",
   "title": "『Pokémon Trading Card Game Pocket』新拡張パック「デュアルフュージョン」登場！",
   "url": "https://gamewith.jp/gamedb/10785/articles/65075",
@@ -363,27 +384,6 @@
    "pocket"
   ],
   "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "15e82425a326",
-  "title": "『ポケカ』新拡張パック「ハドウシーカー」がAmazonで抽選販売！1BOX（30パック入り）が対象",
-  "url": "https://www.inside-games.jp/article/2026/10/29/190029.html",
-  "source": "インサイド",
-  "summary": "『ポケモンカードゲーム』新拡張パック「ハドウシーカー」が11月27日に発売！Amazonで抽選販売がスタート。",
-  "publishedAt": "2026-10-29T06:15:03.000Z",
-  "image": "https://www.inside-games.jp/imgs/ogp_f/1800800.webp",
-  "categories": [
-   "lottery",
-   "release"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [
-   "amazon"
-  ],
   "isOfficial": false,
   "isPR": false
  },

@@ -1,5 +1,42 @@
 [
  {
+  "id": "837a8103c539",
+  "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【10/31更新】 | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/33599/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-01T04:01:15.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/b82bd0a8-5400-450a-9b78-af65dc6f5e0c.png",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "7ce29a27e667",
+  "title": "【ポケカ】MEGAドリームexの当たりランキング/買取相場/封入率/レア別相場/値段まとめ",
+  "url": "https://snkrdunk.com/articles/29152/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-01T00:42:38.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/20251127061052-0.jpeg",
+  "categories": [
+   "market",
+   "reveal"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "4206076203a1",
   "title": "【ポケカ】パラダイムトリガーの当たりランキングと買取価格・相場一覧まとめ",
   "url": "https://snkrdunk.com/articles/14275/",
@@ -57,6 +94,25 @@
   "isPR": false
  },
  {
+  "id": "749319f22179",
+  "title": "【ポケポケ】復刻プロモドロップイベント2026の攻略【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/586200",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-31T18:38:15.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586200.jpg?date=1793356006",
+  "categories": [
+   "event",
+   "promo"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "4e36acf398d9",
   "title": "【ポケポケ】2周年記念キャンペーンまとめ【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/586175",
@@ -93,6 +149,24 @@
   "isPR": false
  },
  {
+  "id": "3c3c48fe263e",
+  "title": "【ポケポケ】デュアルフュージョンのガチャシミュレーター【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/586020",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-10-31T17:32:46.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586020.png?date=1793263361",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "bc627621f846",
   "title": "【ポケポケ】「デュアルフュージョン」はどっちがおすすめ？【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/585949",
@@ -111,18 +185,19 @@
   "isPR": false
  },
  {
-  "id": "837a8103c539",
-  "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【10/31更新】 | スニーカーダンク",
-  "url": "https://snkrdunk.com/articles/33599/",
-  "source": "SNKRDUNK",
+  "id": "879408ecf506",
+  "title": "【ポケポケ】ピカピカ!ピカチュウミッションイベントの一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/583527",
+  "source": "GameWith",
   "summary": "",
-  "publishedAt": "2026-10-31T16:47:35.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/b82bd0a8-5400-450a-9b78-af65dc6f5e0c.png",
+  "publishedAt": "2026-10-31T16:47:31.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583527.jpg?date=1792638077",
   "categories": [
-   "lottery"
+   "deck",
+   "event"
   ],
   "series": [
-   "tcg"
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
