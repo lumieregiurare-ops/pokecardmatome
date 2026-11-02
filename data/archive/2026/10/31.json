@@ -660,11 +660,11 @@
  {
   "id": "dc1b32b1c336",
   "title": "ポケカ30周年で見えた世代交代。親が監督、子どもが選手になる時代へ",
-  "url": "https://news.infoseek.co.jp/article/mynavi_3242153/",
-  "source": "Infoseek",
+  "url": "https://news.mynavi.jp/article/20261031-5224243/",
+  "source": "マイナビニュース",
   "summary": "",
   "publishedAt": "2026-10-31T08:10:14.000Z",
-  "image": "https://media.image.infoseek.co.jp/isnews/photos/mynavi/mynavi_3242153_0-enlarge.jpg",
+  "image": "https://news.mynavi.jp/article/20261031-5224243/ogp_images/ogp.jpg",
   "categories": [
    "other"
   ],
@@ -910,6 +910,24 @@
   ],
   "series": [
    "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "6fdab70b8807",
+  "title": "ポケカボックス買取価格表｜未開封BOXの相場と損せず売れる店",
+  "url": "https://charagoo.jp/pokemoncard-box-buyback/",
+  "source": "キャラグー",
+  "summary": "",
+  "publishedAt": "2026-10-31T03:05:21.000Z",
+  "image": "",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
   ],
   "stores": [],
   "isOfficial": false,
@@ -1162,6 +1180,25 @@
   "publishedAt": "2026-10-30T23:00:00.000Z",
   "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261031-02539558-wwdjapan-000-1-view.jpg?exp=10800",
   "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "2030093fe512",
+  "title": "ポケカ30周年の当たりランキング｜1位はミュウRGB、封入率と買取価格",
+  "url": "https://charagoo.jp/pokemoncard-30thanniversary-winning/",
+  "source": "キャラグー",
+  "summary": "",
+  "publishedAt": "2026-10-30T22:45:47.000Z",
+  "image": "",
+  "categories": [
+   "reveal",
    "market"
   ],
   "series": [
