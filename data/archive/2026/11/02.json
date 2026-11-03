@@ -18,6 +18,25 @@
   "isPR": false
  },
  {
+  "id": "879408ecf506",
+  "title": "【ポケポケ】ピカピカ!ピカチュウミッションイベントの一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/583527",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-02T14:40:13.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583527.jpg?date=1792638077",
+  "categories": [
+   "deck",
+   "event"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "fac512499116",
   "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【11/2更新】",
   "url": "https://snkrdunk.com/articles/33304/",
@@ -150,6 +169,24 @@
   "isPR": false
  },
  {
+  "id": "95676cbdfdb3",
+  "title": "デッキ表示デッキを保存 | ポケカ公式",
+  "url": "https://www.pokemon-card.com/deck/result.html/deckID/nQnggL-z3bQIk-LnL9L9/",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-02T11:50:45.000Z",
+  "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/nQnggL-z3bQIk-LnL9L9.png?v=1998061658402",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "4e5892290d24",
   "title": "【11月2日更新】ポケモンカード抽選情報まとめ2026｜最新の予約・再販・倍率・当選の注意点まとめ",
   "url": "https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/pokemon-card-lottery-information-2026/blt9aa2212834fd35bf",
@@ -163,6 +200,60 @@
   ],
   "series": [
    "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "dfb68e54f3ea",
+  "title": "【ポケポケ】カラマネロデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/560181",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-02T10:14:31.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560181.png?date=1778055956",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "9c5bf50fa91e",
+  "title": "【ポケポケ】メガヘルガーexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/572654",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-02T10:14:30.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/572654.png?date=1786676147",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "62c9d5f138cb",
+  "title": "【ポケポケ】メガガブリアスexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/582954",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-02T10:14:28.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/582954.png?date=1792066964",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
@@ -473,6 +564,24 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "34f99ca4b64d",
+  "title": "【26/11】ポケモンカードジム トレーナーズリーグ（オープンリーグ）",
+  "url": "https://players.pokemon-card.com/event/detail/1188614/1/19979/20261122/1989079",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-11-02T04:55:31.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
