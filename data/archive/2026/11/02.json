@@ -459,6 +459,24 @@
   "isPR": false
  },
  {
+  "id": "c1a71ecdbf35",
+  "title": "ポケカ世界一 岡山県勢５人が挑む ２８～３０日 米サンフランシスコ",
+  "url": "https://www.sanyonews.jp/article/1973308",
+  "source": "山陽新聞",
+  "summary": "",
+  "publishedAt": "2026-11-02T08:00:00.000Z",
+  "image": "https://static.sanyonews.jp/image/article/size1/6/f/0/b/6f0b817e2dffda5afc3fb13e86f545f5_2.jpg",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "1bf320e8cbdf",
   "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【11/2更新】 | スニーカーダンク",
   "url": "https://snkrdunk.com/articles/33599/",
@@ -770,11 +788,11 @@
  {
   "id": "95676cbdfdb3",
   "title": "デッキ表示デッキを保存 | ポケカ公式",
-  "url": "https://www.pokemon-card.com/deck/result.html/deckID/Gxc8x8-LY8L8Q-GY4xcx/",
+  "url": "https://www.pokemon-card.com/deck/result.html/deckID/UMpRMy-qrM2pc-2XMMSp/",
   "source": "ポケモンカードゲーム トレーナーズウェブサイト",
   "summary": "",
-  "publishedAt": "2026-11-01T17:47:04.000Z",
-  "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/Gxc8x8-LY8L8Q-GY4xcx.png?v=1998061658402",
+  "publishedAt": "2026-11-01T17:47:05.000Z",
+  "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/UMpRMy-qrM2pc-2XMMSp.png?v=1998061658402",
   "categories": [
    "deck"
   ],
