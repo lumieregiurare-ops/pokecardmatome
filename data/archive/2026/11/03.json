@@ -1,5 +1,23 @@
 [
  {
+  "id": "28bbf5e7e105",
+  "title": "【ポケポケ】ランクマッチの環境デッキと相性表|B4bSPシーズン【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/583795",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-03T14:54:07.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583795.png?date=1792654567",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "13d897ffaed4",
   "title": "【ポケポケ】新パック「デュアルフュージョン」の収録カードと当たりカード一覧【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/583349",
@@ -29,6 +47,24 @@
   "categories": [
    "deck",
    "event"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "e81a9303e1f6",
+  "title": "【ポケポケ】デュアルフュージョンの所持率チェッカー【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/585955",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-03T12:53:04.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585955.png?date=1793253810",
+  "categories": [
+   "other"
   ],
   "series": [
    "pocket"
@@ -101,6 +137,24 @@
   "summary": "",
   "publishedAt": "2026-11-03T10:24:26.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/572654.png?date=1786676147",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "991633044134",
+  "title": "【ポケポケ】セグレイブ&スイクンexデッキのレシピと評価・対策【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/546871",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-03T10:22:36.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/546871.png?date=1772438035",
   "categories": [
    "deck"
   ],
@@ -510,6 +564,24 @@
   "isPR": false
  },
  {
+  "id": "6e833ace7668",
+  "title": "カード詳細（ミジュマル） | ポケカ公式",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50799",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-03T01:47:57.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "83b07b71a705",
   "title": "シティリーグ2027 シーズン1 オープンリーグ",
   "url": "https://players.pokemon-card.com/event/detail/1115097/result",
@@ -519,6 +591,24 @@
   "image": "",
   "categories": [
    "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "769e008bb4f7",
+  "title": "デッキを表示 | ポケカ公式 デッキコード=VFkFbf-6pwAYP-VkFFbd",
+  "url": "https://www.pokemon-card.com/deck/confirm.html/deckID/VFkFbf-6pwAYP-VkFFbd/",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-03T01:28:59.000Z",
+  "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/VFkFbf-6pwAYP-VkFFbd.png?v=1998061658402",
+  "categories": [
+   "deck"
   ],
   "series": [
    "tcg"
@@ -708,6 +798,24 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "53e965376913",
+  "title": "【26/11】ポケモンカードジム ジムバトル",
+  "url": "https://players.pokemon-card.com/event/detail/1189804/1/12223/20261123/2000646",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-11-02T20:42:43.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {

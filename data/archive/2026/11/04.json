@@ -1,5 +1,77 @@
 [
  {
+  "id": "385dd71bc18e",
+  "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【11/3更新】 | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/33599/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-03T23:57:27.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/b82bd0a8-5400-450a-9b78-af65dc6f5e0c.png",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "1746de9fa311",
+  "title": "ポケモンカードをサブスクで手軽に 高崎にトレカゲーム専門店オープン",
+  "url": "https://kitakan-navi.jp/archives/254558",
+  "source": "きたかんナビ",
+  "summary": "",
+  "publishedAt": "2026-11-03T23:06:05.000Z",
+  "image": "https://kitakan-navi.jp/wp-content/uploads/2026/10/s-img_62e0149f0d1fa169c1fe4435c36f23f54977086.jpg",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "d37d77bd7a60",
+  "title": "大量に捨てられたポケモンカード ゴミ袋が山積みになり、30周年記念セットまで…「お金を払って買っている人もいるというのに」",
+  "url": "https://news.yahoo.co.jp/articles/5d1879f42fc5d5c84b7ab68e5377ef84e00a3642",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-03T23:00:19.000Z",
+  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261104-11804550-maidonans-000-42938912-view.jpg?exp=10800",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "66af05db0017",
+  "title": "『ポケポケ』サービス開始2周年。拡張パックがリリースされ続け、“デュアルタイプ”登場で新たなバトル体験が楽しめるようになった【今日は何の日？】",
+  "url": "https://www.famitsu.com/article/images/202610/91363/905224",
+  "source": "ファミ通",
+  "summary": "",
+  "publishedAt": "2026-11-03T21:30:25.000Z",
+  "image": "https://cimg.kgl-systems.io/camion/files/famitsu/91363/ad9b6f4554ead74cebd62effb6a671a52.png?x=1280",
+  "categories": [
+   "release"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "fac512499116",
   "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【11/3更新】",
   "url": "https://snkrdunk.com/articles/33304/",
@@ -37,6 +109,61 @@
   "isPR": false
  },
  {
+  "id": "64e7f18c8505",
+  "title": "【写真・画像】ポケポケ新パック『デュアルフュージョン』収録カード公開で「メガミュウツーXex」など | | オリコンニュース",
+  "url": "https://www.saga-s.co.jp/articles/gallery/1819708?ph",
+  "source": "佐賀新聞",
+  "summary": "",
+  "publishedAt": "2026-11-03T19:01:03.000Z",
+  "image": "https://saga.ismcdn.jp/mwimgs/e/4/1200m/img_e4e5d1bc82c22f4b79be1f69a078708c79595.jpg",
+  "categories": [
+   "reveal",
+   "release"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "bc627621f846",
+  "title": "【ポケポケ】「デュアルフュージョン」はどっちがおすすめ？【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/585949",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-03T18:33:22.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585949.png?date=1793263680",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "4e36acf398d9",
+  "title": "【ポケポケ】2周年記念キャンペーンまとめ【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/586175",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-03T18:11:15.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586175.jpg?date=1793344472",
+  "categories": [
+   "promo"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "4e458e1e26dc",
   "title": "ポケカ30周年記念キャンペーン | スニーカーダンク",
   "url": "https://snkrdunk.com/lp/pokemoncard-30th?ref",
@@ -46,24 +173,6 @@
   "image": "https://snkrdunk.com/lp/_next/static/media/ogp.6d827266.webp",
   "categories": [
    "promo"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "385dd71bc18e",
-  "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【11/3更新】 | スニーカーダンク",
-  "url": "https://snkrdunk.com/articles/33599/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-11-03T15:44:22.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/b82bd0a8-5400-450a-9b78-af65dc6f5e0c.png",
-  "categories": [
-   "lottery"
   ],
   "series": [
    "tcg"
