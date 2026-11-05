@@ -1,5 +1,152 @@
 [
  {
+  "id": "0d90f8cd6a26",
+  "title": "【JA共済連秋田プレゼンツ わくわく！！スポーツパーク】ポケカミニゲーム/体験会を実施",
+  "url": "https://prtimes.jp/main/html/rd/p/000000024.000177148.html",
+  "source": "PR TIMES",
+  "summary": "[株式会社マルチプル] 株式会社マルチプル(https://multiple.ltd/)は、2026年10月18日に秋田県の秋田テルサで開催された「JA共済連秋田プレゼンツ わくわく！！スポーツパーク」にポケモンカードの体験型ブースを出展いたしました。 ...",
+  "publishedAt": "2026-11-05T09:15:20.000Z",
+  "image": "https://prcdn.freetls.fastly.net/release_image/177148/24/177148-24-ad5b14e082c9e7b7bf4bc9e7251e48f3-2028x1521.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": true
+ },
+ {
+  "id": "6f2999740e4d",
+  "title": "『ポケモンカードゲーム MEGA 拡張パック ストームエメラルダ』11/10再抽選販売のお知らせ / 大阪日本橋店の店舗ブログ",
+  "url": "https://www.c-labo.jp/shop/nipponbashi/blog/623793/",
+  "source": "カードラボ",
+  "summary": "",
+  "publishedAt": "2026-11-05T08:48:51.000Z",
+  "image": "",
+  "categories": [
+   "lottery",
+   "release"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [
+   "cardshop"
+  ],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "fac512499116",
+  "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【11/4更新】",
+  "url": "https://snkrdunk.com/articles/33304/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-05T07:29:43.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/9e96f1c2-b6a6-4392-882d-c6596faff947.jpeg",
+  "categories": [
+   "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "4e40f6dc7429",
+  "title": "フィッシャーズ・シルクロード、堀大輔氏とのポケカ動画を即日非公開 「共演自体が嫌」の声も",
+  "url": "https://coki.jp/article/column/97161/",
+  "source": "coki",
+  "summary": "",
+  "publishedAt": "2026-11-05T06:46:45.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "4e622f8b1a0a",
+  "title": "【ポケポケ】メガヘラクロスexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/560534",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-05T01:09:36.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560534.png?date=1778587271",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "9e83b57871d6",
+  "title": "【ポケポケ】ソウブレイズexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/563838",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-05T01:09:36.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563838.png?date=1781351800",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "991633044134",
+  "title": "【ポケポケ】セグレイブ&スイクンexデッキのレシピと評価・対策【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/546871",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-05T01:07:34.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/546871.png?date=1772438035",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "e5345bc0d117",
+  "title": "【ポケポケ】メガライボルトexデッキのレシピと評価・対策【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/551307",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-05T01:07:33.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/551307.png?date=1774496570",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "2e6793514710",
   "title": "【ポケポケ】メガエルレイドexデッキのレシピと評価【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/570621",
@@ -54,6 +201,42 @@
   "isPR": false
  },
  {
+  "id": "f0f41f4a19db",
+  "title": "【ポケポケ】ルガルガンexデッキ(デュアルフュージョン)のレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/586074",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-05T01:06:58.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586074.png?date=1793283652",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "3d32415add9d",
+  "title": "【ポケポケ】ミュウexデッキ(デュアルフュージョン)のレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/586075",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-05T01:06:58.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586075.png?date=1793283628",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "5ebbbec1eed8",
   "title": "【ポケポケ】ギラティナexデッキ(デュアルフュージョン)のレシピと評価【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/586070",
@@ -81,24 +264,6 @@
   "image": "https://cdn.snkrdunk.com/uploads/media/b82bd0a8-5400-450a-9b78-af65dc6f5e0c.png",
   "categories": [
    "lottery"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "fac512499116",
-  "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【11/4更新】",
-  "url": "https://snkrdunk.com/articles/33304/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-11-04T23:47:13.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/9e96f1c2-b6a6-4392-882d-c6596faff947.jpeg",
-  "categories": [
-   "restock"
   ],
   "series": [
    "tcg"
@@ -154,6 +319,25 @@
   "categories": [
    "event",
    "promo"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "4264613ead10",
+  "title": "【ポケポケ】波動ビートの当たりカードと収録カード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/558029",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-04T17:59:14.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/558029.png?date=1776951553",
+  "categories": [
+   "reveal",
+   "deck"
   ],
   "series": [
    "pocket"
