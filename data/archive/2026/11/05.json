@@ -76,6 +76,25 @@
   "isPR": false
  },
  {
+  "id": "b66f414d563a",
+  "title": "【ポケカ】エーフィex SAR仕様の買取・相場価格と値段推移｜30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
+  "url": "https://snkrdunk.com/articles/32484/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-05T13:36:39.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/36f42531-f6c6-4477-b822-b15cccc7a576.jpeg",
+  "categories": [
+   "market",
+   "release"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "bc627621f846",
   "title": "【ポケポケ】「デュアルフュージョン」はどっちがおすすめ？【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/585949",
@@ -184,6 +203,24 @@
   "stores": [
    "amazon"
   ],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "9c5bf50fa91e",
+  "title": "【ポケポケ】メガヘルガーexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/572654",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-05T09:32:47.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/572654.png?date=1786676147",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
   "isOfficial": false,
   "isPR": false
  },
