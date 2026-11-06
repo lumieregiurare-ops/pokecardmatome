@@ -37,6 +37,25 @@
   "isPR": false
  },
  {
+  "id": "44f4f43622f8",
+  "title": "【ポケポケ】ハイクラスパックMEGA(メガ)の収録カードと当たりカード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/578648",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-06T13:06:07.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/578648.png?date=1790261909",
+  "categories": [
+   "reveal",
+   "release"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "4e36acf398d9",
   "title": "【ポケポケ】2周年記念キャンペーンまとめ【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/586175",
@@ -102,6 +121,24 @@
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585949.png?date=1793263680",
   "categories": [
    "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "3c3c48fe263e",
+  "title": "【ポケポケ】デュアルフュージョンのガチャシミュレーター【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/586020",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-06T11:55:24.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586020.png?date=1793263361",
+  "categories": [
+   "other"
   ],
   "series": [
    "pocket"
@@ -385,9 +422,27 @@
   "isPR": false
  },
  {
+  "id": "5847916b54a9",
+  "title": "ポケモンカード来年5月から再び値上げ 「拡張パック」200円→230円に変更 | ORICON NEWS | 国内海外のニュース",
+  "url": "https://373news.com/news/national/oricon/detail/2491223",
+  "source": "南日本新聞",
+  "summary": "",
+  "publishedAt": "2026-11-06T06:21:05.000Z",
+  "image": "https://373news.com/_news/oricon/photo/main/20260130_151506_size640wh_44208017.jpg",
+  "categories": [
+   "release"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "33089ed9707b",
   "title": "ポケモンカード来年5月から再び値上げ 「拡張パック」200円→230円に変更",
-  "url": "https://www.oricon.co.jp/news/2491223/full/",
+  "url": "https://www.oricon.co.jp/news/2491223/",
   "source": "オリコンニュース",
   "summary": "",
   "publishedAt": "2026-11-06T06:21:00.000Z",
