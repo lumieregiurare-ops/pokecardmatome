@@ -149,24 +149,6 @@
   "isPR": false
  },
  {
-  "id": "8890f6584d01",
-  "title": "【ポケカ】FUTURISTIC BOXの買取・相場価格と値段推移｜30th CELEBRATION",
-  "url": "https://snkrdunk.com/articles/33089/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-11-04T11:18:33.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/4f6bd714-e455-4d67-a1f5-6401f206cfe8.jpeg",
-  "categories": [
-   "market"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "991633044134",
   "title": "【ポケポケ】セグレイブ&スイクンexデッキのレシピと評価・対策【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/546871",
@@ -428,6 +410,24 @@
   "image": "https://cdn.snkrdunk.com/uploads/media/20231130021213-0.jpeg",
   "categories": [
    "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "8890f6584d01",
+  "title": "【ポケカ】FUTURISTIC BOXの買取・相場価格と値段推移｜30th CELEBRATION",
+  "url": "https://snkrdunk.com/articles/33089/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-04T08:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/4f6bd714-e455-4d67-a1f5-6401f206cfe8.jpeg",
+  "categories": [
+   "market"
   ],
   "series": [
    "tcg"
