@@ -1,17 +1,365 @@
 [
  {
+  "id": "c1fe0a2f9496",
+  "title": "【ポケポケ】ダークライデッキ(Sメガ)のレシピと評価・対策【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/551442",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-06T09:36:54.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/551442.png?date=1774526836",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "5ebbbec1eed8",
   "title": "【ポケポケ】ギラティナexデッキ(デュアルフュージョン)のレシピと評価【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/586070",
   "source": "GameWith",
   "summary": "",
-  "publishedAt": "2026-11-06T01:49:53.000Z",
+  "publishedAt": "2026-11-06T09:36:21.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586070.png?date=1793283607",
   "categories": [
    "deck"
   ],
   "series": [
    "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "b2f4999eb03b",
+  "title": "『川崎ラーメン祭2026秋』にてポケカミニゲーム/体験会を実施",
+  "url": "https://mainichikirei.jp/prtimes/article/20261106prt00m100000925a.html",
+  "source": "毎日キレイ",
+  "summary": "",
+  "publishedAt": "2026-11-06T09:00:00.000Z",
+  "image": "https://prtimes.jp/img/177148/25/resize/d177148-25-6e95f571410b2e8eae00-2.jpg",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "b6711e3a87a8",
+  "title": "【ポケカ】拡張パック『ハドウシーカー』カードリスト【メガルカリオZex】",
+  "url": "https://pokeca-pocket.dbfw-days.com/hadou-cardlist/",
+  "source": "ポケカポケット開封日記",
+  "summary": "",
+  "publishedAt": "2026-11-06T08:22:51.000Z",
+  "image": "https://pokeca-pocket.dbfw-days.com/wp-content/uploads/2026/10/IMG_0633.jpeg",
+  "categories": [
+   "release",
+   "reveal"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "274a6d41fce2",
+  "title": "「チャンピオンズリーグ2027 千葉」サイドイベントについてニュース詳細 | ポケカ公式",
+  "url": "https://www.pokemon-card.com/info/005752.html",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-06T07:32:26.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "30390e182b5a",
+  "title": "「北斗の拳」原哲夫先生が『ポケカ』のマキシを描く！新パック収録の「千手の残像拳！」なSARイラストが迫力満点",
+  "url": "https://www.inside-games.jp/article/2026/11/06/190458.html",
+  "source": "インサイド",
+  "summary": "『ポケモンカードゲーム』新拡張パック「ハドウシーカー」に収録される「マキシの熱血」のSARイラストを、「北斗の拳」で知られる原哲夫先生が担当！",
+  "publishedAt": "2026-11-06T07:15:03.000Z",
+  "image": "https://www.inside-games.jp/imgs/rss/1804266.jpg",
+  "categories": [
+   "release",
+   "reveal"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "64127675460c",
+  "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【11/6更新】",
+  "url": "https://snkrdunk.com/articles/33599/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-06T07:14:38.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/b82bd0a8-5400-450a-9b78-af65dc6f5e0c.png",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "014c71cba59f",
+  "title": "【ポケポケ】デュアルフュージョンエンブレムイベントの攻略【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/587011",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-06T06:26:51.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587011.jpg?date=1793946411",
+  "categories": [
+   "event",
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "33089ed9707b",
+  "title": "ポケモンカード来年5月から再び値上げ 「拡張パック」200円→230円に変更（オリコン）",
+  "url": "https://news.yahoo.co.jp/articles/ed1285c6006e2fdaf0eec6aba77e6aa25fdf3ec6",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-06T06:21:05.000Z",
+  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261106-00000467-oric-000-2-view.jpg?exp=10800",
+  "categories": [
+   "release"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "488b8f73add0",
+  "title": "【ポケカ】「北斗の拳」原哲夫氏の描き下ろし！ 新パック「ハドウシーカー」収録の「マキシの熱血」イラストが公開",
+  "url": "https://game.watch.impress.co.jp/docs/news/2154372.html",
+  "source": "GAME Watch",
+  "summary": "ポケモンは11月27日に発売を予定している「ポケモンカードゲーム MEGA 拡張パック ハドウシーカー」に収録されるカードのイラストを公開した。",
+  "publishedAt": "2026-11-06T06:20:07.000Z",
+  "image": "https://game.watch.impress.co.jp/img/gmw/list/2154/372/1.jpg",
+  "categories": [
+   "release"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "fadd65d24006",
+  "title": "「ポケモンカードゲーム MEGA」拡張パック「ハドウシーカー」に「北斗の拳」の原哲夫先生描き下ろしによる「マキシの熱血」SARが登場！",
+  "url": "https://www.gamer.ne.jp/news/202611060021/",
+  "source": "Gamer",
+  "summary": "",
+  "publishedAt": "2026-11-06T06:03:00.000Z",
+  "image": "",
+  "categories": [
+   "release",
+   "reveal"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "6fd3be87fec0",
+  "title": "【ポケポケ】いちげきウーラオスデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/559125",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-06T05:37:55.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559125.png?date=1777530420",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "6bdf0e2fef54",
+  "title": "【ポケポケ】ミライドンexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/562111",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-06T05:37:54.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/562111.png?date=1779946633",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "01e6f654bf7f",
+  "title": "【ポケポケ】デデンネexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/565897",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-06T05:37:48.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/565897.png?date=1782796902",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "9d9ac9309c31",
+  "title": "【ポケポケ】ヒスイゾロアークexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/565900",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-06T05:37:47.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/565900.png?date=1782796970",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "f0f41f4a19db",
+  "title": "【ポケポケ】ルガルガンexデッキ(デュアルフュージョン)のレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/586074",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-06T05:37:31.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586074.png?date=1793283652",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "fce67ae3ffa4",
+  "title": "一部商品価格改定のお知らせニュース詳細 | ポケカ公式",
+  "url": "https://www.pokemon-card.com/info/005755.html",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-06T05:29:54.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "9a733cfb32b2",
+  "title": "「ポケモンジャパンチャンピオンシップス2027」の優先出場権についてニュース詳細 | ポケカ公式",
+  "url": "https://www.pokemon-card.com/info/005754.html",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-06T05:11:50.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "ea17bb23d733",
+  "title": "【本日初公開】大迫力のフルイラストのカードや個性的なカードが登場！？【ポケカ/ハドウシーカー】",
+  "url": "https://www.youtube.com/watch?v=rhPKn4dQTxo",
+  "source": "ポケモンカードチャンネル",
+  "summary": "11月27日（金）発売の拡張パック「ハドウシーカー」から新情報が公開されたよ～！ な・な・なんと！大迫力のカードが登場しちゃってます✨ ＜ポケモンカードゲームの最新情報や対戦動画などをUPします！＞ チャンネル登録よろしくね☆ミ https://www.youtube.com/@PokecaCH ▼この動画の関連動画…",
+  "publishedAt": "2026-11-06T05:00:28.000Z",
+  "image": "https://i3.ytimg.com/vi/rhPKn4dQTxo/hqdefault.jpg",
+  "categories": [
+   "release",
+   "reveal"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "c774ac346a44",
+  "title": "【ポケカ】ハドウシーカーの当たりランキング/買取相場/カードリスト/封入率/予約抽選/値段まとめ【2026年11月27日発売】",
+  "url": "https://snkrdunk.com/articles/31684/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-06T05:00:25.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/7f277c58-b2ec-4b03-908c-804cbb735fee.jpeg",
+  "categories": [
+   "reveal",
+   "market"
+  ],
+  "series": [
+   "tcg"
   ],
   "stores": [],
   "isOfficial": false,
@@ -73,6 +421,133 @@
   "isPR": false
  },
  {
+  "id": "f09f00c6b1a3",
+  "title": "原哲夫先生がイラストを描き下ろした「マキシの熱血」のSARが登場、登場を記念した原先生のインタビューを掲載！",
+  "url": "https://www.pokemon-card.com/info/005726.html",
+  "source": "ポケモンカードゲーム公式",
+  "summary": "",
+  "publishedAt": "2026-11-06T01:00:00.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "reveal"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "c36ce43f1454",
+  "title": "「チャンピオンズリーグ2027 千葉」サイドイベントについて",
+  "url": "https://www.pokemon-card.com/info/005752.html",
+  "source": "ポケモンカードゲーム公式",
+  "summary": "",
+  "publishedAt": "2026-11-06T01:00:00.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "fa078b404c39",
+  "title": "2026年度ポケモンカードゲーム資格試験の実施について",
+  "url": "https://www.pokemon-card.com/info/005753.html",
+  "source": "ポケモンカードゲーム公式",
+  "summary": "",
+  "publishedAt": "2026-11-06T01:00:00.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "5ba0cce1fe3d",
+  "title": "「ポケモンジャパンチャンピオンシップス2027」の優先出場権について",
+  "url": "https://www.pokemon-card.com/info/005754.html",
+  "source": "ポケモンカードゲーム公式",
+  "summary": "",
+  "publishedAt": "2026-11-06T01:00:00.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "5b58508693bd",
+  "title": "「ポケモンワールドチャンピオンシップス2027」カードゲーム部門の出場権について",
+  "url": "https://www.pokemon-card.com/info/005739.html",
+  "source": "ポケモンカードゲーム公式",
+  "summary": "",
+  "publishedAt": "2026-11-06T01:00:00.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "global"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "f0764be8e798",
+  "title": "一部商品価格改定のお知らせ",
+  "url": "https://www.pokemon-card.com/info/005755.html",
+  "source": "ポケモンカードゲーム公式",
+  "summary": "",
+  "publishedAt": "2026-11-06T01:00:00.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "05d55d37590f",
+  "title": "ポケモンカードゲームのキャンペーンを装ったフィッシング（詐欺）メールにご注意ください",
+  "url": "https://www.pokemon-card.com/info/005756.html",
+  "source": "ポケモンカードゲーム公式",
+  "summary": "",
+  "publishedAt": "2026-11-06T01:00:00.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "promo",
+   "caution"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "0d90f8cd6a26",
   "title": "【JA共済連秋田プレゼンツ わくわく！！スポーツパーク】ポケカミニゲーム/体験会を実施",
   "url": "https://news.nicovideo.jp/watch/nw19961891?news_ref",
@@ -85,6 +560,42 @@
   ],
   "series": [
    "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "e114ed9657b9",
+  "title": "カード詳細（ゴビット） | ポケカ公式",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50778",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-05T20:30:23.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "28bbf5e7e105",
+  "title": "【ポケポケ】ランクマッチの環境デッキと相性表|B4bSPシーズン【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/583795",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-05T19:02:16.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583795.png?date=1792654567",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,

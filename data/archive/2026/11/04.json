@@ -37,6 +37,24 @@
   "isPR": false
  },
  {
+  "id": "c491731a488d",
+  "title": "デッキを表示 | ポケカ公式 デッキコード=kVk5kb-hruroa-kFFkVF",
+  "url": "https://www.pokemon-card.com/deck/confirm.html/deckID/kVk5kb-hruroa-kFFkVF/",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-04T13:43:52.000Z",
+  "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/kVk5kb-hruroa-kFFkVF.png?v=1998061658402",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "7f6b17661666",
   "title": "ふるいち八潮中央店、11月5日オープン！4日間の記念セールとポケカ抽選販売を案内",
   "url": "https://yashion.jp/news/46573",
@@ -437,6 +455,26 @@
   "isPR": false
  },
  {
+  "id": "f85759de7cb7",
+  "title": "【買取情報】ポケモンカードゲーム 買取情報 カードラボ津田沼店 1104 / 津田沼店の店舗ブログ",
+  "url": "https://www.c-labo.jp/blog/581202/",
+  "source": "カードラボ",
+  "summary": "",
+  "publishedAt": "2026-11-04T08:00:00.000Z",
+  "image": "https://www.c-labo.jp/wordpress/wp-content/uploads/2026/11/4c85c234076325c638e2c305400f29d6.jpg",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [
+   "cardshop"
+  ],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "01eef2d84448",
   "title": "【ポケカ】30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキーの収録カード・再販抽選情報まとめ",
   "url": "https://snkrdunk.com/articles/32464/",
@@ -542,26 +580,6 @@
    "tcg"
   ],
   "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "f85759de7cb7",
-  "title": "【買取情報】ポケモンカードゲーム 買取情報 カードラボ津田沼店 1104 / 津田沼店の店舗ブログ",
-  "url": "https://www.c-labo.jp/shop/tsudanuma/blog/581202/",
-  "source": "カードラボ",
-  "summary": "",
-  "publishedAt": "2026-11-04T04:30:26.000Z",
-  "image": "https://www.c-labo.jp/wordpress/wp-content/uploads/2026/11/4c85c234076325c638e2c305400f29d6.jpg",
-  "categories": [
-   "market"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [
-   "cardshop"
-  ],
   "isOfficial": false,
   "isPR": false
  },
