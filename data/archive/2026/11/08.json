@@ -5,13 +5,69 @@
   "url": "https://snkrdunk.com/articles/33304/",
   "source": "SNKRDUNK",
   "summary": "",
-  "publishedAt": "2026-11-07T15:15:53.000Z",
+  "publishedAt": "2026-11-07T21:08:21.000Z",
   "image": "https://cdn.snkrdunk.com/uploads/media/9e96f1c2-b6a6-4392-882d-c6596faff947.jpeg",
   "categories": [
    "restock"
   ],
   "series": [
    "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "df31c8624653",
+  "title": "【ポケカ】ブラッキーex SAR仕様の買取・相場価格と値段推移｜30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
+  "url": "https://snkrdunk.com/articles/32473/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-07T20:09:31.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/263ddb20-d0d3-494e-b042-4709524c6ce1.jpeg",
+  "categories": [
+   "market",
+   "release"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "bc627621f846",
+  "title": "【ポケポケ】「デュアルフュージョン」はどっちがおすすめ？【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/585949",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-07T17:41:03.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585949.png?date=1793263680",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "014c71cba59f",
+  "title": "【ポケポケ】デュアルフュージョンエンブレムイベントの攻略【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/587011",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-07T17:04:39.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587011.jpg?date=1793946411",
+  "categories": [
+   "event",
+   "deck"
+  ],
+  "series": [
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,

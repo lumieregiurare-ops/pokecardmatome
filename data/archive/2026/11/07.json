@@ -37,6 +37,25 @@
   "isPR": false
  },
  {
+  "id": "879408ecf506",
+  "title": "【ポケポケ】ピカピカ!ピカチュウミッションイベントの一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/583527",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-07T13:59:07.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583527.jpg?date=1792638077",
+  "categories": [
+   "deck",
+   "event"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "c774ac346a44",
   "title": "【ポケカ】ハドウシーカーの当たりランキング/買取相場/カードリスト/封入率/予約抽選/値段まとめ【2026年11月27日発売】",
   "url": "https://snkrdunk.com/articles/31684/",
@@ -184,24 +203,6 @@
   "isPR": false
  },
  {
-  "id": "64127675460c",
-  "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【11/6更新】 | スニーカーダンク",
-  "url": "https://snkrdunk.com/articles/33599/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-11-07T03:19:01.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/b82bd0a8-5400-450a-9b78-af65dc6f5e0c.png",
-  "categories": [
-   "lottery"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "ca2fe210e0c6",
   "title": "シティリーグ2027 シーズン1 シニアリーグ",
   "url": "https://players.pokemon-card.com/event/detail/1115474/result",
@@ -256,6 +257,24 @@
   "isPR": false
  },
  {
+  "id": "64127675460c",
+  "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【11/6更新】 | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/33599/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-06T21:59:56.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/b82bd0a8-5400-450a-9b78-af65dc6f5e0c.png",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "66af05db0017",
   "title": "『ポケポケ』サービス開始2周年。拡張パックがリリースされ続け、“デュアルタイプ”登場で新たなバトル体験が楽しめるようになった【今日は何の日？】 (ファミ通.com)",
   "url": "https://news.yahoo.co.jp/articles/ebafe7da2509e2afeef5067cd65f87186dd26e93/images/000",
@@ -287,25 +306,6 @@
   ],
   "series": [
    "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "879408ecf506",
-  "title": "【ポケポケ】ピカピカ!ピカチュウミッションイベントの一覧【ポケモンカードアプリ】",
-  "url": "https://gamewith.jp/pokemon-tcg-pocket/583527",
-  "source": "GameWith",
-  "summary": "",
-  "publishedAt": "2026-11-06T19:47:10.000Z",
-  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583527.jpg?date=1792638077",
-  "categories": [
-   "deck",
-   "event"
-  ],
-  "series": [
-   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
