@@ -74,6 +74,24 @@
   "isPR": false
  },
  {
+  "id": "606d27e62ebb",
+  "title": "【ポケポケ】イラスト違い・レアカード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/470612",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-06T12:47:22.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/470612.png?date=1730351403",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "13d897ffaed4",
   "title": "【ポケポケ】新パック「デュアルフュージョン」の収録カードと当たりカード一覧【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/583349",
@@ -294,11 +312,11 @@
  },
  {
   "id": "b2f4999eb03b",
-  "title": "『川崎ラーメン祭2026秋』にてポケカミニゲーム/体験会を実施",
-  "url": "https://news.infoseek.co.jp/article/prtimes_000000025_000177148/",
-  "source": "Infoseek",
+  "title": "『川崎ラーメン祭2026秋』にてポケカミニゲーム/体験会を実施（PR TIMES）",
+  "url": "https://mainichi.jp/articles/20261106/pr2/00m/020/979000c",
+  "source": "毎日新聞",
   "summary": "",
-  "publishedAt": "2026-11-06T09:00:00.000Z",
+  "publishedAt": "2026-11-06T09:23:04.000Z",
   "image": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
   "categories": [
    "event"
@@ -354,7 +372,7 @@
   "source": "インサイド",
   "summary": "『ポケモンカードゲーム』新拡張パック「ハドウシーカー」に収録される「マキシの熱血」のSARイラストを、「北斗の拳」で知られる原哲夫先生が担当！",
   "publishedAt": "2026-11-06T07:15:03.000Z",
-  "image": "https://www.inside-games.jp/imgs/rss/1804266.jpg",
+  "image": "https://www.inside-games.jp/imgs/ogp_f/1804266.jpg",
   "categories": [
    "release",
    "reveal"
