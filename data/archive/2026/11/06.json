@@ -424,7 +424,7 @@
   "url": "https://pokeca-pocket.dbfw-days.com/hadou-cardlist/",
   "source": "ポケカポケット開封日記",
   "summary": "",
-  "publishedAt": "2026-11-06T08:00:00.000Z",
+  "publishedAt": "2026-11-06T08:22:51.000Z",
   "image": "https://pokeca-pocket.dbfw-days.com/wp-content/uploads/2026/10/IMG_0633.jpeg",
   "categories": [
    "release",
@@ -777,6 +777,44 @@
   "categories": [
    "reveal",
    "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "92e56a80832a",
+  "title": "【ポケカ】拡張パック「ストームエメラルダ」のハイレアリティ収録カードや封入率まとめ",
+  "url": "https://cuberoomblog.com/pokeca-stormeemeralda-summary/",
+  "source": "CUBEの部屋",
+  "summary": "",
+  "publishedAt": "2026-11-06T01:19:50.000Z",
+  "image": "https://cuberoomblog.com/wp-content/uploads/2022/03/8d6ce55ae8906ee0c4e5afa9366b7d91.jpg",
+  "categories": [
+   "reveal",
+   "release"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "e21c15260d71",
+  "title": "【ポケカ】拡張パック「30th CELEBRATION」のハイレアリティ収録カードや封入率まとめ",
+  "url": "https://cuberoomblog.com/pokeca-30th-celebration-summary/",
+  "source": "CUBEの部屋",
+  "summary": "",
+  "publishedAt": "2026-11-06T01:19:31.000Z",
+  "image": "https://cuberoomblog.com/wp-content/uploads/2022/03/8d6ce55ae8906ee0c4e5afa9366b7d91.jpg",
+  "categories": [
+   "reveal",
+   "release"
   ],
   "series": [
    "tcg"
