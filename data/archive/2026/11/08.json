@@ -1,11 +1,65 @@
 [
  {
+  "id": "e6f52df49789",
+  "title": "ポケモンカードを「換金用の景品」にしていた違法賭博場が摘発される。ゲットしたカードで“ポケモン三店方式”",
+  "url": "https://automaton-media.com/articles/newsjp/20261108-478078/",
+  "source": "AUTOMATON",
+  "summary": "テキサス州当局は11月4日、賭博行為の疑いで地元の複数のゲームセンターを摘発した。摘発された店舗では、『ポケモンカードゲーム』のカードが景品として用いられていたという。",
+  "publishedAt": "2026-11-08T01:45:33.000Z",
+  "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261108-478078-header.jpg",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "7bee558a8476",
+  "title": "ポケカ購入のため6歳娘を深夜の行列に放置、父親が逮捕",
+  "url": "https://front-row.jp/_ct/133314/",
+  "source": "フロントロウ",
+  "summary": "",
+  "publishedAt": "2026-11-08T01:00:00.000Z",
+  "image": "https://front-row.jp/wp-content/uploads/2021/06/34b58c36a289b98b633545e79d2f1c0275c4ce8b_xlarge.jpg?type=original",
+  "categories": [
+   "caution"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "e48b7ca3ae39",
+  "title": "ポケカ新弾に原哲夫描き下ろし「マキシ」登場！迫真の肉体美と残像拳にネット騒然",
+  "url": "https://news.nicovideo.jp/watch/nw19968277?news_ref",
+  "source": "ニコニコニュース",
+  "summary": "",
+  "publishedAt": "2026-11-08T00:00:18.000Z",
+  "image": "",
+  "categories": [
+   "release"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "fac512499116",
   "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【11/7更新】",
   "url": "https://snkrdunk.com/articles/33304/",
   "source": "SNKRDUNK",
   "summary": "",
-  "publishedAt": "2026-11-07T21:08:21.000Z",
+  "publishedAt": "2026-11-07T22:50:27.000Z",
   "image": "https://cdn.snkrdunk.com/uploads/media/9e96f1c2-b6a6-4392-882d-c6596faff947.jpeg",
   "categories": [
    "restock"
@@ -31,6 +85,44 @@
   ],
   "series": [
    "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "13d897ffaed4",
+  "title": "【ポケポケ】新パック「デュアルフュージョン」の収録カードと当たりカード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/583349",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-07T19:14:16.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583349.png?date=1792503111",
+  "categories": [
+   "reveal",
+   "release"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "9dce866417ef",
+  "title": "【ポケポケ】復刻プロモゲットチャレンジイベント2026の攻略【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/586189",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-07T18:23:17.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586189.jpg?date=1793350698",
+  "categories": [
+   "event",
+   "promo"
+  ],
+  "series": [
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
@@ -64,6 +156,25 @@
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587011.jpg?date=1793946411",
   "categories": [
    "event",
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "4264613ead10",
+  "title": "【ポケポケ】波動ビートの当たりカードと収録カード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/558029",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-07T16:21:17.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/558029.png?date=1776951553",
+  "categories": [
+   "reveal",
    "deck"
   ],
   "series": [
