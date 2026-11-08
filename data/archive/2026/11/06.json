@@ -73,6 +73,24 @@
   "isPR": false
  },
  {
+  "id": "53096f1d272b",
+  "title": "『ポケモンカードゲーム』が30周年に殿堂入り！ 2026年「ナショナル・玩具の殿堂」発表、まさかの遊具も選出",
+  "url": "https://www.toy-people.com/jp/?p",
+  "source": "玩具人 TOY PEOPLE",
+  "summary": "",
+  "publishedAt": "2026-11-06T13:25:12.000Z",
+  "image": "https://www.toy-people.com/img/90_90_logo.gif",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "44f4f43622f8",
   "title": "【ポケポケ】ハイクラスパックMEGA(メガ)の収録カードと当たりカード一覧【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/578648",
@@ -196,6 +214,42 @@
   ],
   "series": [
    "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "53e965376913",
+  "title": "【26/11】ポケモンカードジム ジムバトル",
+  "url": "https://players.pokemon-card.com/event/detail/1185109/1/12223/20261118/2000650",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-11-06T11:32:53.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "ff2472285922",
+  "title": "原哲夫が描くポケモンカード「マキシの熱血」SAR公開 気づけば「千手の残像拳」に!?",
+  "url": "https://www.toy-people.com/jp/?p",
+  "source": "玩具人 TOY PEOPLE",
+  "summary": "",
+  "publishedAt": "2026-11-06T11:13:41.000Z",
+  "image": "https://www.toy-people.com/img/90_90_logo.gif",
+  "categories": [
+   "reveal"
+  ],
+  "series": [
+   "tcg"
   ],
   "stores": [],
   "isOfficial": false,
