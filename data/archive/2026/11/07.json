@@ -55,6 +55,24 @@
   "isPR": false
  },
  {
+  "id": "23ea2f840896",
+  "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【11/8更新】 | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/33599/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-07T14:08:33.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/b82bd0a8-5400-450a-9b78-af65dc6f5e0c.png",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "879408ecf506",
   "title": "【ポケポケ】ピカピカ!ピカチュウミッションイベントの一覧【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/583527",
@@ -87,6 +105,24 @@
   ],
   "series": [
    "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "f1031c9f3259",
+  "title": "【ポケポケ】リセマラ当たりランキング【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/462529",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-07T12:30:06.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/462529.png?date=1729330602",
+  "categories": [
+   "reveal"
+  ],
+  "series": [
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
