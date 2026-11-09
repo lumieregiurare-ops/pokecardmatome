@@ -94,6 +94,25 @@
   "isPR": false
  },
  {
+  "id": "014c71cba59f",
+  "title": "【ポケポケ】デュアルフュージョンエンブレムイベントの攻略【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/587011",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-08T13:56:06.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587011.jpg?date=1793946411",
+  "categories": [
+   "event",
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "dffa414ee5a2",
   "title": "【ポケカ】2026年の新弾発売スケジュールまとめ | スニーカーダンク",
   "url": "https://snkrdunk.com/articles/15950/",
@@ -298,6 +317,25 @@
   "isPR": false
  },
  {
+  "id": "1758fd84d7ef",
+  "title": "【ポケカ】ルザミーネ(黒)SRの最新相場情報や値段の推移",
+  "url": "https://snkrdunk.com/articles/18231/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-08T09:53:42.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/20230529081242-0.jpeg",
+  "categories": [
+   "market",
+   "reveal"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "259823c2e377",
   "title": "「気仙沼の魅力も発信できれば」地域活性化図りポケモンカードゲーム大会 松本梨香さんライブも〈宮城〉",
   "url": "https://www.fnn.jp/articles/-/1148440",
@@ -326,24 +364,6 @@
   "categories": [
    "market",
    "reveal"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "23ea2f840896",
-  "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【11/8更新】 | スニーカーダンク",
-  "url": "https://snkrdunk.com/articles/33599/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-11-08T08:05:02.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/b82bd0a8-5400-450a-9b78-af65dc6f5e0c.png",
-  "categories": [
-   "lottery"
   ],
   "series": [
    "tcg"
@@ -406,6 +426,42 @@
   ],
   "stores": [],
   "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "b0a4e371567b",
+  "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【11/9更新】 | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/33599/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-08T05:04:31.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/b82bd0a8-5400-450a-9b78-af65dc6f5e0c.png",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "23ea2f840896",
+  "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【11/8更新】 | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/33599/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-08T02:01:46.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/b82bd0a8-5400-450a-9b78-af65dc6f5e0c.png",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
   "isPR": false
  },
  {
@@ -545,25 +601,6 @@
   "publishedAt": "2026-11-07T17:41:03.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585949.png?date=1793263680",
   "categories": [
-   "deck"
-  ],
-  "series": [
-   "pocket"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "014c71cba59f",
-  "title": "【ポケポケ】デュアルフュージョンエンブレムイベントの攻略【ポケモンカードアプリ】",
-  "url": "https://gamewith.jp/pokemon-tcg-pocket/587011",
-  "source": "GameWith",
-  "summary": "",
-  "publishedAt": "2026-11-07T17:04:39.000Z",
-  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587011.jpg?date=1793946411",
-  "categories": [
-   "event",
    "deck"
   ],
   "series": [

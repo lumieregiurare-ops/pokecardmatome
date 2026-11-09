@@ -1,5 +1,61 @@
 [
  {
+  "id": "dffa414ee5a2",
+  "title": "【ポケカ】2026年の新弾発売スケジュールまとめ | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/15950/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-09T04:08:19.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/20251222061410-0.jpeg",
+  "categories": [
+   "release"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "ccabeed8fafd",
+  "title": "【ポケカ】ポケモンカード151の当たりランキング/買取相場/封入率/予約抽選/値段まとめ | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/16466/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-09T03:43:12.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/aead94d8-945e-4e30-8efa-0eebe321a959.png",
+  "categories": [
+   "market",
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "7ce29a27e667",
+  "title": "【ポケカ】MEGAドリームexの当たりランキング/買取相場/封入率/レア別相場/値段まとめ",
+  "url": "https://snkrdunk.com/articles/29152/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-09T03:16:44.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/c2310c89-54fd-40da-b337-597a68223479.png",
+  "categories": [
+   "market",
+   "reveal"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "114719810f4b",
   "title": "【ポケカ】30th CELEBRATION(30th セレブレーション)の予約・抽選情報まとめ【9/15更新】 | スニーカーダンク",
   "url": "https://snkrdunk.com/articles/32425/",
@@ -18,19 +74,19 @@
   "isPR": false
  },
  {
-  "id": "ccabeed8fafd",
-  "title": "【ポケカ】ポケモンカード151の当たりランキング/買取相場/封入率/予約抽選/値段まとめ | スニーカーダンク",
-  "url": "https://snkrdunk.com/articles/16466/",
-  "source": "SNKRDUNK",
+  "id": "44f4f43622f8",
+  "title": "【ポケポケ】ハイクラスパックMEGA(メガ)の収録カードと当たりカード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/578648",
+  "source": "GameWith",
   "summary": "",
-  "publishedAt": "2026-11-08T19:28:14.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/aead94d8-945e-4e30-8efa-0eebe321a959.png",
+  "publishedAt": "2026-11-08T19:55:07.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/578648.png?date=1790261909",
   "categories": [
-   "market",
-   "lottery"
+   "reveal",
+   "release"
   ],
   "series": [
-   "tcg"
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
@@ -73,6 +129,43 @@
   "isPR": false
  },
  {
+  "id": "4e36acf398d9",
+  "title": "【ポケポケ】2周年記念キャンペーンまとめ【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/586175",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-08T17:22:19.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586175.jpg?date=1793344472",
+  "categories": [
+   "promo"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "13d897ffaed4",
+  "title": "【ポケポケ】新パック「デュアルフュージョン」の収録カードと当たりカード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/583349",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-08T16:55:41.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583349.png?date=1792503111",
+  "categories": [
+   "reveal",
+   "release"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "b66f414d563a",
   "title": "【ポケカ】エーフィex SAR仕様の買取・相場価格と値段推移｜30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
   "url": "https://snkrdunk.com/articles/32484/",
@@ -83,25 +176,6 @@
   "categories": [
    "market",
    "release"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "7ce29a27e667",
-  "title": "【ポケカ】MEGAドリームexの当たりランキング/買取相場/封入率/レア別相場/値段まとめ",
-  "url": "https://snkrdunk.com/articles/29152/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-11-08T15:51:09.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/c2310c89-54fd-40da-b337-597a68223479.png",
-  "categories": [
-   "market",
-   "reveal"
   ],
   "series": [
    "tcg"
