@@ -1,5 +1,23 @@
 [
  {
+  "id": "3c3c48fe263e",
+  "title": "【ポケポケ】デュアルフュージョンのガチャシミュレーター【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/586020",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-09T14:34:13.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586020.png?date=1793263361",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "b66f414d563a",
   "title": "【ポケカ】エーフィex SAR仕様の買取・相場価格と値段推移｜30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
   "url": "https://snkrdunk.com/articles/32484/",
@@ -16,6 +34,24 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "5586b5982b5c",
+  "title": "カード詳細（ニャビー） | ポケカ公式",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50804",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-09T14:01:40.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
@@ -49,6 +85,25 @@
   ],
   "series": [
    "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "749319f22179",
+  "title": "【ポケポケ】復刻プロモドロップイベント2026の攻略【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/586200",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-09T13:16:10.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586200.jpg?date=1793356006",
+  "categories": [
+   "event",
+   "promo"
+  ],
+  "series": [
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
@@ -89,6 +144,24 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "c8eea86778ba",
+  "title": "カード詳細（エネルギーリサイクル） | ポケカ公式",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50782",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-09T13:04:51.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
@@ -159,6 +232,60 @@
   ],
   "series": [
    "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "4e622f8b1a0a",
+  "title": "【ポケポケ】メガヘラクロスexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/560534",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-09T11:46:41.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/560534.png?date=1778587271",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "9c5bf50fa91e",
+  "title": "【ポケポケ】メガヘルガーexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/572654",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-09T11:46:41.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/572654.png?date=1786676147",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "9e83b57871d6",
+  "title": "【ポケポケ】ソウブレイズexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/563838",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-09T11:46:41.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/563838.png?date=1781351800",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
@@ -256,6 +383,24 @@
   "isPR": false
  },
  {
+  "id": "ab33ee37f808",
+  "title": "カード詳細（モノズ） | ポケカ公式",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50584",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-09T11:33:00.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "b0a4e371567b",
   "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【11/9更新】 | スニーカーダンク",
   "url": "https://snkrdunk.com/articles/33599/",
@@ -311,6 +456,42 @@
   "isPR": false
  },
  {
+  "id": "218cbf8e96c2",
+  "title": "カード詳細（ミライドン） | ポケカ公式",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50665",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-09T10:38:24.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "a36e1c5cc643",
+  "title": "カード詳細（シャンデラ） | ポケカ公式",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50674",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-09T10:38:22.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "114719810f4b",
   "title": "【ポケカ】30th CELEBRATION(30th セレブレーション)の予約・抽選情報まとめ【9/15更新】 | スニーカーダンク",
   "url": "https://snkrdunk.com/articles/32425/",
@@ -326,6 +507,24 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "2793c2ce915e",
+  "title": "カード詳細（エレズン） | ポケカ公式",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50571",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-09T10:02:36.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
@@ -366,6 +565,24 @@
   "isPR": false
  },
  {
+  "id": "407a234a6a75",
+  "title": "カード詳細（グラードン） | ポケカ公式",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50680",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-09T09:05:52.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "64bd4c09c2e1",
   "title": "カード詳細（ムク） | ポケカ公式",
   "url": "https://www.pokemon-card.com/card-search/details.php/card/50784",
@@ -403,6 +620,42 @@
   "isPR": false
  },
  {
+  "id": "06a1ca280113",
+  "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【11/10更新】 | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/33599/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-09T04:35:09.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/b82bd0a8-5400-450a-9b78-af65dc6f5e0c.png",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "eb9fcf4c8a5f",
+  "title": "【ポケカ】30th CELEBRATION グミ 商品＆カードリスト紹介【30周年】",
+  "url": "https://pokeca-pocket.dbfw-days.com/30th-celebration-gumi/",
+  "source": "ポケカポケット開封日記",
+  "summary": "",
+  "publishedAt": "2026-11-09T03:45:07.000Z",
+  "image": "https://pokeca-pocket.dbfw-days.com/wp-content/uploads/2026/10/IMG_0914.jpeg",
+  "categories": [
+   "reveal"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "7ce29a27e667",
   "title": "【ポケカ】MEGAドリームexの当たりランキング/買取相場/封入率/レア別相場/値段まとめ",
   "url": "https://snkrdunk.com/articles/29152/",
@@ -419,6 +672,24 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "03bbc6643cd5",
+  "title": "カード詳細（ハルジオ） | ポケカ公式",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50783",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-09T01:04:30.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
