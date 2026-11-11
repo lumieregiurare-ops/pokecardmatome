@@ -1,5 +1,24 @@
 [
  {
+  "id": "966544ed0184",
+  "title": "【ポケカ】ミュウex URの買取価格と最新相場と値段推移｜ポケモンカード151",
+  "url": "https://snkrdunk.com/articles/18649/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-10T13:50:29.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/e738c02f-9252-439f-93fa-f69baca82459.png",
+  "categories": [
+   "market",
+   "reveal"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "bc627621f846",
   "title": "【ポケポケ】「デュアルフュージョン」はどっちがおすすめ？【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/585949",
@@ -256,6 +275,24 @@
   "isPR": false
  },
  {
+  "id": "ee0155884643",
+  "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【11/11更新】 | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/33599/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-10T05:55:31.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/b82bd0a8-5400-450a-9b78-af65dc6f5e0c.png",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "0b0fd9443a44",
   "title": "カード詳細（ワニノコ） | ポケカ公式",
   "url": "https://www.pokemon-card.com/card-search/details.php/card/50790",
@@ -314,12 +351,12 @@
  },
  {
   "id": "f2aea87cd61e",
-  "title": "静岡PARCOに「ポケモンカードストア」初登場！11月13日オープン 無料のカード教室も開催",
-  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMklua1ZxOF9hYm1oZEFERXdqbm9vazlFa3h3eS05ODdvb09wTXNHcktTS3B2bVprdFg4NXVlVnZzODIwTDd4NEhjaTdSRldYVW1WSVJCTnpNSzNtbjFBTmFPcjl4SFBtaXIzRHluUjBuSmQzU19jRUdGbHFlbm12WlpidnlLRVBjcFZzUNIBjAFBVV95cUxNMklua1ZxOF9hYm1oZEFERXdqbm9vazlFa3h3eS05ODdvb09wTXNHcktTS3B2bVprdFg4NXVlVnZzODIwTDd4NEhjaTdSRldYVW1WSVJCTnpNSzNtbjFBTmFPcjl4SFBtaXIzRHluUjBuSmQzU19jRUdGbHFlbm12WlpidnlLRVBjcFZzUA?oc=5",
-  "source": "ｄメニューニュース",
+  "title": "静岡PARCOに「ポケモンカードストア」初登場！11月13日オープン 無料のカード教室も開催（テレビ静岡NEWS）",
+  "url": "https://news.yahoo.co.jp/articles/52689e6e74897c6ca7a305f930ed36d76b5325fc",
+  "source": "Yahoo!ニュース",
   "summary": "",
-  "publishedAt": "2026-11-10T03:00:00.000Z",
-  "image": "",
+  "publishedAt": "2026-11-10T03:00:02.000Z",
+  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261110-90039799-sut-000-1-view.jpg?exp=10800",
   "categories": [
    "event"
   ],
@@ -542,6 +579,25 @@
   "image": "https://tfi.gamepedia.jp/image/w=1200,h=630,fit=pad,f=webp/puppeteer.gamepedia.jp/gamepedia.jp/pokemon-tcgp/thumbnail/20138/ca53dfd8939688294fc0c6e57dd4e709",
   "categories": [
    "event"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "565fe30bc67c",
+  "title": "【ポケポケ】ゲットチャレンジイベント(ヒトカゲ・ジジーロン)攻略情報|10/18~28【ポケカ ポケット】",
+  "url": "https://gamepedia.jp/pokemon-tcgp/archives/19774",
+  "source": "攻略大百科",
+  "summary": "",
+  "publishedAt": "2026-11-09T18:04:33.000Z",
+  "image": "https://tfi.gamepedia.jp/image/w=1200,h=630,fit=pad,f=webp/puppeteer.gamepedia.jp/gamepedia.jp/pokemon-tcgp/thumbnail/19774/1ba16b1bb0678a5ddc98dbdacfe2bcfc",
+  "categories": [
+   "event",
+   "deck"
   ],
   "series": [
    "pocket"
