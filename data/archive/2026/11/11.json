@@ -1,5 +1,153 @@
 [
  {
+  "id": "57d57a857788",
+  "title": "阪神ドラ6の東京ガス・越川海翔、ポケカほしさに始めた野球",
+  "url": "https://mainichi.jp/articles/20261110/k00/00m/310/242000c",
+  "source": "毎日新聞",
+  "summary": "",
+  "publishedAt": "2026-11-11T00:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "53e965376913",
+  "title": "【26/11】ポケモンカードジム ジムバトル",
+  "url": "https://players.pokemon-card.com/event/detail/1193000/1/14666/20261128/1981013",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-11-10T21:44:47.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "014c71cba59f",
+  "title": "【ポケポケ】デュアルフュージョンエンブレムイベントの攻略【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/587011",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-10T21:06:07.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/587011.jpg?date=1793946411",
+  "categories": [
+   "event",
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "9dce866417ef",
+  "title": "【ポケポケ】復刻プロモゲットチャレンジイベント2026の攻略【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/586189",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-10T20:59:17.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586189.jpg?date=1793350698",
+  "categories": [
+   "event",
+   "promo"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "c3572f07ab43",
+  "title": "【ポケカ30周年】30th CELEBRATION(30th セレブレーション)の当たりランキング/買取相場/封入率/予約抽選/値段まとめ",
+  "url": "https://snkrdunk.com/articles/30971/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-10T20:00:04.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/c7472b76-892e-4d61-877f-679253ce4280.jpeg",
+  "categories": [
+   "market",
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "13d897ffaed4",
+  "title": "【ポケポケ】新パック「デュアルフュージョン」の収録カードと当たりカード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/583349",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-10T19:15:09.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583349.png?date=1792503111",
+  "categories": [
+   "reveal",
+   "release"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "ce54ab3dcd6f",
+  "title": "【ポケカ】ストームエメラルダの収録カードリスト一覧",
+  "url": "https://snkrdunk.com/articles/32582/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-10T19:12:05.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/149c15fe-2b5d-43fd-bff1-8e608ddb6f53.jpeg",
+  "categories": [
+   "reveal"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "dffa414ee5a2",
+  "title": "【ポケカ】2026年の新弾発売スケジュールまとめ | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/15950/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-10T18:32:46.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/20251222061410-0.jpeg",
+  "categories": [
+   "release"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "a5ae38af28ca",
   "title": "【ポケカ】ストームエメラルダの予約・抽選情報まとめ【7/30更新】 | スニーカーダンク",
   "url": "https://snkrdunk.com/articles/32581/",
@@ -27,6 +175,25 @@
   "image": "https://cdn.snkrdunk.com/uploads/media/10e1ca9a-9e21-4991-95ad-50ebdfedf621.jpeg",
   "categories": [
    "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "860fafa9a04e",
+  "title": "メルカリ、ポケモンカード30th CELEBRATIONの未開封品を9月16日から出品禁止 終了日は未定のまま継続",
+  "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNcHl2RUlEdllWZDVKcGFWR1J2eThhcTl0WmFDOUJJRVZSWEd6MWVGeXhFTXN2SzY4YktVYlNqTDY2Tzh4T2M1bHZvdDAwc3hOeVFNYlYzMk9xNEw1eXMyYVhqbDNJUVVlMVhSdXFXTGlGaldxWDAta1M1X0NybTlJcG5GcU12VklVcDZfcnVZSHVJUVlWVDdkd1RiSlF4amVrX0k5dUc0bXZqM3JmclRUMXlFSVhOdDJ0MGNZaXlZUERQbk8xYlRSempoeXF0VHMxcFlIRzJObHNnTWxsSl80OWVlTnQyaklBZTJzYWFfYzJqU1lDX0xDemVkNUdsWjZTSEVXNG4tSVQwZzg2aXlhaWpFZnZwX3ZLVUZpRkM4U1NSRVY3ekhiZHZvWGE5ZVp3NkFFSFpqekFSdWdkV3lIRUY2dw?oc=5",
+  "source": "Mix Vale",
+  "summary": "",
+  "publishedAt": "2026-11-10T17:39:38.000Z",
+  "image": "",
+  "categories": [
+   "market",
+   "caution"
   ],
   "series": [
    "tcg"
@@ -68,6 +235,24 @@
   ],
   "series": [
    "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "e81a9303e1f6",
+  "title": "【ポケポケ】デュアルフュージョンの所持率チェッカー【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/585955",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-10T15:41:07.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585955.png?date=1793253810",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,

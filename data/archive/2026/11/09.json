@@ -146,24 +146,6 @@
   "isPR": false
  },
  {
-  "id": "22218f279261",
-  "title": "【ポケカ】30周年記念ピカチュウをまるごとチェック！買取・相場価格/注目カードまとめ",
-  "url": "https://snkrdunk.com/articles/33255/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-11-09T13:15:06.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/a283fd47-f236-4427-b317-4486e4e559c7.png",
-  "categories": [
-   "market"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "13d897ffaed4",
   "title": "【ポケポケ】新パック「デュアルフュージョン」の収録カードと当たりカード一覧【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/583349",
@@ -229,24 +211,6 @@
   "categories": [
    "market",
    "lottery"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "fac512499116",
-  "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【11/9更新】",
-  "url": "https://snkrdunk.com/articles/33304/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-11-09T12:14:47.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/9e96f1c2-b6a6-4392-882d-c6596faff947.jpeg",
-  "categories": [
-   "restock"
   ],
   "series": [
    "tcg"
@@ -616,6 +580,42 @@
   ],
   "stores": [],
   "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "22218f279261",
+  "title": "【ポケカ】30周年記念ピカチュウをまるごとチェック！買取・相場価格/注目カードまとめ",
+  "url": "https://snkrdunk.com/articles/33255/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-09T08:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/a283fd47-f236-4427-b317-4486e4e559c7.png",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "fac512499116",
+  "title": "【ポケカ】30th CELEBRATIONの再販はいつ？再販入荷情報まとめ【11/9更新】",
+  "url": "https://snkrdunk.com/articles/33304/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-09T08:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/9e96f1c2-b6a6-4392-882d-c6596faff947.jpeg",
+  "categories": [
+   "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
   "isPR": false
  },
  {
