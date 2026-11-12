@@ -312,6 +312,24 @@
   "isPR": false
  },
  {
+  "id": "8ed4b3a423ff",
+  "title": "【ポケカ】ストームエメラルダの再販はいつ？再販入荷情報まとめ【11/10更新】",
+  "url": "https://snkrdunk.com/articles/32892/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-10T08:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/10e1ca9a-9e21-4991-95ad-50ebdfedf621.jpeg",
+  "categories": [
+   "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "0a07d33f5b6e",
   "title": "DeNA、『ポケポケ』の2Q平均MAUは約2100万人、ユーザー消費額の7割弱が海外 ゲーム事業全体では上期は期初業績予想の前提と比べてやや弱含みに",
   "url": "https://gamebiz.jp/news/435330",
@@ -367,6 +385,45 @@
   "isPR": false
  },
  {
+  "id": "4e215f5d4cbf",
+  "title": "ポケカ再販情報｜30周年の追加抽選はいつ？店舗別の応募先と探し方",
+  "url": "https://charagoo.jp/pokemoncard-restock/",
+  "source": "キャラグー",
+  "summary": "",
+  "publishedAt": "2026-11-10T06:38:07.000Z",
+  "image": "",
+  "categories": [
+   "lottery",
+   "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "c9339de978f1",
+  "title": "楽天ブックスのポケカ抽選のやり方｜無効になる条件と結果の確認",
+  "url": "https://charagoo.jp/rakutenbooks-pokeca-lottery/",
+  "source": "キャラグー",
+  "summary": "",
+  "publishedAt": "2026-11-10T06:36:46.000Z",
+  "image": "",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [
+   "rakuten"
+  ],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "9820396494a5",
   "title": "イオンのポケカ抽選方法｜地域別の応募窓口と当選結果の確かめ方",
   "url": "https://charagoo.jp/aeon-pokeca-lottery/",
@@ -382,6 +439,26 @@
   ],
   "stores": [
    "aeon"
+  ],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "219695708e4e",
+  "title": "エディオンのポケカ抽選・予約のやり方｜結果はいつ・どこで分かる？",
+  "url": "https://charagoo.jp/edion-pokemoncard-lottery/",
+  "source": "キャラグー",
+  "summary": "",
+  "publishedAt": "2026-11-10T06:34:04.000Z",
+  "image": "",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [
+   "edion"
   ],
   "isOfficial": false,
   "isPR": false
