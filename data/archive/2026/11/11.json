@@ -295,6 +295,24 @@
   "isPR": false
  },
  {
+  "id": "48d582b8d440",
+  "title": "【ポケポケ】インテレオンデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/559123",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-11T06:39:24.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559123.png?date=1777356037",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "96dede30191d",
   "title": "【ポケポケ】コライドンexデッキのレシピと評価【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/562112",
@@ -459,15 +477,15 @@
  },
  {
   "id": "1dd2c1c613e8",
-  "title": "『ポケカ』メガオーダイル・メガカイリュー・メガゲンガーたち「3種類のデッキ」がセットに！対戦グッズも入った「スペシャルデッキセットMEGA」がアツい",
-  "url": "https://www.inside-games.jp/article/2026/11/11/190736.html",
-  "source": "インサイド",
+  "title": "『ポケカ』メガオーダイル・メガカイリュー・メガゲンガーたち「3種類のデッキ」がセットに！対戦グッズも入った「スペシャルデッキセットMEGA」がアツい（インサイド）",
+  "url": "https://news.yahoo.co.jp/articles/e2a6cd41d364bf0409239d76e5acea00472f9529",
+  "source": "Yahoo!ニュース",
   "summary": "『ポケモンカードゲーム MEGA』の新商品「スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー」が2026年11月13日に発売！",
   "publishedAt": "2026-11-11T04:20:03.000Z",
-  "image": "https://www.inside-games.jp/imgs/rss/1794994.jpg",
+  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261111-00000026-isd-000-1-view.jpg?exp=10800",
   "categories": [
-   "release",
-   "deck"
+   "deck",
+   "goods"
   ],
   "series": [
    "tcg"
