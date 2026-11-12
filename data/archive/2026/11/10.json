@@ -129,6 +129,24 @@
   "isPR": false
  },
  {
+  "id": "56ad3286042e",
+  "title": "置き配のポケモンカードなどを盗んだ疑い、女子中学生逮捕 広島県警 [広島県]",
+  "url": "https://www.asahi.com/sp/articles/photo/AS20261110002815.html",
+  "source": "朝日新聞",
+  "summary": "",
+  "publishedAt": "2026-11-10T10:30:00.000Z",
+  "image": "",
+  "categories": [
+   "caution"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "17408ea346b1",
   "title": "【DeNA FY2026 Q2 決算説明会】ポケポケ反動減で営業利益43.8%減も、持分法投資益835%増で最終利益61%増の370億円——通期最終利益は非開示の異例対応",
   "url": "https://finance.biggo.jp/news/JP_2432.T_2026-11-10",
@@ -226,7 +244,7 @@
   "url": "https://snkrdunk.com/articles/33323/",
   "source": "SNKRDUNK",
   "summary": "",
-  "publishedAt": "2026-11-10T08:27:04.000Z",
+  "publishedAt": "2026-11-10T08:00:00.000Z",
   "image": "https://cdn.snkrdunk.com/uploads/media/93efbc7f-92bd-4d56-bf1b-61150d19a2b2.png",
   "categories": [
    "market"
@@ -248,6 +266,43 @@
   "image": "https://cdn.snkrdunk.com/uploads/media/f8c38fab-0e4e-42ca-85e0-e36f5cbd8121.png",
   "categories": [
    "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "c774ac346a44",
+  "title": "【ポケカ】ハドウシーカーの当たりランキング/買取相場/カードリスト/封入率/予約抽選/値段まとめ【2026年11月27日発売】",
+  "url": "https://snkrdunk.com/articles/31684/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-10T08:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/7f277c58-b2ec-4b03-908c-804cbb735fee.jpeg",
+  "categories": [
+   "reveal",
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "c1a71ecdbf35",
+  "title": "ポケカ世界一 岡山県勢５人が挑む ２８～３０日 米サンフランシスコ",
+  "url": "https://www.sanyonews.jp/article/1973308",
+  "source": "山陽新聞",
+  "summary": "",
+  "publishedAt": "2026-11-10T08:00:00.000Z",
+  "image": "https://static.sanyonews.jp/image/article/size1/6/f/0/b/6f0b817e2dffda5afc3fb13e86f545f5_2.jpg",
+  "categories": [
+   "other"
   ],
   "series": [
    "tcg"
@@ -287,6 +342,64 @@
   ],
   "series": [
    "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "63e7627b9fb6",
+  "title": "ポケカ新弾の発売日一覧｜次のパックはいつ？値段と予約・抽選の方法",
+  "url": "https://charagoo.jp/pokemoncard-newset/",
+  "source": "キャラグー",
+  "summary": "",
+  "publishedAt": "2026-11-10T06:38:28.000Z",
+  "image": "",
+  "categories": [
+   "lottery",
+   "release"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "9820396494a5",
+  "title": "イオンのポケカ抽選方法｜地域別の応募窓口と当選結果の確かめ方",
+  "url": "https://charagoo.jp/aeon-pokeca-lottery/",
+  "source": "キャラグー",
+  "summary": "",
+  "publishedAt": "2026-11-10T06:36:36.000Z",
+  "image": "",
+  "categories": [
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [
+   "aeon"
+  ],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "2030093fe512",
+  "title": "ポケカ30周年の当たりランキング｜1位はミュウRGB、封入率と買取価格",
+  "url": "https://charagoo.jp/pokemoncard-30thanniversary-winning/",
+  "source": "キャラグー",
+  "summary": "",
+  "publishedAt": "2026-11-10T06:33:51.000Z",
+  "image": "",
+  "categories": [
+   "reveal",
+   "market"
+  ],
+  "series": [
+   "tcg"
   ],
   "stores": [],
   "isOfficial": false,
@@ -634,25 +747,6 @@
   "image": "https://cdn.snkrdunk.com/uploads/media/20221206071329-0.jpeg",
   "categories": [
    "lottery"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "c774ac346a44",
-  "title": "【ポケカ】ハドウシーカーの当たりランキング/買取相場/カードリスト/封入率/予約抽選/値段まとめ【2026年11月27日発売】",
-  "url": "https://snkrdunk.com/articles/31684/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-11-09T16:35:31.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/7f277c58-b2ec-4b03-908c-804cbb735fee.jpeg",
-  "categories": [
-   "reveal",
-   "market"
   ],
   "series": [
    "tcg"
