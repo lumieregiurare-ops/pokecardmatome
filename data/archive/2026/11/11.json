@@ -18,6 +18,24 @@
   "isPR": false
  },
  {
+  "id": "53e965376913",
+  "title": "【26/11】ポケモンカードジム ジムバトル",
+  "url": "https://players.pokemon-card.com/event/detail/1186444/1/12223/20261120/2000654",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-11-11T14:17:06.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "c774ac346a44",
   "title": "【ポケカ】ハドウシーカーの当たりランキング/買取相場/カードリスト/封入率/予約抽選/値段まとめ【2026年11月27日発売】",
   "url": "https://snkrdunk.com/articles/31684/",
@@ -277,6 +295,24 @@
   "isPR": false
  },
  {
+  "id": "c1a71ecdbf35",
+  "title": "ポケカ世界一 岡山県勢５人が挑む ２８～３０日 米サンフランシスコ",
+  "url": "https://www.sanyonews.jp/article/1973308",
+  "source": "山陽新聞",
+  "summary": "",
+  "publishedAt": "2026-11-11T08:00:00.000Z",
+  "image": "https://static.sanyonews.jp/image/article/size1/6/f/0/b/6f0b817e2dffda5afc3fb13e86f545f5_2.jpg",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "9c5bf50fa91e",
   "title": "【ポケポケ】メガヘルガーexデッキのレシピと評価【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/572654",
@@ -477,12 +513,12 @@
  },
  {
   "id": "1dd2c1c613e8",
-  "title": "『ポケカ』メガオーダイル・メガカイリュー・メガゲンガーたち「3種類のデッキ」がセットに！対戦グッズも入った「スペシャルデッキセットMEGA」がアツい（インサイド）",
-  "url": "https://news.yahoo.co.jp/articles/e2a6cd41d364bf0409239d76e5acea00472f9529",
+  "title": "『ポケカ』メガオーダイル・メガカイリュー・メガゲンガーたち「3種類のデッキ」がセットに！対戦グッズも入った「スペシャルデッキセットMEGA」がアツい (インサイド)",
+  "url": "https://news.yahoo.co.jp/articles/e2a6cd41d364bf0409239d76e5acea00472f9529/images/000",
   "source": "Yahoo!ニュース",
   "summary": "『ポケモンカードゲーム MEGA』の新商品「スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー」が2026年11月13日に発売！",
   "publishedAt": "2026-11-11T04:20:03.000Z",
-  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261111-00000026-isd-000-1-view.jpg?exp=10800",
+  "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26o2FQ0N6avMnFm96gv3_nP9NMCr5ToYUAf10wMutLB2_w0ytOA1_nKlRMc8w-KF4NQQ28X78JpMG1EGpxuVaX5ihfoW20-czlqTqlzVzOQoz",
   "categories": [
    "deck",
    "goods"
@@ -492,24 +528,6 @@
   ],
   "stores": [],
   "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "53e965376913",
-  "title": "【26/11】ポケモンカードジム ジムバトル",
-  "url": "https://players.pokemon-card.com/event/detail/1190969/1/12223/20261125/2000651",
-  "source": "ポケモンカードゲーム プレイヤーズクラブ",
-  "summary": "",
-  "publishedAt": "2026-11-11T03:40:46.000Z",
-  "image": "",
-  "categories": [
-   "event"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": true,
   "isPR": false
  },
  {
