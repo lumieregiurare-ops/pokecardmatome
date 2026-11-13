@@ -73,6 +73,24 @@
   "isPR": false
  },
  {
+  "id": "b483fb15166f",
+  "title": "ポケポケ（Pokemon Trading Card Game Pocket）",
+  "url": "https://xtrend.nikkei.com/atcl/tre/hitdb/2026/00024/",
+  "source": "日経クロストレンド",
+  "summary": "",
+  "publishedAt": "2026-11-11T12:48:09.000Z",
+  "image": "https://xtrend.nikkei.com/atcl/tre/hitdb/2026/00024/001.jpg",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "a5ae38af28ca",
   "title": "【ポケカ】ストームエメラルダの予約・抽選情報まとめ【7/30更新】 | スニーカーダンク",
   "url": "https://snkrdunk.com/articles/32581/",
@@ -513,12 +531,12 @@
  },
  {
   "id": "1dd2c1c613e8",
-  "title": "『ポケカ』メガオーダイル・メガカイリュー・メガゲンガーたち「3種類のデッキ」がセットに！対戦グッズも入った「スペシャルデッキセットMEGA」がアツい (インサイド)",
-  "url": "https://news.yahoo.co.jp/articles/e2a6cd41d364bf0409239d76e5acea00472f9529/images/000",
+  "title": "『ポケカ』メガオーダイル・メガカイリュー・メガゲンガーたち「3種類のデッキ」がセットに！対戦グッズも入った「スペシャルデッキセットMEGA」がアツい（インサイド）",
+  "url": "https://news.yahoo.co.jp/articles/e2a6cd41d364bf0409239d76e5acea00472f9529",
   "source": "Yahoo!ニュース",
   "summary": "『ポケモンカードゲーム MEGA』の新商品「スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー」が2026年11月13日に発売！",
   "publishedAt": "2026-11-11T04:20:03.000Z",
-  "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26o2FQ0N6avMnFm96gv3_nP9NMCr5ToYUAf10wMutLB2_w0ytOA1_nKlRMc8w-KF4NQQ28X78JpMG1EGpxuVaX5ihfoW20-czlqTqlzVzOQoz",
+  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261111-00000026-isd-000-1-view.jpg?exp=10800",
   "categories": [
    "deck",
    "goods"
@@ -634,24 +652,6 @@
   ],
   "series": [
    "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "b483fb15166f",
-  "title": "ポケポケ（Pokemon Trading Card Game Pocket）",
-  "url": "https://xtrend.nikkei.com/atcl/tre/hitdb/2026/00024/",
-  "source": "日経クロストレンド",
-  "summary": "",
-  "publishedAt": "2026-11-10T22:20:50.000Z",
-  "image": "https://xtrend.nikkei.com/atcl/tre/hitdb/2026/00024/001.jpg",
-  "categories": [
-   "other"
-  ],
-  "series": [
-   "pocket"
   ],
   "stores": [],
   "isOfficial": false,

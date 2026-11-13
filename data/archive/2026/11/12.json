@@ -370,24 +370,6 @@
   "isPR": false
  },
  {
-  "id": "6546dd7bd281",
-  "title": "ポケモンカード欲しさに6歳の娘を深夜に置き去り…米サウスカロライナ州で逮捕された父親の言い訳",
-  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTERqbGRqWTBkU1NrOVBqa2xocDA4MGhqcGFBY1VLamhOY25DQ3lRenMtN0lpMWNBLXp6QkNtbDU3RkIzb19YSDIyRHI5R3Q4TlF6QjUzTndkUTRjX0VJZUxxRGtWM0g3MkJtVW9ibzZmdzVhUDYyenZjVFYxclItODg3Zjd2bTFjM0lfMWZGaGJVZDhPbmdj0gGKAUFVX3lxTFBpV1ppLVhYVTZ3MnRKVHlkTS14eTVpNzNoV3pIZlpqMHAtdElRS2VOb2hFTnhDT0o4Z1VQemxmQkpoQVZwRDJmRENicHJRVGVEb1RDN0ZUSnhVaE95UTlqSVFHcXZiaFh6M1dwa2pkWFZRUXM1WG5TUjNRcXRTUkRKM2hoTFU2cXZZQQ?oc=5",
-  "source": "ｄメニューニュース",
-  "summary": "",
-  "publishedAt": "2026-11-12T07:21:46.000Z",
-  "image": "https://jmqvqzo7.user.webaccel.jp/img/article/000/395/452/6d207b0299298908363b45cfa51f449e20261111115038591.jpg",
-  "categories": [
-   "caution"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "3c257f95af98",
   "title": "ハピネット、9月中間決算は営業益57.6％増の137億円 ポケカやカプセルトイ、ガンプラけん引 ゲームは独占流通＆オリジナル作品で収益改善",
   "url": "https://gamebiz.jp/news/435455",
@@ -415,6 +397,24 @@
   "image": "https://cdn.snkrdunk.com/uploads/media/20250801023015-0.jpeg",
   "categories": [
    "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "6546dd7bd281",
+  "title": "ポケモンカード欲しさに6歳の娘を深夜に置き去り…米サウスカロライナ州で逮捕された父親の言い訳",
+  "url": "https://article.auone.jp/15f17056-c30b-4199-948d-01e27adbcf36",
+  "source": "au Webポータル",
+  "summary": "",
+  "publishedAt": "2026-11-12T06:05:00.000Z",
+  "image": "https://portal.auone.jp/media/thumbnails/2026/11/12/https___news_jp_i_1493493911084646570_w600.webp",
+  "categories": [
+   "caution"
   ],
   "series": [
    "tcg"
