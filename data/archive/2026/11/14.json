@@ -19,6 +19,42 @@
   "isPR": false
  },
  {
+  "id": "3c3c48fe263e",
+  "title": "【ポケポケ】デュアルフュージョンのガチャシミュレーター【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/586020",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-14T14:05:14.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586020.png?date=1793263361",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "674151d6870b",
+  "title": "【ポケポケ】メモリーライト・セレビィのおすすめ組み合わせ【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/516409",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-14T14:04:22.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/516409.png?date=1756455697",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "df31c8624653",
   "title": "【ポケカ】ブラッキーex SAR仕様の買取・相場価格と値段推移｜30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
   "url": "https://snkrdunk.com/articles/32473/",
@@ -160,6 +196,24 @@
   ],
   "series": [
    "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "a33d108db6e5",
+  "title": "【ポケポケ】ステップアップバトル(ひとりでバトル)一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/466359",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-14T11:34:04.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/466359.png?date=1793677663",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
@@ -595,6 +649,24 @@
   "categories": [
    "reveal",
    "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "b483fb15166f",
+  "title": "ポケポケ（Pokemon Trading Card Game Pocket）",
+  "url": "https://xtrend.nikkei.com/atcl/tre/hitdb/2026/00024/",
+  "source": "日経クロストレンド",
+  "summary": "",
+  "publishedAt": "2026-11-13T17:46:58.000Z",
+  "image": "https://xtrend.nikkei.com/atcl/tre/hitdb/2026/00024/001.jpg",
+  "categories": [
+   "other"
   ],
   "series": [
    "pocket"
