@@ -24,11 +24,29 @@
   "url": "https://snkrdunk.com/articles/32473/",
   "source": "SNKRDUNK",
   "summary": "",
-  "publishedAt": "2026-11-14T13:52:44.000Z",
+  "publishedAt": "2026-11-14T13:47:36.000Z",
   "image": "https://cdn.snkrdunk.com/uploads/media/263ddb20-d0d3-494e-b042-4709524c6ce1.jpeg",
   "categories": [
    "market",
    "release"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "79b1d0c4e098",
+  "title": "【ポケカ】MEGAドリームexの再販はいつ？再販入荷情報まとめ【10/8更新】",
+  "url": "https://snkrdunk.com/articles/30701/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-14T13:42:37.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/ea864497-f19a-4147-b116-367120b09575.jpeg",
+  "categories": [
+   "restock"
   ],
   "series": [
    "tcg"
@@ -145,6 +163,42 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "e81a9303e1f6",
+  "title": "【ポケポケ】デュアルフュージョンの所持率チェッカー【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/585955",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-14T11:33:19.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/585955.png?date=1793253810",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "b02bd0c904fe",
+  "title": "カード詳細（ダストダス） | ポケカ公式",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50833",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-14T11:24:23.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
