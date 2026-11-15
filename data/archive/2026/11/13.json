@@ -258,24 +258,6 @@
   "isPR": false
  },
  {
-  "id": "53e965376913",
-  "title": "【26/11】ポケモンカードジム ジムバトル",
-  "url": "https://players.pokemon-card.com/event/detail/1181937/1/19965/20261114/2000318",
-  "source": "ポケモンカードゲーム プレイヤーズクラブ",
-  "summary": "",
-  "publishedAt": "2026-11-13T12:00:30.000Z",
-  "image": "",
-  "categories": [
-   "event"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": true,
-  "isPR": false
- },
- {
   "id": "966544ed0184",
   "title": "【ポケカ】ミュウex URの買取価格と最新相場と値段推移｜ポケモンカード151",
   "url": "https://snkrdunk.com/articles/18649/",
@@ -977,6 +959,24 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "53e965376913",
+  "title": "【26/11】ポケモンカードジム ジムバトル",
+  "url": "https://players.pokemon-card.com/event/detail/1195194/1/14666/20261130/1981001",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-11-12T21:44:33.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
