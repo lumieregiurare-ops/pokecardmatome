@@ -571,13 +571,13 @@
   "isPR": false
  },
  {
-  "id": "c1a71ecdbf35",
-  "title": "ポケカ世界一 岡山県勢５人が挑む ２８～３０日 米サンフランシスコ",
-  "url": "https://www.sanyonews.jp/article/1973308",
-  "source": "山陽新聞",
+  "id": "7b58513074ba",
+  "title": "韓国限定のポケモンカードに海外需要…イーベイで韓国出品者のカード販売が3倍超に",
+  "url": "https://www.afpbb.com/articles/biz/3662333?ctm_campaign",
+  "source": "AFPBB News",
   "summary": "",
-  "publishedAt": "2026-11-13T08:59:25.000Z",
-  "image": "https://static.sanyonews.jp/image/article/size1/6/f/0/b/6f0b817e2dffda5afc3fb13e86f545f5_2.jpg",
+  "publishedAt": "2026-11-13T09:16:51.000Z",
+  "image": "https://afpbb.ismcdn.jp/mwimgs/e/9/1000x/img_e9b8140cc3dc9ea365c6191137803bff90207.jpg",
   "categories": [
    "other"
   ],
@@ -589,13 +589,13 @@
   "isPR": false
  },
  {
-  "id": "7b58513074ba",
-  "title": "韓国限定のポケモンカードに海外需要…イーベイで韓国出品者のカード販売が3倍超に（KOREA WAVE）",
-  "url": "https://news.yahoo.co.jp/articles/f11a4932a73a944ad54a67dd23accb8f58fd38fd",
-  "source": "Yahoo!ニュース",
+  "id": "c1a71ecdbf35",
+  "title": "ポケカ世界一 岡山県勢５人が挑む ２８～３０日 米サンフランシスコ",
+  "url": "https://www.sanyonews.jp/article/1973308",
+  "source": "山陽新聞",
   "summary": "",
-  "publishedAt": "2026-11-13T08:51:16.000Z",
-  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261113-03662333-clc_korea-000-1-view.jpg?exp=10800",
+  "publishedAt": "2026-11-13T08:59:25.000Z",
+  "image": "https://static.sanyonews.jp/image/article/size1/6/f/0/b/6f0b817e2dffda5afc3fb13e86f545f5_2.jpg",
   "categories": [
    "other"
   ],
@@ -791,6 +791,25 @@
   "isPR": false
  },
  {
+  "id": "e75fc8d4640e",
+  "title": "【ポケカ】楽天で抽選販売。ハドウシーカーやスペシャルデッキセットMEGA、30周年パックなど。応募期間は11月18日まで",
+  "url": "https://www.famitsu.com/article/images/202611/93883/930171",
+  "source": "ファミ通",
+  "summary": "",
+  "publishedAt": "2026-11-13T03:41:39.000Z",
+  "image": "https://cimg.kgl-systems.io/camion/files/famitsu/93883/a30e62fddc14c05988b44e7c02788e187.jpg?x=1280",
+  "categories": [
+   "lottery",
+   "deck"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "4320ad38ac72",
   "title": "【ポケモンカードゲーム MEGA 拡張パック ハドウシーカー】抽選予約のご案内 / オタロード本店の店舗ブログ",
   "url": "https://www.c-labo.jp/blog/624409/",
@@ -814,6 +833,27 @@
  {
   "id": "19b7ffe73805",
   "title": "【2026.11.13】抽選販売「ポケモンカードゲームMEGA 拡張パック ストームエメラルダ （再販）」",
+  "url": "https://www.hbst.net/?p",
+  "source": "ホビーステーション",
+  "summary": "",
+  "publishedAt": "2026-11-13T03:01:11.000Z",
+  "image": "",
+  "categories": [
+   "lottery",
+   "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [
+   "cardshop"
+  ],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "8c060fc79a1a",
+  "title": "【2026.11.13】※応募は終了しました抽選販売「ポケモンカードゲームMEGA 拡張パック ストームエメラルダ （再販）」",
   "url": "https://www.hbst.net/?p",
   "source": "ホビーステーション",
   "summary": "",
@@ -915,25 +955,6 @@
   "image": "https://cdn.snkrdunk.com/uploads/media/893ca223-e47e-4dbb-82fa-26c769b2e442.jpeg",
   "categories": [
    "lottery"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "e75fc8d4640e",
-  "title": "【ポケカ】楽天で抽選販売。ハドウシーカーやスペシャルデッキセットMEGA、30周年パックなど。応募期間は11月18日まで",
-  "url": "https://www.famitsu.com/article/202611/93883",
-  "source": "ファミ通",
-  "summary": "",
-  "publishedAt": "2026-11-13T00:00:00.000Z",
-  "image": "https://cimg.kgl-systems.io/camion/files/93883/thumbnail_zyQK.jpg?x=1280",
-  "categories": [
-   "lottery",
-   "deck"
   ],
   "series": [
    "tcg"
