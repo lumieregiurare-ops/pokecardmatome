@@ -259,25 +259,6 @@
   "isPR": false
  },
  {
-  "id": "f6765e1b2125",
-  "title": "【ポケカ】スペシャルデッキセットMEGA「メガオーダイル・メガカイリュー・メガゲンガー」相場情報と収録カード一覧",
-  "url": "https://snkrdunk.com/articles/33739/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-11-15T10:13:08.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/21048faf-9532-4983-b9a1-9ec299c9d948.jpeg",
-  "categories": [
-   "reveal",
-   "market"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "6919f3d8c975",
   "title": "【新デッキ商品】俺なら10枚のプチ改造でガチ改造に勝てるけど？【メガゲンガーex/メガカイリューex】",
   "url": "https://www.youtube.com/watch?v=PnB0LMMHg44",
@@ -293,24 +274,6 @@
   ],
   "stores": [],
   "isOfficial": true,
-  "isPR": false
- },
- {
-  "id": "a54d539d0370",
-  "title": "【ポケカ】ルギア(30th再録)の買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)",
-  "url": "https://snkrdunk.com/articles/33331/",
-  "source": "SNKRDUNK",
-  "summary": "",
-  "publishedAt": "2026-11-15T09:42:42.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/ae0dc9c1-0da8-46bf-90cb-413081856201.png",
-  "categories": [
-   "market"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
   "isPR": false
  },
  {
@@ -330,6 +293,43 @@
   "stores": [
    "aeon"
   ],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "f6765e1b2125",
+  "title": "【ポケカ】スペシャルデッキセットMEGA「メガオーダイル・メガカイリュー・メガゲンガー」相場情報と収録カード一覧",
+  "url": "https://snkrdunk.com/articles/33739/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-15T08:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/21048faf-9532-4983-b9a1-9ec299c9d948.jpeg",
+  "categories": [
+   "reveal",
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "a54d539d0370",
+  "title": "【ポケカ】ルギア(30th再録)の買取・相場価格と値段推移｜30th CELEBRATION(30th セレブレーション)",
+  "url": "https://snkrdunk.com/articles/33331/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-15T08:00:00.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/ae0dc9c1-0da8-46bf-90cb-413081856201.png",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
   "isOfficial": false,
   "isPR": false
  },
@@ -516,6 +516,24 @@
   "isPR": false
  },
  {
+  "id": "c140a1631e7d",
+  "title": "カード詳細（カマスジョー） | ポケカ公式",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50819",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-15T02:11:59.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "b49b22f1a9e3",
   "title": "カード詳細（メガカイリューex） | ポケカ公式",
   "url": "https://www.pokemon-card.com/card-search/details.php/card/50839",
@@ -588,6 +606,24 @@
   "isPR": false
  },
  {
+  "id": "f0ba684a64f9",
+  "title": "カード詳細（パルスワン） | ポケカ公式",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50824",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-15T01:36:14.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "f8d3eb65a52c",
   "title": "カード詳細（ハクリュー） | ポケカ公式",
   "url": "https://www.pokemon-card.com/card-search/details.php/card/50838",
@@ -597,6 +633,24 @@
   "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
   "categories": [
    "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "ca2fe210e0c6",
+  "title": "シティリーグ2027 シーズン1 シニアリーグ",
+  "url": "https://players.pokemon-card.com/event/detail/1115481/result",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-11-15T01:30:00.000Z",
+  "image": "",
+  "categories": [
+   "event"
   ],
   "series": [
    "tcg"
@@ -678,27 +732,9 @@
   "isPR": false
  },
  {
-  "id": "ca2fe210e0c6",
-  "title": "シティリーグ2027 シーズン1 シニアリーグ",
-  "url": "https://players.pokemon-card.com/event/detail/1115479/result",
-  "source": "ポケモンカードゲーム プレイヤーズクラブ",
-  "summary": "",
-  "publishedAt": "2026-11-15T01:00:00.000Z",
-  "image": "",
-  "categories": [
-   "event"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": true,
-  "isPR": false
- },
- {
   "id": "83b07b71a705",
   "title": "シティリーグ2027 シーズン1 オープンリーグ",
-  "url": "https://players.pokemon-card.com/event/detail/1115451/result",
+  "url": "https://players.pokemon-card.com/event/detail/1115450/result",
   "source": "ポケモンカードゲーム プレイヤーズクラブ",
   "summary": "",
   "publishedAt": "2026-11-15T01:00:00.000Z",

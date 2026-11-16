@@ -493,6 +493,24 @@
   "isPR": false
  },
  {
+  "id": "567e6a821a4f",
+  "title": "カード詳細（エモンガ） | ポケカ公式",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50822",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-13T23:40:32.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "3f7bbe6f082d",
   "title": "ポケカ30周年抽選調査、新規登録3個以上が72.5%で片道50km以上の移動も",
   "url": "https://news.dellows.jp/317019/",
@@ -511,12 +529,48 @@
   "isPR": false
  },
  {
+  "id": "9f6aa55505cb",
+  "title": "カード詳細（ゴース） | ポケカ公式",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50825",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-13T23:00:36.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "92efc669f8f6",
   "title": "カード詳細（ワンパチ） | ポケカ公式",
   "url": "https://www.pokemon-card.com/card-search/details.php/card/50823",
   "source": "ポケモンカードゲーム トレーナーズウェブサイト",
   "summary": "",
   "publishedAt": "2026-11-13T22:55:33.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "3e9af5a739cc",
+  "title": "カード詳細（サシカマス） | ポケカ公式",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50818",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-13T22:55:21.000Z",
   "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
   "categories": [
    "other"
