@@ -131,7 +131,7 @@
       "key": "ホワイトフレア",
       "slug": "ppxrbxs",
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-11-01"
+      "lastSeen": "2026-11-17"
     },
     {
       "name": "ポケモンカード151",
@@ -285,6 +285,13 @@
       "key": "rulersofkunark",
       "slug": "rulers-of-kunark",
       "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-17"
+    },
+    {
+      "name": "PRIDE FC",
+      "key": "pridefc",
+      "slug": "pride-fc",
+      "firstSeen": "2026-11-17",
       "lastSeen": "2026-11-17"
     }
   ]

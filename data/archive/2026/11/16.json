@@ -56,6 +56,24 @@
   "isPR": false
  },
  {
+  "id": "899a9fc2dced",
+  "title": "デッキを表示 | ポケカ公式 デッキコード=UEMRMy-9h17mU-yyyMRy",
+  "url": "https://www.pokemon-card.com/deck/confirm.html/deckID/UEMRMy-9h17mU-yyyMRy/",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-16T13:45:01.000Z",
+  "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/UEMRMy-9h17mU-yyyMRy.png?v=1998061658402",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "5c78c390a3a7",
   "title": "【ポケカ】ストームエメラルダの再販はいつ？再販入荷情報まとめ【11/15更新】",
   "url": "https://snkrdunk.com/articles/32892/",
@@ -408,17 +426,14 @@
   "source": "インサイド",
   "summary": "ポケモン30周年記念グッズがTokyo Otaku Modeで発売中。カードホルダー、デッキケース、デッキシールド、ロングカードボックスなど手頃価格。",
   "publishedAt": "2026-11-16T07:15:02.000Z",
-  "image": "https://www.inside-games.jp/imgs/rss/1803335.jpg",
+  "image": "https://www.inside-games.jp/imgs/ogp_f/1803335.webp",
   "categories": [
-   "goods",
-   "release"
+   "goods"
   ],
   "series": [
    "tcg"
   ],
-  "stores": [
-   "cardshop"
-  ],
+  "stores": [],
   "isOfficial": false,
   "isPR": false
  },
@@ -472,6 +487,24 @@
   ],
   "series": [
    "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "b483fb15166f",
+  "title": "ポケポケ（Pokemon Trading Card Game Pocket）",
+  "url": "https://xtrend.nikkei.com/atcl/tre/hitdb/2026/00024/",
+  "source": "日経クロストレンド",
+  "summary": "",
+  "publishedAt": "2026-11-16T05:28:30.000Z",
+  "image": "https://xtrend.nikkei.com/atcl/tre/hitdb/2026/00024/001.jpg",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
@@ -607,7 +640,7 @@
  {
   "id": "01129810f5e8",
   "title": "カード詳細（オーガポン いどのめん） | ポケカ公式",
-  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RN3dZUEFGUzN4eVkxTW5lU21OLTBHNWgxNEU2ejFyUE5fa3k5aWhvdFF4ZlBudEtmdC1kWVIyOS1IZzBLSTdoZk1xSVlmeHVWM093UURVN3l0SmVwQjFtMDUwQW1kTWxaQUNfVFZxbng?oc=5",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50821",
   "source": "ポケモンカードゲーム トレーナーズウェブサイト",
   "summary": "",
   "publishedAt": "2026-11-15T22:05:40.000Z",
