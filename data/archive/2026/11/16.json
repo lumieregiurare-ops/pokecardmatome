@@ -56,6 +56,24 @@
   "isPR": false
  },
  {
+  "id": "b483fb15166f",
+  "title": "ポケポケ（Pokemon Trading Card Game Pocket）",
+  "url": "https://xtrend.nikkei.com/atcl/tre/hitdb/2026/00024/",
+  "source": "日経クロストレンド",
+  "summary": "",
+  "publishedAt": "2026-11-16T14:09:52.000Z",
+  "image": "https://xtrend.nikkei.com/atcl/tre/hitdb/2026/00024/001.jpg",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "899a9fc2dced",
   "title": "デッキを表示 | ポケカ公式 デッキコード=UEMRMy-9h17mU-yyyMRy",
   "url": "https://www.pokemon-card.com/deck/confirm.html/deckID/UEMRMy-9h17mU-yyyMRy/",
@@ -505,24 +523,6 @@
   ],
   "series": [
    "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "b483fb15166f",
-  "title": "ポケポケ（Pokemon Trading Card Game Pocket）",
-  "url": "https://xtrend.nikkei.com/atcl/tre/hitdb/2026/00024/",
-  "source": "日経クロストレンド",
-  "summary": "",
-  "publishedAt": "2026-11-16T05:28:30.000Z",
-  "image": "https://xtrend.nikkei.com/atcl/tre/hitdb/2026/00024/001.jpg",
-  "categories": [
-   "other"
-  ],
-  "series": [
-   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
