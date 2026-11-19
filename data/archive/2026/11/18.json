@@ -665,7 +665,7 @@
  {
   "id": "d15d3c1e3651",
   "title": "画像ページ (9/9) 【ポケカ】楽天の抽選受付は本日（11/18）終了。ハドウシーカー、スペシャルデッキセットMEGA、30周年パック、ストームエメラルダなどが対象",
-  "url": "https://www.famitsu.com/article/images/202611/94106/934147",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uVFU4S09WY0xXTDhtaFRPbUQtRDFvX2xYZmRCWUFfQWt3ZlhJbTUtX0lBcUtSRVBzaEU1OE1rOGlUSmxzS3FhMEdXczZaS1pXUVNTYnY1ckdic1FPQ2JQWVNCNVMtQTFCMEE?oc=5",
   "source": "ファミ通",
   "summary": "",
   "publishedAt": "2026-11-18T06:36:45.000Z",
@@ -809,24 +809,6 @@
   "isPR": false
  },
  {
-  "id": "5ea648738ac1",
-  "title": "トクリュウか ポケモンカード盗み逃走していた男を新たに逮捕 香川（2026年11月17日掲載）｜RNC NEWS NNN",
-  "url": "https://news.ntv.co.jp/n/rnc/category/society/rn33716240490e47d49705adcccb15892e",
-  "source": "日テレNEWS NNN",
-  "summary": "",
-  "publishedAt": "2026-11-18T04:50:00.000Z",
-  "image": "https://image.gallery.play.jp/rnc-news/articles/cac5e68620604643b2e82b5967e18313/d4568cae-f261-4e34-958f-2088d72e6fed.jpg?w=1200",
-  "categories": [
-   "caution"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "780ca96f34b4",
   "title": "【ポケカ】ポケモンカード151の再販はいつ？再販入荷情報まとめ【10/10更新】",
   "url": "https://snkrdunk.com/articles/18862/",
@@ -891,6 +873,24 @@
   "categories": [
    "market",
    "release"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "5ea648738ac1",
+  "title": "トクリュウか ポケモンカード盗み逃走していた男を新たに逮捕 香川（2026年11月17日掲載）｜RNC NEWS NNN",
+  "url": "https://news.ntv.co.jp/n/rnc/category/society/rn33716240490e47d49705adcccb15892e",
+  "source": "日テレNEWS NNN",
+  "summary": "",
+  "publishedAt": "2026-11-18T03:01:00.000Z",
+  "image": "https://image.gallery.play.jp/rnc-news/articles/cac5e68620604643b2e82b5967e18313/d4568cae-f261-4e34-958f-2088d72e6fed.jpg?w=1200",
+  "categories": [
+   "caution"
   ],
   "series": [
    "tcg"
