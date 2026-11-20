@@ -18,6 +18,25 @@
   "isPR": false
  },
  {
+  "id": "879408ecf506",
+  "title": "【ポケポケ】ピカピカ!ピカチュウミッションイベントの一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/583527",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-19T14:06:22.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583527.jpg?date=1792638077",
+  "categories": [
+   "deck",
+   "event"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "df31c8624653",
   "title": "【ポケカ】ブラッキーex SAR仕様の買取・相場価格と値段推移｜30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
   "url": "https://snkrdunk.com/articles/32473/",
@@ -62,6 +81,24 @@
   "summary": "",
   "publishedAt": "2026-11-19T13:16:39.000Z",
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583350.png?date=1793275696",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "ae4709b0349e",
+  "title": "【ポケポケ】メガジュカインexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/559107",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-19T13:11:15.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/559107.png?date=1777351550",
   "categories": [
    "deck"
   ],
@@ -186,11 +223,11 @@
  {
   "id": "b9537ea8bcbc",
   "title": "高額ポケカ2220万円相当盗んだ3人目の容疑者逮捕…営業時間外に入り口壊し、ショーケース割って奪ったか",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oVFNPX2dpNFBjb2MySnI1U1JIcWRXU2EtZkpvNTd4ZHo3Z285eUF3VEpBZ21fUjYta0k2QnA2WEZpZHprbG12bXR5TXYtWlFUMkVtbnAzRjBtNm8xemVYQzZoeGRIcDF6LXBrMEdGdUlzSmVZZXpxUXZxYmxPdUE?oc=5",
+  "url": "https://news.yahoo.co.jp/articles/e93d9371d9b43da56db7632675d94912c2b09156",
   "source": "Yahoo!ニュース",
   "summary": "",
   "publishedAt": "2026-11-19T11:24:10.000Z",
-  "image": "https://s.yimg.jp/images/news-web/versions/20261119-12d796a/all/images/ogp_default.png",
+  "image": "https://s.yimg.jp/images/news-web/versions/20261120-d26cb82/all/images/ogp_default.png",
   "categories": [
    "market",
    "caution"
@@ -665,7 +702,7 @@
  {
   "id": "7efa33e6bdcc",
   "title": "盗んだ原付バイクで移動しカードショップからポケカ10箱盗んだか 埼玉県の18歳の男を逮捕（HOME広島ホームテレビ）",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YOFltUzV2OUJmUi1FMV9mZHRQZDNLSWxKWi0zTXc4d0swZlZhZEoxTElCSXpTNS1UT2hXUTI3Vm1YbTV3a2FISjR6UWNiRV9UZi1UWkM1YzFLMWlNY2NkZXRWX0J4ZmdOdkJyaVJNMnFWbzBKQzVGeTBLRks0Vlk?oc=5",
+  "url": "https://news.yahoo.co.jp/articles/71c68ec76c3e55d1f277ef920789439f15a6334b",
   "source": "Yahoo!ニュース",
   "summary": "",
   "publishedAt": "2026-11-19T00:28:29.000Z",
@@ -680,6 +717,24 @@
    "cardshop"
   ],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "95676cbdfdb3",
+  "title": "デッキ表示デッキを保存 | ポケカ公式",
+  "url": "https://www.pokemon-card.com/deck/result.html/deckID/ng6LLH-oSSXfz-Pgi9LL/",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-19T00:21:11.000Z",
+  "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/ng6LLH-oSSXfz-Pgi9LL.png?v=1998061658402",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
