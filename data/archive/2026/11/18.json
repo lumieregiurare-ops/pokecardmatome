@@ -458,7 +458,7 @@
  {
   "id": "7e3352355780",
   "title": "【ポケカ】オーロラの波紋の当たりランキング/発売日予想/リーク情報/封入率/予約抽選まとめ",
-  "url": "https://snkrdunk.com/articles/33783/",
+  "url": "https://snkrdunk.com/articles/33783",
   "source": "SNKRDUNK",
   "summary": "",
   "publishedAt": "2026-11-18T08:55:47.000Z",
@@ -477,7 +477,7 @@
  {
   "id": "836cfa39f942",
   "title": "【ポケカ】マグマの鼓動の当たりランキング/発売日予想/リーク情報/封入率/予約抽選まとめ",
-  "url": "https://snkrdunk.com/articles/33782",
+  "url": "https://snkrdunk.com/articles/33782/",
   "source": "SNKRDUNK",
   "summary": "",
   "publishedAt": "2026-11-18T08:55:47.000Z",
@@ -519,7 +519,7 @@
   "source": "SHIBUYA TSUTAYA",
   "summary": "",
   "publishedAt": "2026-11-18T08:00:00.000Z",
-  "image": "",
+  "image": "https://shibuyatsutaya.tsite.jp/menu_files/article/000/002/790/article_images/article_resize.バトルイベント [1].png",
   "categories": [
    "event"
   ],
@@ -566,6 +566,26 @@
    "tcg"
   ],
   "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "ba10aad1679b",
+  "title": "ポケモンカードラウンジ【10月開催】ポケモンカードチャンネル10周年記念イベント",
+  "url": "https://shibuyatsutaya.tsite.jp/article/2674.html",
+  "source": "SHIBUYA TSUTAYA",
+  "summary": "",
+  "publishedAt": "2026-11-18T08:00:00.000Z",
+  "image": "https://shibuyatsutaya.tsite.jp/menu_files/article/000/002/674/article_images/article_resize.ポケモンカードチャンネル10周年記念イベント.png",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [
+   "tsutaya"
+  ],
   "isOfficial": false,
   "isPR": false
  },

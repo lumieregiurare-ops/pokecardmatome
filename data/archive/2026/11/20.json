@@ -411,10 +411,9 @@
   "source": "インサイド",
   "summary": "「カードイラストフィギュアコレクション 30th CELEBRATION」が11月27日より抽選発売！ラインナップは“ピカチュウ尽くし”の全13種。",
   "publishedAt": "2026-11-20T08:00:03.000Z",
-  "image": "https://www.inside-games.jp/imgs/rss/1810205.jpg",
+  "image": "https://www.inside-games.jp/imgs/ogp_f/1810205.jpg",
   "categories": [
-   "lottery",
-   "release"
+   "lottery"
   ],
   "series": [
    "tcg"
@@ -481,7 +480,7 @@
   "id": "7d5ca3965275",
   "title": "ピカチュウのカードイラストがフィギュアになって登場！ニュース詳細 | ポケカ公式",
   "url": "https://www.pokemon-card.com/info/005764.html",
-  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "source": "ポケモンカードゲームトレーナーズウェブサイト",
   "summary": "",
   "publishedAt": "2026-11-20T05:17:57.000Z",
   "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
@@ -583,6 +582,24 @@
   ],
   "series": [
    "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "5bd290ca163e",
+  "title": "ポケカ30周年関連4商品の開封意向調査、全商品で「開けない」が過半数に",
+  "url": "https://news.dellows.jp/335354/?from",
+  "source": "Dellows News",
+  "summary": "",
+  "publishedAt": "2026-11-20T03:15:04.000Z",
+  "image": "https://news.dellows.jp/wp-content/uploads/2026/09/335354_1.jpg",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
   ],
   "stores": [],
   "isOfficial": false,
