@@ -717,6 +717,25 @@
   "isPR": false
  },
  {
+  "id": "d15d3c1e3651",
+  "title": "画像ページ (9/9) 【ポケカ】楽天の抽選受付は本日（11/18）終了。ハドウシーカー、スペシャルデッキセットMEGA、30周年パック、ストームエメラルダなどが対象",
+  "url": "https://www.famitsu.com/article/images/202611/94106/934147",
+  "source": "ファミ通",
+  "summary": "",
+  "publishedAt": "2026-11-19T02:50:00.000Z",
+  "image": "https://cimg.kgl-systems.io/camion/files/famitsu/94106/a032b2cc936860b03048302d991c3498f.jpg?x=1280",
+  "categories": [
+   "lottery",
+   "deck"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "e96ad6ec5df4",
   "title": "閉店後のカードショップに侵入…ポケカなど10箱（総額約110万円相当）窃盗か 埼玉県川口市のブラジル国籍男（18）を逮捕 直前に盗んだバイクで移動か 広島（RCC中国放送）",
   "url": "https://news.yahoo.co.jp/articles/1679c136cb0f35e8c14259f29dbbafebdd77498f",
@@ -1021,6 +1040,24 @@
   "source": "TVer",
   "summary": "",
   "publishedAt": "2026-11-18T16:21:40.000Z",
+  "image": "",
+  "categories": [
+   "caution"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "741b9711a6aa",
+  "title": "「ポケモンカード」63点で時価2200万円 香川の店から盗んだ疑い 福岡の男を逮捕",
+  "url": "https://tver.jp/episodes/epz71hukwk",
+  "source": "TVer",
+  "summary": "",
+  "publishedAt": "2026-11-18T16:19:29.000Z",
   "image": "",
   "categories": [
    "caution"
