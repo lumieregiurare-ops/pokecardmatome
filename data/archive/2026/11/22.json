@@ -18,6 +18,25 @@
   "isPR": false
  },
  {
+  "id": "ccabeed8fafd",
+  "title": "【ポケカ】ポケモンカード151の当たりランキング/買取相場/封入率/予約抽選/値段まとめ | スニーカーダンク",
+  "url": "https://snkrdunk.com/articles/16466/",
+  "source": "SNKRDUNK",
+  "summary": "",
+  "publishedAt": "2026-11-22T00:43:01.000Z",
+  "image": "https://cdn.snkrdunk.com/uploads/media/aead94d8-945e-4e30-8efa-0eebe321a959.png",
+  "categories": [
+   "market",
+   "lottery"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "05b09cc76a18",
   "title": "【ポケポケ】ブイブイ!ブイブイミッションイベントのパック内容・ミッション一覧【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/589471",
@@ -28,6 +47,24 @@
   "categories": [
    "deck",
    "event"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "01e6f654bf7f",
+  "title": "【ポケポケ】デデンネexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/565897",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-21T19:35:31.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/565897.png?date=1782796902",
+  "categories": [
+   "deck"
   ],
   "series": [
    "pocket"
@@ -73,19 +110,55 @@
   "isPR": false
  },
  {
-  "id": "ccabeed8fafd",
-  "title": "【ポケカ】ポケモンカード151の当たりランキング/買取相場/封入率/予約抽選/値段まとめ | スニーカーダンク",
-  "url": "https://snkrdunk.com/articles/16466/",
-  "source": "SNKRDUNK",
+  "id": "dc6d1605bf3a",
+  "title": "【ポケポケ】ビークインexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/570623",
+  "source": "GameWith",
   "summary": "",
-  "publishedAt": "2026-11-21T16:59:14.000Z",
-  "image": "https://cdn.snkrdunk.com/uploads/media/aead94d8-945e-4e30-8efa-0eebe321a959.png",
+  "publishedAt": "2026-11-21T18:44:16.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/570623.png?date=1785392810",
   "categories": [
-   "market",
-   "lottery"
+   "deck"
   ],
   "series": [
-   "tcg"
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "64209e90cd0b",
+  "title": "【ポケポケ】メガディアンシーexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/565898",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-21T17:59:17.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/565898.png?date=1782796925",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "13d897ffaed4",
+  "title": "【ポケポケ】新パック「デュアルフュージョン」の収録カードと当たりカード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/583349",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-21T17:27:44.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/583349.png?date=1792503111",
+  "categories": [
+   "reveal",
+   "release"
+  ],
+  "series": [
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,

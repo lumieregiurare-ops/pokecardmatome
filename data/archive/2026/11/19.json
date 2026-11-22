@@ -166,6 +166,24 @@
   "isPR": false
  },
  {
+  "id": "ac7975d0d07b",
+  "title": "【事件】広島市中区でポケモンカードなど盗んだ疑い 埼玉の18歳男逮捕 総額109万円相当",
+  "url": "https://article.auone.jp/07a93f0d-32c3-4132-b7d8-7040cc33fbe8",
+  "source": "au Webポータル",
+  "summary": "",
+  "publishedAt": "2026-11-19T11:42:00.000Z",
+  "image": "https://portal.auone.jp/media/thumbnails/2026/11/19/https___news_jp_i_1495933225885237568_w1280.webp",
+  "categories": [
+   "caution"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "688d07535f0d",
   "title": "【ポケカ】ヒロシマのピカチュウ プロモの買取・相場価格と値段推移｜スペシャルBOX「ヒロシマ」",
   "url": "https://snkrdunk.com/articles/29064/",
@@ -803,24 +821,6 @@
   "image": "https://news.dellows.jp/wp-content/uploads/2026/09/317019_1.jpg",
   "categories": [
    "lottery"
-  ],
-  "series": [
-   "tcg"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
-  "id": "ac7975d0d07b",
-  "title": "【事件】広島市中区でポケモンカードなど盗んだ疑い 埼玉の18歳男逮捕 総額109万円相当（中国新聞デジタル）",
-  "url": "https://news.yahoo.co.jp/articles/7cc0b01f1bb4a345ba8a0fca5f715b98e942a1a6",
-  "source": "Yahoo!ニュース",
-  "summary": "",
-  "publishedAt": "2026-11-18T22:31:45.000Z",
-  "image": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261119-00010001-chugoku-000-1-view.jpg?exp=10800",
-  "categories": [
-   "caution"
   ],
   "series": [
    "tcg"
