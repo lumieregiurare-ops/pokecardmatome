@@ -36,6 +36,24 @@
   "isPR": false
  },
  {
+  "id": "b7c158e5da49",
+  "title": "【ポケポケ】相手ベンチ数依存のワザを持つカード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/574154",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-22T14:51:19.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/574154.png?date=1787821902",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "a5ae38af28ca",
   "title": "【ポケカ】ストームエメラルダの予約・抽選情報まとめ【7/30更新】 | スニーカーダンク",
   "url": "https://snkrdunk.com/articles/32581/",
@@ -51,6 +69,24 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "1a06546d995b",
+  "title": "カード詳細（ヒスイ ゾロア） | ポケカ公式",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50952",
+  "source": "ポケモンカードゲームトレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-22T14:10:09.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
@@ -127,6 +163,24 @@
   "isPR": false
  },
  {
+  "id": "0051ca37f286",
+  "title": "【ポケポケ】メガカイリューexデッキのレシピと評価【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/586071",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-22T12:46:04.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586071.png?date=1793283564",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "0e8dbe8f536d",
   "title": "【ポケポケ】メガレックウザexデッキのレシピと評価【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/570619",
@@ -136,6 +190,25 @@
   "image": "https://img.gamewith.jp/article/thumbnail/rectangle/570619.png?date=1785392718",
   "categories": [
    "deck"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "44f4f43622f8",
+  "title": "【ポケポケ】ハイクラスパックMEGA(メガ)の収録カードと当たりカード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/578648",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-22T11:49:18.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/578648.png?date=1790261909",
+  "categories": [
+   "reveal",
+   "release"
   ],
   "series": [
    "pocket"
