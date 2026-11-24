@@ -19,6 +19,24 @@
   "isPR": false
  },
  {
+  "id": "95676cbdfdb3",
+  "title": "デッキ表示デッキを保存 | ポケカ公式",
+  "url": "https://www.pokemon-card.com/deck/result.html/deckID/nnNLng-uXOy23-gL9gN6/",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-23T14:40:45.000Z",
+  "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/nnNLng-uXOy23-gL9gN6.png?v=1998061658402",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "d19b91ae2dfa",
   "title": "ポケモンセンター ポケカでカジュアルバトル！",
   "url": "https://players.pokemon-card.com/event/detail/1170022/1/10546/20261128/2004823",
@@ -266,6 +284,24 @@
   "categories": [
    "release",
    "reveal"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "6fd3ff5d3bed",
+  "title": "カード詳細（カブルモ） | ポケカ公式",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50864/regu/all",
+  "source": "ポケモンカードゲームトレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-23T07:41:31.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
   ],
   "series": [
    "tcg"
@@ -692,6 +728,24 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "3036ad96d84e",
+  "title": "カード詳細（フリージオ） | ポケカ公式",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50876/regu/all",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-22T19:54:14.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
