@@ -351,11 +351,11 @@
  {
   "id": "95676cbdfdb3",
   "title": "デッキ表示デッキを保存 | ポケカ公式",
-  "url": "https://www.pokemon-card.com/deck/result.html/deckID/MM2RMy-U1f0V3-MyX2ER/",
+  "url": "https://www.pokemon-card.com/deck/result.html/deckID/Qn99LL-P5V1X3-LnLLi9/",
   "source": "ポケモンカードゲーム トレーナーズウェブサイト",
   "summary": "",
-  "publishedAt": "2026-11-22T01:41:51.000Z",
-  "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/MM2RMy-U1f0V3-MyX2ER.png?v=1998061658402",
+  "publishedAt": "2026-11-22T01:41:50.000Z",
+  "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/Qn99LL-P5V1X3-LnLLi9.png?v=1998061658402",
   "categories": [
    "deck"
   ],
@@ -528,6 +528,43 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "ac79d340bf00",
+  "title": "ポケモンカードゲーム教室 in ポケモンカードプレイスポット（当日先着枠分・小学生以下）",
+  "url": "https://players.pokemon-card.com/event/detail/1195609/1/20931/20261123/1993843",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-11-21T17:43:49.000Z",
+  "image": "",
+  "categories": [
+   "lottery",
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "33d7e0325971",
+  "title": "【26/11】ポケどこポケカ部 放課後ポケっす！教室",
+  "url": "https://players.pokemon-card.com/event/detail/1167965/1/11314/20261130/1991282",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-11-21T17:43:48.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {
