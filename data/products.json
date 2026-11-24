@@ -19,7 +19,7 @@
       "key": "megaドリームex",
       "slug": "p1uoszv9",
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-11-23"
+      "lastSeen": "2026-11-24"
     },
     {
       "name": "アビスアイ",
@@ -75,7 +75,7 @@
       "key": "ストームエメラルダ",
       "slug": "pt1yqkt",
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-11-23"
+      "lastSeen": "2026-11-24"
     },
     {
       "name": "スノーハザード",
@@ -96,7 +96,7 @@
       "key": "ナンジャモセット",
       "slug": "p178k4yf",
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-11-21"
+      "lastSeen": "2026-11-24"
     },
     {
       "name": "ハイクラスパックMEGA",
@@ -131,14 +131,14 @@
       "key": "ホワイトフレア",
       "slug": "ppxrbxs",
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-11-23"
+      "lastSeen": "2026-11-24"
     },
     {
       "name": "ポケモンカード151",
       "key": "ポケモンカード151",
       "slug": "p5k1vnz",
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-11-23"
+      "lastSeen": "2026-11-24"
     },
     {
       "name": "ミステリーボックス",
@@ -166,7 +166,7 @@
       "key": "ロケット団の栄光",
       "slug": "pvmy3ta",
       "firstSeen": "2026-10-09",
-      "lastSeen": "2026-11-23"
+      "lastSeen": "2026-11-24"
     },
     {
       "name": "ロストアビス",
@@ -208,7 +208,7 @@
       "key": "ハドウシーカー",
       "slug": "p1ag8j45",
       "firstSeen": "2026-10-14",
-      "lastSeen": "2026-11-23"
+      "lastSeen": "2026-11-24"
     },
     {
       "name": "カードセット 御三家プロモAR",
@@ -222,7 +222,7 @@
       "key": "デュアルフュージョン",
       "slug": "pzh9pu2",
       "firstSeen": "2026-10-20",
-      "lastSeen": "2026-11-23"
+      "lastSeen": "2026-11-24"
     },
     {
       "name": "Beans & Alpacas",
@@ -335,6 +335,13 @@
       "slug": "p1adlggg",
       "firstSeen": "2026-11-20",
       "lastSeen": "2026-11-21"
+    },
+    {
+      "name": "ひかる闇",
+      "key": "ひかる闇",
+      "slug": "pudrfl8",
+      "firstSeen": "2026-11-24",
+      "lastSeen": "2026-11-24"
     }
   ]
 }
