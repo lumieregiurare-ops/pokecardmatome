@@ -37,6 +37,24 @@
   "isPR": false
  },
  {
+  "id": "95676cbdfdb3",
+  "title": "デッキ表示デッキを保存 | ポケカ公式",
+  "url": "https://www.pokemon-card.com/deck/result.html/deckID/MRMyMp-D7z2cq-Xy3p22/",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-24T12:03:41.000Z",
+  "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/MRMyMp-D7z2cq-Xy3p22.png?v=1998061658402",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "64209e90cd0b",
   "title": "【ポケポケ】メガディアンシーexデッキのレシピと評価【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/565898",
@@ -65,6 +83,25 @@
   "categories": [
    "lottery",
    "restock"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "071a1783f896",
+  "title": "画像ページ (8/9) 【ポケカ】楽天の抽選受付は本日（11/18）終了。ハドウシーカー、スペシャルデッキセットMEGA、30周年パック、ストームエメラルダなどが対象",
+  "url": "https://www.famitsu.com/article/images/202611/94106/934149",
+  "source": "ファミ通",
+  "summary": "",
+  "publishedAt": "2026-11-24T11:13:00.000Z",
+  "image": "https://cimg.kgl-systems.io/camion/files/famitsu/94106/afe5df232cafa4c4e0f1a0294418e5660.jpg?x=1280",
+  "categories": [
+   "lottery",
+   "deck"
   ],
   "series": [
    "tcg"
