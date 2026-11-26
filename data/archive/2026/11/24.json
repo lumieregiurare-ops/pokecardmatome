@@ -111,6 +111,43 @@
   "isPR": false
  },
  {
+  "id": "2306deb78ef3",
+  "title": "画像ページ (2/9) 【ポケカ】楽天の抽選受付は本日（11/18）終了。ハドウシーカー、スペシャルデッキセットMEGA、30周年パック、ストームエメラルダなどが対象",
+  "url": "https://www.famitsu.com/article/images/202611/94106/934144",
+  "source": "ファミ通",
+  "summary": "",
+  "publishedAt": "2026-11-24T11:13:00.000Z",
+  "image": "https://cimg.kgl-systems.io/camion/files/famitsu/94106/a156005c5baf40ff51a327f1c34f2975b.jpg?x=1280",
+  "categories": [
+   "lottery",
+   "deck"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "2937a83cbc07",
+  "title": "デッキを表示 | ポケカ公式 デッキコード=XyMMXy-nt5rBr-M2REyy",
+  "url": "https://www.pokemon-card.com/deck/confirm.html/deckID/XyMMXy-nt5rBr-M2REyy",
+  "source": "ポケモンカードゲームトレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-24T11:01:31.000Z",
+  "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/XyMMXy-nt5rBr-M2REyy.png?v=1998061658402",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "e76f328e0c32",
   "title": "【ポケカ】 「ナンジャモセット(ジムセット)」の当たりカード/収録カード一覧",
   "url": "https://snkrdunk.com/articles/16547/",
