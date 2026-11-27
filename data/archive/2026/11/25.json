@@ -190,7 +190,7 @@
   "id": "95676cbdfdb3",
   "title": "デッキ表示デッキを保存 | ポケカ公式",
   "url": "https://www.pokemon-card.com/deck/result.html/deckID/XRMMyE-bdYASY-y22ypp/",
-  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "source": "ポケモンカードゲームトレーナーズウェブサイト",
   "summary": "",
   "publishedAt": "2026-11-25T12:04:16.000Z",
   "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/XRMMyE-bdYASY-y22ypp.png?v=1998061658402",
@@ -568,6 +568,60 @@
   ],
   "stores": [],
   "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "1838cc301246",
+  "title": "カード詳細（いちげきウーラオス） | ポケカ公式",
+  "url": "https://www.pokemon-card.com/card-search/details.php/card/50904",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-25T06:46:20.000Z",
+  "image": "https://www.pokemon-card.com/assets/images/og.png?v=1998061658402",
+  "categories": [
+   "other"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "4e36acf398d9",
+  "title": "【ポケポケ】2周年記念キャンペーンまとめ【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/586175",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-25T06:45:34.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/586175.jpg?date=1793344472",
+  "categories": [
+   "promo"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "53e965376913",
+  "title": "【26/11】ポケモンカードジム ジムバトル",
+  "url": "https://players.pokemon-card.com/event/detail/1190712/1/12175/20261125/1988419",
+  "source": "ポケモンカードゲーム プレイヤーズクラブ",
+  "summary": "",
+  "publishedAt": "2026-11-25T06:30:00.000Z",
+  "image": "",
+  "categories": [
+   "event"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
   "isPR": false
  },
  {

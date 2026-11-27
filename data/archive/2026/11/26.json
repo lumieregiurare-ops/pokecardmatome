@@ -55,6 +55,24 @@
   "isPR": false
  },
  {
+  "id": "8daa020ffb10",
+  "title": "デッキを表示 | ポケカ公式 デッキコード=VvkbVd-YZj2RL-Vb5kk5",
+  "url": "https://www.pokemon-card.com/deck/thumbs.html/deckID/VvkbVd-YZj2RL-Vb5kk5/",
+  "source": "ポケモンカードゲーム トレーナーズウェブサイト",
+  "summary": "",
+  "publishedAt": "2026-11-26T13:00:26.000Z",
+  "image": "https://www.pokemon-card.com/deck/deckView.php/deckID/VvkbVd-YZj2RL-Vb5kk5.png?v=1998061658402",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": true,
+  "isPR": false
+ },
+ {
   "id": "116193a7541f",
   "title": "【ポケポケ】デュアルフュージョン限定バトルの攻略とおすすめデッキ【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/588256",
@@ -304,10 +322,9 @@
   "source": "インサイド",
   "summary": "エディオンネットショップにて、「エンタメ福袋 ポケモンカードスペシャルセット」の抽選販売が11月25日～12月20日23時59分まで受付中！",
   "publishedAt": "2026-11-26T10:00:03.000Z",
-  "image": "https://www.inside-games.jp/imgs/rss/1812128.jpg",
+  "image": "https://www.inside-games.jp/imgs/ogp_f/1812128.jpg",
   "categories": [
-   "lottery",
-   "release"
+   "lottery"
   ],
   "series": [
    "tcg"
@@ -467,6 +484,24 @@
   "isPR": false
  },
  {
+  "id": "398dac63512d",
+  "title": "初心者でもPSA10相場＆高騰予想を簡単に把握できる神サイト『ポケカPSA10研究所』紹介",
+  "url": "https://pokeca-pocket.dbfw-days.com/psa10-research-institute/",
+  "source": "ポケカポケット開封日記",
+  "summary": "",
+  "publishedAt": "2026-11-26T08:32:30.000Z",
+  "image": "https://pokeca-pocket.dbfw-days.com/wp-content/uploads/2026/11/IMG_1265.jpeg",
+  "categories": [
+   "market"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "faa06458ebb3",
   "title": "【CL2027 千葉】 ササキ ヒロム選手 VS スズキ カンジ選手 マスターリーグ決勝戦！【ポケカ/ポケモンカード】",
   "url": "https://www.youtube.com/watch?v=qi2VkEAVidM",
@@ -578,12 +613,12 @@
  },
  {
   "id": "007f64efdbe9",
-  "title": "《現地レポ》「転売目的の人たちとは違う」12歳の日本人少年がポケモンカードをオークションに出品→“1枚100万円超”で取引され…国外にも広がるポケモン経済圏の『異常な熱狂』 (文春オンライン)",
-  "url": "https://news.yahoo.co.jp/articles/7a08e81fbd111fcf8e254ed928d5be826bee9127/images/000",
-  "source": "Yahoo!ニュース",
+  "title": "《現地レポ》「転売目的の人たちとは違う」12歳の日本人少年がポケモンカードをオークションに出品→“1枚100万円超”で取引され…国外にも広がるポケモン経済圏の『異常な熱狂』",
+  "url": "https://bunshun.jp/articles/-/93427",
+  "source": "文春オンライン",
   "summary": "",
-  "publishedAt": "2026-11-26T01:12:16.000Z",
-  "image": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y32aKHaE9S6KKOAHNM7AL26ih4x_4ib-uI8wpP1BMiACyFRTkylwjTtKDTcgf-LIR_-2-0C1S54qArOn7-BRkGgguXeDLMfiGYcuTPTV6ppjlB8SizXvhNSZtRIBBnrGVi",
+  "publishedAt": "2026-11-26T01:00:00.000Z",
+  "image": "https://bunshun.jp/mwimgs/d/5/1200wm/img_d5540618f86d007b2e404890993a46f8458762.jpg",
   "categories": [
    "market"
   ],
