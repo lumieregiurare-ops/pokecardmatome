@@ -18,25 +18,6 @@
   "isPR": false
  },
  {
-  "id": "36607667788e",
-  "title": "【ポケポケ】新パックの実装日はいつ？｜新カード情報まとめ【ポケモンカードアプリ】",
-  "url": "https://gamewith.jp/pokemon-tcg-pocket/463560",
-  "source": "GameWith",
-  "summary": "",
-  "publishedAt": "2026-11-26T14:28:41.000Z",
-  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/463560.png?date=1736756219",
-  "categories": [
-   "release",
-   "reveal"
-  ],
-  "series": [
-   "pocket"
-  ],
-  "stores": [],
-  "isOfficial": false,
-  "isPR": false
- },
- {
   "id": "0e8dbe8f536d",
   "title": "【ポケポケ】メガレックウザexデッキのレシピと評価【ポケモンカードアプリ】",
   "url": "https://gamewith.jp/pokemon-tcg-pocket/570619",
@@ -177,6 +158,24 @@
   ],
   "series": [
    "tcg"
+  ],
+  "stores": [],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
+  "id": "188738446f13",
+  "title": "【ポケポケ】いれかえ効果のおすすめカード一覧【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/466693",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-26T11:43:23.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/466693.png?date=1743150294",
+  "categories": [
+   "deck"
+  ],
+  "series": [
+   "pocket"
   ],
   "stores": [],
   "isOfficial": false,
@@ -502,6 +501,26 @@
   "isPR": false
  },
  {
+  "id": "003a62662c2a",
+  "title": "ファミマ、ポケカMEGA新商品「ハドウシーカー」を2026年11月27日10:00から店頭販売。一人あたり10パックまでの購入数制限を設定",
+  "url": "https://convenicheck.com/news/news_famima/141823/",
+  "source": "コンビニ チェッカー",
+  "summary": "",
+  "publishedAt": "2026-11-26T08:02:13.000Z",
+  "image": "https://convenicheck.com/wp-content/uploads/2026/11/famima_pokeca26111-1.webp",
+  "categories": [
+   "release"
+  ],
+  "series": [
+   "tcg"
+  ],
+  "stores": [
+   "familymart"
+  ],
+  "isOfficial": false,
+  "isPR": false
+ },
+ {
   "id": "faa06458ebb3",
   "title": "【CL2027 千葉】 ササキ ヒロム選手 VS スズキ カンジ選手 マスターリーグ決勝戦！【ポケカ/ポケモンカード】",
   "url": "https://www.youtube.com/watch?v=qi2VkEAVidM",
@@ -518,6 +537,25 @@
   ],
   "stores": [],
   "isOfficial": true,
+  "isPR": false
+ },
+ {
+  "id": "36607667788e",
+  "title": "【ポケポケ】新パックの実装日はいつ？｜新カード情報まとめ【ポケモンカードアプリ】",
+  "url": "https://gamewith.jp/pokemon-tcg-pocket/463560",
+  "source": "GameWith",
+  "summary": "",
+  "publishedAt": "2026-11-26T08:00:00.000Z",
+  "image": "https://img.gamewith.jp/article/thumbnail/rectangle/463560.png?date=1736756219",
+  "categories": [
+   "release",
+   "reveal"
+  ],
+  "series": [
+   "pocket"
+  ],
+  "stores": [],
+  "isOfficial": false,
   "isPR": false
  },
  {
